@@ -31,7 +31,7 @@ def refresh(folder=None):
         except (ValueError,OSError,RuntimeError,subprocess.TimeoutExpired) as error:
             failed.append(identity);print(identity+': previous catalog retained: '+str(error),file=sys.stderr)
     if len(failed)==len(FOLLOWED):raise RuntimeError('All channel checks failed; feed left unchanged')
-    payload=dict(schema=1,generatedAt=dt.datetime.now(dt.timezone.utc).isoformat(),series=list(rows.values()))
+    payload=dict(schema=1,generatedAt=dt.datetime.now(dt.timezone.utc).isoformat(),followed=FOLLOWED,series=list(rows.values()))
     tmp=target.with_suffix('.tmp');tmp.write_text(json.dumps(payload,ensure_ascii=False,separators=(',',':')),encoding='utf-8');tmp.replace(target)
     print('Public episode/trailer feed refreshed; no video files downloaded.')
 
