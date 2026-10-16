@@ -1,0 +1,583 @@
+{
+  "tuzlu-kahve": {
+    "title": "Tuzlu Kahve",
+    "channel": "UCVrIsj8UiYCHfauVmlI05IA",
+    "url": "https://www.youtube.com/@tuzlukahvestartv/videos",
+    "official": "https://www.startv.com.tr/dizi/tuzlu-kahve",
+    "season_ends": [],
+    "season_titles": [
+      "1. Sezon (2026–2027)"
+    ],
+    "genres": [
+      "Komedi",
+      "Romantik"
+    ]
+  },
+  "sevdigim-sensin": {
+    "title": "Sevdiğim Sensin",
+    "channel": "UCX8d_tK-HjGDQkAWUADy9sw",
+    "url": "https://www.youtube.com/@sevdigimsensinresmi/videos",
+    "official": "https://www.startv.com.tr/dizi/sevdigim-sensin",
+    "season_ends": [
+      15
+    ],
+    "season_titles": [
+      "1. Sezon (2026)",
+      "2. Sezon (2026–2027)"
+    ],
+    "genres": [
+      "Dram",
+      "Romantik"
+    ]
+  },
+  "kizilcik-serbeti": {
+    "title": "Kızılcık Şerbeti",
+    "channel": "UCRfLDCtkSwmTdwHrbmC78Xg",
+    "url": "https://www.youtube.com/channel/UCRfLDCtkSwmTdwHrbmC78Xg/videos",
+    "official": "https://www.showtv.com.tr/dizi/tanitim/kizilcik-serbeti/2875",
+    "publisher": "show",
+    "season_ends": [
+      29,
+      66,
+      103,
+      138
+    ],
+    "season_titles": [
+      "1. Sezon",
+      "2. Sezon",
+      "3. Sezon",
+      "4. Sezon",
+      "5. Sezon"
+    ],
+    "genres": [
+      "Dram"
+    ],
+    "start_year": 2022,
+    "minimum_seconds": 3600,
+    "trailer_playlist": "PLusr3qjmF4tClH3I8SyqkqboR8CZimMPQ"
+  },
+  "sevdan-bir-ates": {
+    "title": "Sevdan Bir Ateş",
+    "channel": "UCZImCN5KcM17JwnyyoOt74w",
+    "url": "https://www.youtube.com/channel/UCZImCN5KcM17JwnyyoOt74w/videos",
+    "official": "https://www.showtv.com.tr/dizi/tanitim/sevdan-bir-ates/3087",
+    "publisher": "show",
+    "season_ends": [],
+    "season_titles": [
+      "1. Sezon"
+    ],
+    "genres": [
+      "Dram"
+    ],
+    "start_year": 2026,
+    "minimum_seconds": 3600,
+    "trailer_playlist": "PLU_xYyI8oPdY",
+    "aliases": [
+      "SEVDAN BIR ATES"
+    ]
+  },
+  "muhtemel-ask": {
+    "title": "Muhtemel Aşk",
+    "channel": "UCr7HZRKiCB6pga9oG52dHmA",
+    "url": "https://www.youtube.com/channel/UCr7HZRKiCB6pga9oG52dHmA/videos",
+    "official": "https://www.showtv.com.tr/dizi/tanitim/muhtemel-ask/3072",
+    "publisher": "show",
+    "season_ends": [],
+    "season_titles": [
+      "1. Sezon"
+    ],
+    "genres": [
+      "Dram"
+    ],
+    "start_year": 2026,
+    "minimum_seconds": 3600,
+    "trailer_playlist": "PLm22TFlZVoXj9_-OGPYrpPFLyNEgyFgvq"
+  },
+  "anne-yarisi": {
+    "title": "Anne Yarısı",
+    "channel": "UCp3nEM_gpoEY6yhYXPZEIOQ",
+    "url": "https://www.youtube.com/channel/UCp3nEM_gpoEY6yhYXPZEIOQ/videos",
+    "official": "https://www.nowtv.com.tr/Anne-Yarisi/izle",
+    "publisher": "now",
+    "season_ends": [],
+    "season_titles": [
+      "1. Sezon"
+    ],
+    "genres": [
+      "Dram"
+    ],
+    "start_year": 2026,
+    "minimum_seconds": 3600,
+    "trailer_playlist": "PLcPapZPCegB8"
+  },
+  "sevdam-karadeniz": {
+    "title": "Sevdam Karadeniz",
+    "channel": "UC8yAGBJTY1Tb4SAHOInyjmg",
+    "url": "https://www.youtube.com/channel/UC8yAGBJTY1Tb4SAHOInyjmg/videos",
+    "official": "https://www.nowtv.com.tr/Sevdam-Karadeniz/izle",
+    "publisher": "now",
+    "season_ends": [],
+    "season_titles": [
+      "1. Sezon"
+    ],
+    "genres": [
+      "Dram"
+    ],
+    "start_year": 2026,
+    "minimum_seconds": 3600,
+    "trailer_playlist": "PLbI7Ew7H3hLk"
+  },
+  "omur-usta": {
+    "title": "Ömür Usta",
+    "channel": "UCkoOmxdvb53TMs37oqFO68Q",
+    "url": "https://www.youtube.com/channel/UCkoOmxdvb53TMs37oqFO68Q/videos",
+    "official": "https://www.nowtv.com.tr/Omur-Usta/izle",
+    "publisher": "now",
+    "season_ends": [],
+    "season_titles": [
+      "1. Sezon"
+    ],
+    "genres": [
+      "Dram"
+    ],
+    "start_year": 2026,
+    "minimum_seconds": 3600,
+    "trailer_playlist": "PLeYVPXwhlKWE"
+  },
+  "yeralti": {
+    "title": "Yeraltı",
+    "channel": "UC9hZO00do4SZHaJRU-xkyEg",
+    "url": "https://www.youtube.com/channel/UC9hZO00do4SZHaJRU-xkyEg/videos",
+    "official": "https://www.nowtv.com.tr/Yeralti/izle",
+    "publisher": "now",
+    "season_ends": [],
+    "season_titles": [
+      "1. Sezon"
+    ],
+    "genres": [
+      "Dram"
+    ],
+    "start_year": 2026,
+    "minimum_seconds": 3600,
+    "trailer_playlist": "PLBDF2KtTPk8s1TtJWHhK-ktf43gv7N2rE"
+  },
+  "halef": {
+    "title": "Halef: Köklerin Çağrısı",
+    "channel": "UCsVJDy6KueIEQ89-rQ1PF-w",
+    "url": "https://www.youtube.com/channel/UCsVJDy6KueIEQ89-rQ1PF-w/videos",
+    "official": "https://www.nowtv.com.tr/Halef-Koklerin-Cagrisi/izle",
+    "publisher": "now",
+    "season_ends": [
+      35
+    ],
+    "season_titles": [
+      "1. Sezon",
+      "2. Sezon"
+    ],
+    "genres": [
+      "Dram"
+    ],
+    "start_year": 2025,
+    "minimum_seconds": 3600,
+    "trailer_playlist": "PLu1tfYGf4kbQVJ6DfLzHG-PwNwR5ONqK_"
+  },
+  "baskalarinin-hayati": {
+    "title": "Başkalarının Hayatı",
+    "channel": "UCBPji4yBwHYvOmJYyXMfThQ",
+    "url": "https://www.youtube.com/channel/UCBPji4yBwHYvOmJYyXMfThQ/videos",
+    "official": "https://www.startv.com.tr/dizi/baskalarinin-hayati",
+    "publisher": "star",
+    "season_ends": [],
+    "season_titles": [
+      "1. Sezon"
+    ],
+    "genres": [
+      "Dram"
+    ],
+    "start_year": 2026,
+    "minimum_seconds": 3600,
+    "trailer_playlist": "PLEZfcOQbsAFI"
+  },
+  "cirkin": {
+    "title": "Çirkin",
+    "channel": "UC_irRHD_xUVa21y2OvpV-0A",
+    "url": "https://www.youtube.com/channel/UC_irRHD_xUVa21y2OvpV-0A/videos",
+    "official": "https://www.startv.com.tr/dizi/cirkin",
+    "publisher": "star",
+    "season_ends": [],
+    "season_titles": [
+      "1. Sezon"
+    ],
+    "genres": [
+      "Dram"
+    ],
+    "start_year": 2026,
+    "minimum_seconds": 3600,
+    "trailer_playlist": "PLGOfL_DcLH1jGYzjoBkiS1RO1sYpcomu3"
+  },
+  "uzak-sehir": {
+    "title": "Uzak Şehir",
+    "channel": "UCBmIU28lqzGn_7ehXaJuzhA",
+    "url": "https://www.youtube.com/channel/UCBmIU28lqzGn_7ehXaJuzhA/videos",
+    "official": "https://www.kanald.com.tr/uzak-sehir",
+    "publisher": "kanald",
+    "season_ends": [
+      28,
+      63
+    ],
+    "season_titles": [
+      "1. Sezon",
+      "2. Sezon",
+      "3. Sezon"
+    ],
+    "genres": [
+      "Dram"
+    ],
+    "start_year": 2024,
+    "minimum_seconds": 3600,
+    "trailer_playlist": "PL49MEhd9Gx8Fyge_74p6d0teYCCzGOpBD"
+  },
+  "haysiyet": {
+    "title": "Haysiyet",
+    "channel": "UCanW_SEi5cD77JRf4v2w6MA",
+    "url": "https://www.youtube.com/channel/UCanW_SEi5cD77JRf4v2w6MA/videos",
+    "official": "https://www.kanald.com.tr/haysiyet",
+    "publisher": "kanald",
+    "season_ends": [],
+    "season_titles": [
+      "1. Sezon"
+    ],
+    "genres": [
+      "Dram"
+    ],
+    "start_year": 2026,
+    "minimum_seconds": 3600,
+    "trusted_channels": [
+      "UCFoe1tg8MuHjRzmqXtV816A"
+    ],
+    "trailer_playlist": "PLDjjR0VJkJiE"
+  },
+  "guller-ve-gunahlar": {
+    "title": "Güller ve Günahlar",
+    "channel": "UCalPDcmRPlpaaXgNg8csL5w",
+    "url": "https://www.youtube.com/channel/UCalPDcmRPlpaaXgNg8csL5w/videos",
+    "official": "https://www.kanald.com.tr/guller-ve-gunahlar",
+    "publisher": "kanald",
+    "season_ends": [
+      32
+    ],
+    "season_titles": [
+      "1. Sezon",
+      "2. Sezon"
+    ],
+    "genres": [
+      "Dram"
+    ],
+    "start_year": 2025,
+    "minimum_seconds": 3600,
+    "trailer_playlist": "PLi0QNWJFOSxmf3LzusgOmSFtwAx72QDUP"
+  },
+  "daha-17": {
+    "title": "Daha 17",
+    "channel": "UC9qIbva82rrHzSM1kI7Cb6g",
+    "url": "https://www.youtube.com/channel/UC9qIbva82rrHzSM1kI7Cb6g/videos",
+    "official": "https://www.kanald.com.tr/daha-17",
+    "publisher": "kanald",
+    "season_ends": [],
+    "season_titles": [
+      "1. Sezon"
+    ],
+    "genres": [
+      "Dram"
+    ],
+    "start_year": 2026,
+    "minimum_seconds": 3600,
+    "trailer_playlist": "PLZAsUJEKsv8C0PgmqSigFK4rLL8lu2djW"
+  },
+  "esref-ruya": {
+    "title": "Eşref Rüya",
+    "channel": "UCFQ6ddDglWtXpPK3Qmn3k1w",
+    "url": "https://www.youtube.com/channel/UCFQ6ddDglWtXpPK3Qmn3k1w/videos",
+    "official": "https://www.kanald.com.tr/esref-ruya",
+    "publisher": "kanald",
+    "season_ends": [
+      13
+    ],
+    "season_titles": [
+      "1. Sezon",
+      "2. Sezon"
+    ],
+    "genres": [
+      "Dram"
+    ],
+    "start_year": 2025,
+    "minimum_seconds": 3600,
+    "trailer_playlist": "PLTHs3gSp2fJXohRjzO0XxVSeCF4Usaleu"
+  },
+  "alti-ustu-istanbul": {
+    "title": "Altı Üstü İstanbul",
+    "channel": "UCpMth28h0W_ycDlZ5KxABDw",
+    "url": "https://www.youtube.com/channel/UCpMth28h0W_ycDlZ5KxABDw/videos",
+    "official": "https://www.atv.com.tr/alti-ustu-istanbul",
+    "publisher": "atv",
+    "season_ends": [],
+    "season_titles": [
+      "1. Sezon"
+    ],
+    "genres": [
+      "Dram"
+    ],
+    "start_year": 2026,
+    "minimum_seconds": 3600,
+    "trailer_playlist": "PLWopfTHt92FTj_IlfN5-YpvpP1GJallOV"
+  },
+  "abi": {
+    "title": "A.B.İ.",
+    "channel": "UCSifzNCnyapTKmQPYs-SZvA",
+    "url": "https://www.youtube.com/channel/UCSifzNCnyapTKmQPYs-SZvA/videos",
+    "official": "https://www.atv.com.tr/abi",
+    "publisher": "atv",
+    "season_ends": [
+      18
+    ],
+    "season_titles": [
+      "1. Sezon",
+      "2. Sezon"
+    ],
+    "genres": [
+      "Dram"
+    ],
+    "start_year": 2026,
+    "minimum_seconds": 3600,
+    "trailer_playlist": "PL8pI2u3SrDIYkuA3-BEJGbjOOCUMsTXyF"
+  },
+  "ask-ve-taht": {
+    "title": "Aşk ve Taht",
+    "channel": "UCP2b77If-BpdTv9bxC_o8Xg",
+    "url": "https://www.youtube.com/channel/UCP2b77If-BpdTv9bxC_o8Xg/videos",
+    "official": "https://www.atv.com.tr/ask-ve-taht",
+    "publisher": "atv",
+    "season_ends": [],
+    "season_titles": [
+      "1. Sezon"
+    ],
+    "genres": [
+      "Dram"
+    ],
+    "start_year": 2026,
+    "minimum_seconds": 3600,
+    "trailer_playlist": "PLcS5GoOkgnzo"
+  },
+  "gunesin-dogdugu-yer": {
+    "title": "Güneşin Doğduğu Yer",
+    "channel": "UCIwMJS36WnQUyJnC3slgK-g",
+    "url": "https://www.youtube.com/channel/UCIwMJS36WnQUyJnC3slgK-g/videos",
+    "official": "https://www.atv.com.tr/gunesin-dogdugu-yer",
+    "publisher": "atv",
+    "season_ends": [],
+    "season_titles": [
+      "1. Sezon"
+    ],
+    "genres": [
+      "Dram"
+    ],
+    "start_year": 2026,
+    "minimum_seconds": 3600,
+    "trailer_playlist": "PLG9HdO4zSOw0"
+  },
+  "mercan-kosk": {
+    "title": "Mercan Köşk",
+    "channel": "UCpqyj7T8jHNWYzTZtIccxow",
+    "url": "https://www.youtube.com/channel/UCpqyj7T8jHNWYzTZtIccxow/videos",
+    "official": "https://www.atv.com.tr/mercan-kosk",
+    "publisher": "atv",
+    "season_ends": [],
+    "season_titles": [
+      "1. Sezon"
+    ],
+    "genres": [
+      "Dram"
+    ],
+    "start_year": 2026,
+    "minimum_seconds": 3600,
+    "trailer_playlist": "PLsVoZFDGoH_F0qulNuoExKtUpCka0gNqF"
+  },
+  "teskilat": {
+    "title": "Teşkilat",
+    "channel": "UCt8FO3MT1fWD-UI7hnutj8A",
+    "url": "https://www.youtube.com/channel/UCt8FO3MT1fWD-UI7hnutj8A/videos",
+    "official": "https://www.trt1.com.tr/diziler/teskilat",
+    "publisher": "trt",
+    "season_ends": [
+      14,
+      48,
+      79,
+      111,
+      148,
+      184
+    ],
+    "season_titles": [
+      "1. Sezon",
+      "2. Sezon",
+      "3. Sezon",
+      "4. Sezon",
+      "5. Sezon",
+      "6. Sezon",
+      "7. Sezon"
+    ],
+    "genres": [
+      "Dram"
+    ],
+    "start_year": 2021,
+    "minimum_seconds": 3600,
+    "trailer_playlist": "PLgfLZCUs9ydHMOm9mywu_pt1SwJNlaCB1",
+    "current_trailer_only": true
+  },
+  "gonul-dagi": {
+    "title": "Gönül Dağı",
+    "channel": "UC6zAMy6boneCLJzRKiiwzmQ",
+    "url": "https://www.youtube.com/channel/UC6zAMy6boneCLJzRKiiwzmQ/videos",
+    "official": "https://www.trt1.com.tr/diziler/gonul-dagi",
+    "publisher": "trt",
+    "season_ends": [
+      30,
+      65,
+      103,
+      142,
+      182,
+      220
+    ],
+    "season_titles": [
+      "1. Sezon",
+      "2. Sezon",
+      "3. Sezon",
+      "4. Sezon",
+      "5. Sezon",
+      "6. Sezon",
+      "7. Sezon"
+    ],
+    "genres": [
+      "Dram"
+    ],
+    "start_year": 2020,
+    "minimum_seconds": 3600,
+    "trailer_playlist": "PLskt8bvhVjrW5aWOxXptong-sQDyrHStr",
+    "current_trailer_only": true
+  },
+  "mehmed": {
+    "title": "Mehmed: Fetihler Sultanı",
+    "channel": "UC9KLY6Eftv__Ml3EQVbVasA",
+    "url": "https://www.youtube.com/channel/UC9KLY6Eftv__Ml3EQVbVasA/videos",
+    "official": "https://www.trt1.com.tr/diziler/mehmed-fetihler-sultani",
+    "publisher": "trt",
+    "season_ends": [
+      15,
+      49,
+      83
+    ],
+    "season_titles": [
+      "1. Sezon",
+      "2. Sezon",
+      "3. Sezon",
+      "4. Sezon"
+    ],
+    "genres": [
+      "Dram"
+    ],
+    "start_year": 2024,
+    "minimum_seconds": 3600,
+    "trailer_playlist": "PLBCIUmhQ_R1IZU1yzwR5hTn3VLmbJMmBy",
+    "aliases": [
+      "Mehmed: Sultan of Conquests"
+    ],
+    "current_trailer_only": true
+  },
+  "tasacak-bu-deniz": {
+    "title": "Taşacak Bu Deniz",
+    "channel": "UCx7gLo8iS4ofgNfBENUxWDA",
+    "url": "https://www.youtube.com/channel/UCx7gLo8iS4ofgNfBENUxWDA/videos",
+    "official": "https://www.trt1.com.tr/diziler/tasacak-bu-deniz",
+    "publisher": "trt",
+    "season_ends": [
+      31
+    ],
+    "season_titles": [
+      "1. Sezon",
+      "2. Sezon"
+    ],
+    "genres": [
+      "Dram"
+    ],
+    "start_year": 2025,
+    "minimum_seconds": 3600,
+    "trailer_playlist": "PLkowzc1JKWShZfc-kFBKrK2Xrnf9XX1N9",
+    "current_trailer_only": true
+  },
+  "kod-adi-kirlangic": {
+    "title": "Kod Adı Kırlangıç",
+    "channel": "UCluhV4XA-ZYg5BxoCgvphiA",
+    "url": "https://www.youtube.com/channel/UCluhV4XA-ZYg5BxoCgvphiA/videos",
+    "official": "https://www.trt1.com.tr/diziler/kod-adi-kirlangic",
+    "publisher": "trt",
+    "season_ends": [
+      26,
+      55,
+      86
+    ],
+    "season_titles": [
+      "1. Sezon",
+      "2. Sezon",
+      "3. Sezon",
+      "4. Sezon"
+    ],
+    "genres": [
+      "Dram"
+    ],
+    "start_year": 2023,
+    "minimum_seconds": 1200,
+    "trailer_playlist": "PLeQor2ahKWPwN50uKuZZnFbbGhcaq4kbo",
+    "current_trailer_only": true
+  },
+  "evlilik-guzeldir": {
+    "title": "Evlilik Güzeldir",
+    "channel": "UCIBdf7Z62h_jYDNptT0DhUQ",
+    "url": "https://www.youtube.com/channel/UCIBdf7Z62h_jYDNptT0DhUQ/videos",
+    "official": "https://www.trt1.com.tr/diziler/evlilik-guzeldir",
+    "publisher": "trt",
+    "season_ends": [],
+    "season_titles": [
+      "1. Sezon"
+    ],
+    "genres": [
+      "Dram"
+    ],
+    "start_year": 2026,
+    "minimum_seconds": 3600,
+    "trailer_playlist": "PLJWvGUIlmDDU",
+    "aliases": [
+      "Marriage Is Beautiful"
+    ],
+    "current_trailer_only": true
+  },
+  "gassal": {
+    "title": "Gassal",
+    "channel": "UCalAM_EpRfd9LNlp1AvxO2w",
+    "url": "https://www.youtube.com/channel/UCalAM_EpRfd9LNlp1AvxO2w/videos",
+    "official": "https://www.trt1.com.tr/diziler/gassal",
+    "publisher": "trt",
+    "season_ends": [],
+    "season_titles": [
+      "1. Sezon"
+    ],
+    "genres": [
+      "Dram"
+    ],
+    "start_year": 2024,
+    "minimum_seconds": 1800,
+    "full_suffixes": [
+      "Yeni bölümler sadece tabii'de! 💚"
+    ],
+    "restricted_archive": true,
+    "current_trailer_only": true
+  }
+}
