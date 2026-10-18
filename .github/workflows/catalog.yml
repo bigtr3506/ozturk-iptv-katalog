@@ -1,13 +1,19 @@
-name: Hourly public series catalog
+name: Series catalog - every 15 minutes
 on:
+  push:
+    paths:
+      - OzturkIPTV-bulut-katalog.zip
+      - 'tools/**'
+      - 'schedules/**'
+      - .github/workflows/catalog.yml
   workflow_dispatch:
     inputs:
       refresh:
         description: Refresh official sources before publishing
         type: boolean
-        default: false
+        default: true
   schedule:
-    - cron: '17 * * * *'
+    - cron: '7,22,37,52 * * * *'
 permissions:
   contents: write
   pages: write
@@ -18,7 +24,7 @@ concurrency:
 jobs:
   update:
     runs-on: ubuntu-latest
-    timeout-minutes: 20
+    timeout-minutes: 12
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
@@ -48,14 +54,14 @@ jobs:
       - uses: actions/configure-pages@v5
       - name: Refresh official public metadata
         id: refresh
-        if: github.event_name == 'schedule' || inputs.refresh == true
+        if: github.event_name != 'workflow_dispatch' || inputs.refresh == true
         continue-on-error: true
         run: python -m tools.cloud_series_refresh
       - name: Preserve public catalog and updater
         run: |
           git config user.name github-actions[bot]
           git config user.email github-actions[bot]@users.noreply.github.com
-          git add tools schedules public-updates requirements.txt
+          git add tools/*.py schedules/*.json public-updates requirements.txt
           if ! git diff --cached --quiet; then
             git commit -m "Refresh official episode and upcoming trailer catalog"
             git push
