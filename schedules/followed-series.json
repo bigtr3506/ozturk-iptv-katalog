@@ -1355,5 +1355,249 @@
       "https://www.atv.com.tr/adanali/79-bolum/izle",
       "https://es.wikipedia.org/wiki/Adanal%C4%B1"
     ]
+  },
+  "deha": {
+    "title": "Deha",
+    "channel": "UChlfXuxMWSjIRX8Z3gS3NOw",
+    "url": "https://www.youtube.com/channel/UChlfXuxMWSjIRX8Z3gS3NOw/videos",
+    "official": "https://www.showtv.com.tr/dizi/tanitim/deha/2975",
+    "publisher": "show",
+    "start_year": 2024,
+    "minimum_seconds": 3600,
+    "season_ends": [],
+    "season_titles": [
+      "1. Sezon"
+    ],
+    "last_episode": 31,
+    "archive_complete": true,
+    "current_trailer_only": true,
+    "genres": [
+      "Dram"
+    ],
+    "verified_at": "2026-10-20T22:35:27.430599+00:00",
+    "season_sources": [
+      "https://www.showtv.com.tr/dizi/tanitim/deha/2975"
+    ]
+  },
+  "sandik-kokusu": {
+    "title": "Sandık Kokusu",
+    "channel": "UCbfcZal6XtsXRpGVtrXCX4Q",
+    "url": "https://www.youtube.com/channel/UCbfcZal6XtsXRpGVtrXCX4Q/videos",
+    "official": "https://www.showtv.com.tr/dizi/tanitim/sandik-kokusu/2934",
+    "publisher": "show",
+    "start_year": 2023,
+    "minimum_seconds": 3600,
+    "season_ends": [
+      26
+    ],
+    "season_titles": [
+      "1. Sezon",
+      "2. Sezon"
+    ],
+    "last_episode": 50,
+    "archive_complete": true,
+    "current_trailer_only": true,
+    "genres": [
+      "Dram"
+    ],
+    "verified_at": "2026-10-20T22:35:27.443379+00:00",
+    "season_sources": [
+      "https://www.showtv.com.tr/dizi/tanitim/sandik-kokusu/2934",
+      "https://www.youtube.com/watch?v=rdTGKRYuAL4"
+    ]
+  },
+  "gelsin-hayat-bildigi-gibi": {
+    "title": "Gelsin Hayat Bildiği Gibi",
+    "channel": "UCKN4Ol9PRaAnKHfvTORjfAQ",
+    "url": "https://www.youtube.com/channel/UCKN4Ol9PRaAnKHfvTORjfAQ/videos",
+    "official": "https://www.showtv.com.tr/dizi/tanitim/gelsin-hayat-bildigi-gibi/2863",
+    "publisher": "show",
+    "start_year": 2022,
+    "minimum_seconds": 3600,
+    "season_ends": [],
+    "season_titles": [
+      "1. Sezon"
+    ],
+    "last_episode": 41,
+    "archive_complete": true,
+    "current_trailer_only": true,
+    "genres": [
+      "Dram"
+    ],
+    "verified_at": "2026-10-20T22:35:27.452722+00:00",
+    "season_sources": [
+      "https://www.showtv.com.tr/dizi/tanitim/gelsin-hayat-bildigi-gibi/2863"
+    ]
+  },
+  "uc-kurus": {
+    "title": "Üç Kuruş",
+    "channel": "UC-9ki_1Lsef3ZMLiJAHD7eQ",
+    "url": "https://www.youtube.com/channel/UC-9ki_1Lsef3ZMLiJAHD7eQ/videos",
+    "official": "https://www.showtv.com.tr/dizi/tanitim/uc-kurus/2815",
+    "publisher": "show",
+    "start_year": 2021,
+    "minimum_seconds": 3600,
+    "season_ends": [],
+    "season_titles": [
+      "1. Sezon"
+    ],
+    "last_episode": 28,
+    "archive_complete": true,
+    "current_trailer_only": true,
+    "genres": [
+      "Dram"
+    ],
+    "verified_at": "2026-10-20T22:35:27.464279+00:00",
+    "season_sources": [
+      "https://www.showtv.com.tr/dizi/tanitim/uc-kurus/2815"
+    ]
+  },
+  "baba": {
+    "title": "Baba",
+    "channel": "UCvC2QP1hhgjEdpOFcGSTehw",
+    "url": "https://www.youtube.com/channel/UCvC2QP1hhgjEdpOFcGSTehw/videos",
+    "official": "https://www.showtv.com.tr/dizi/tanitim/baba/2829",
+    "publisher": "show",
+    "start_year": 2022,
+    "minimum_seconds": 3600,
+    "season_ends": [
+      15
+    ],
+    "season_titles": [
+      "1. Sezon",
+      "2. Sezon"
+    ],
+    "last_episode": 30,
+    "archive_complete": true,
+    "current_trailer_only": true,
+    "genres": [
+      "Dram"
+    ],
+    "verified_at": "2026-10-20T22:35:27.474148+00:00",
+    "season_sources": [
+      "https://www.showtv.com.tr/dizi/tanitim/baba/2829",
+      "https://www.youtube.com/watch?v=isTt7TBG5Ss"
+    ]
+  },
+  "alev-alev": {
+    "title": "Alev Alev",
+    "channel": "UCAE87ZlHmHWv2ZROSTnGBkg",
+    "url": "https://www.youtube.com/channel/UCAE87ZlHmHWv2ZROSTnGBkg/videos",
+    "official": "https://www.showtv.com.tr/dizi/tanitim/alev-alev/2754",
+    "publisher": "show",
+    "start_year": 2020,
+    "minimum_seconds": 5400,
+    "season_ends": [],
+    "season_titles": [
+      "1. Sezon"
+    ],
+    "last_episode": 28,
+    "archive_complete": true,
+    "current_trailer_only": true,
+    "genres": [
+      "Dram"
+    ],
+    "verified_at": "2026-10-20T22:35:27.480285+00:00",
+    "season_sources": [
+      "https://www.showtv.com.tr/dizi/tanitim/alev-alev/2754"
+    ]
+  },
+  "siyah-kalp": {
+    "title": "Siyah Kalp",
+    "channel": "UC9QoBRcxQPxiJKIqeExZnyw",
+    "url": "https://www.youtube.com/channel/UC9QoBRcxQPxiJKIqeExZnyw/videos",
+    "official": "https://www.showtv.com.tr/dizi/tanitim/siyah-kalp/2974",
+    "publisher": "show",
+    "start_year": 2024,
+    "minimum_seconds": 3600,
+    "season_ends": [],
+    "season_titles": [
+      "1. Sezon"
+    ],
+    "last_episode": 34,
+    "archive_complete": true,
+    "current_trailer_only": true,
+    "genres": [
+      "Dram"
+    ],
+    "verified_at": "2026-10-20T22:35:27.489052+00:00",
+    "season_sources": [
+      "https://www.showtv.com.tr/dizi/tanitim/siyah-kalp/2974"
+    ]
+  },
+  "cam-tavanlar": {
+    "title": "Cam Tavanlar",
+    "channel": "UCvoDBYbHuLQuRibe51yc-sA",
+    "url": "https://www.youtube.com/channel/UCvoDBYbHuLQuRibe51yc-sA/videos",
+    "official": "https://www.showtv.com.tr/dizi/tanitim/cam-tavanlar/2782",
+    "publisher": "show",
+    "start_year": 2021,
+    "minimum_seconds": 3600,
+    "season_ends": [],
+    "season_titles": [
+      "1. Sezon"
+    ],
+    "last_episode": 8,
+    "archive_complete": true,
+    "current_trailer_only": true,
+    "genres": [
+      "Dram"
+    ],
+    "verified_at": "2026-10-20T22:35:27.491563+00:00",
+    "season_sources": [
+      "https://www.showtv.com.tr/dizi/tanitim/cam-tavanlar/2782"
+    ],
+    "aliases": [
+      "Cam Tavanlar Dizisi"
+    ],
+    "full_suffixes": [
+      "4K   Yeni Diziler 2025 #turkishdrama #turkishseries2025"
+    ]
+  },
+  "kalpazan": {
+    "title": "Kalpazan",
+    "channel": "UCq6GxCqyQdOIdV4PyjcCkzg",
+    "url": "https://www.youtube.com/channel/UCq6GxCqyQdOIdV4PyjcCkzg/videos",
+    "official": "https://www.showtv.com.tr/dizi/tanitim/kalpazan/2984",
+    "publisher": "show",
+    "start_year": 2024,
+    "minimum_seconds": 3600,
+    "season_ends": [],
+    "season_titles": [
+      "1. Sezon"
+    ],
+    "last_episode": 8,
+    "archive_complete": true,
+    "current_trailer_only": true,
+    "genres": [
+      "Dram"
+    ],
+    "verified_at": "2026-10-20T22:35:27.493578+00:00",
+    "season_sources": [
+      "https://www.showtv.com.tr/dizi/tanitim/kalpazan/2984"
+    ]
+  },
+  "yalanci": {
+    "title": "Yalancı",
+    "channel": "UCgfjqKS0vAzvhrBDFSzpsrA",
+    "url": "https://www.youtube.com/channel/UCgfjqKS0vAzvhrBDFSzpsrA/videos",
+    "official": "https://www.showtv.com.tr/dizi/tanitim/yalanci/2811",
+    "publisher": "show",
+    "start_year": 2021,
+    "minimum_seconds": 3600,
+    "season_ends": [],
+    "season_titles": [
+      "1. Sezon"
+    ],
+    "last_episode": 10,
+    "archive_complete": true,
+    "current_trailer_only": true,
+    "genres": [
+      "Dram"
+    ],
+    "verified_at": "2026-10-20T22:35:27.499326+00:00",
+    "season_sources": [
+      "https://www.showtv.com.tr/dizi/tanitim/yalanci/2811"
+    ]
   }
 }

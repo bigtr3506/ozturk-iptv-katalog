@@ -1286,6 +1286,206 @@
         1000
       ],
       "backdropSHA256": "ce6148deaab4a876d1052069de566084bb8166a2d08747875ff9d45c8366fc2e"
+    },
+    "deha": {
+      "source": "https://www.showtv.com.tr/dizi/tanitim/deha/2975",
+      "posterSource": "https://mo.ciner.com.tr/showtv/iu/400x400/deha.jpg?v=1787209148",
+      "backdropSource": "https://mo.ciner.com.tr/showtv/iu/300x200/deha.jpg?v=1787209148",
+      "title": "Deha",
+      "provider": "show",
+      "startYear": 2024,
+      "poster": "assets/posters/official/deha-poster.jpg",
+      "posterSize": [
+        400,
+        400
+      ],
+      "posterSHA256": "57aa0bc5f0dbe6cfc0b635ba26ad3af641eb66c266e08d7e45e28479b715b1fe",
+      "backdrop": "assets/posters/official/deha-backdrop.jpg",
+      "backdropSize": [
+        300,
+        200
+      ],
+      "backdropSHA256": "99f40064f038f0786a7401a41854fc998ae9aca4757a445da6851b66e290c70c"
+    },
+    "sandik-kokusu": {
+      "source": "https://www.showtv.com.tr/dizi/tanitim/sandik-kokusu/2934",
+      "posterSource": "https://mo.ciner.com.tr/showtv/iu/400x400/sandik-kokusu.jpg?v=1790152969",
+      "backdropSource": "https://mo.ciner.com.tr/showtv/iu/300x200/sandik-kokusu.jpg?v=1790152969",
+      "title": "Sandık Kokusu",
+      "provider": "show",
+      "startYear": 2023,
+      "poster": "assets/posters/official/sandik-kokusu-poster.jpg",
+      "posterSize": [
+        400,
+        400
+      ],
+      "posterSHA256": "c812a9b40670a396eec44d52f89483645725971bc0450a5b1deda084fbefdb1f",
+      "backdrop": "assets/posters/official/sandik-kokusu-backdrop.jpg",
+      "backdropSize": [
+        300,
+        200
+      ],
+      "backdropSHA256": "93da3a7c0541d74461b9eae8793059a7a03fe22bf66b5d0c5be83665adc1a5d0"
+    },
+    "gelsin-hayat-bildigi-gibi": {
+      "source": "https://www.showtv.com.tr/dizi/tanitim/gelsin-hayat-bildigi-gibi/2863",
+      "posterSource": "https://mo.ciner.com.tr/showtv/iu/400x400/gelsin-hayat-bildigi-gibi.jpg?v=1719842305",
+      "backdropSource": "https://mo.ciner.com.tr/showtv/iu/300x200/gelsin-hayat-bildigi-gibi.jpg?v=1719842305",
+      "title": "Gelsin Hayat Bildiği Gibi",
+      "provider": "show",
+      "startYear": 2022,
+      "poster": "assets/posters/official/gelsin-hayat-bildigi-gibi-poster.jpg",
+      "posterSize": [
+        400,
+        400
+      ],
+      "posterSHA256": "8d3e17dea58f60fac2b9c45688b950dbcfab2bfcc665be985e3a2a0091c7ed54",
+      "backdrop": "assets/posters/official/gelsin-hayat-bildigi-gibi-backdrop.jpg",
+      "backdropSize": [
+        300,
+        200
+      ],
+      "backdropSHA256": "5fb145743af5cf79fdf38c989fabf1f0c716d851d22f52febace13e0d65b4767"
+    },
+    "uc-kurus": {
+      "source": "https://www.showtv.com.tr/dizi/tanitim/uc-kurus/2815",
+      "posterSource": "https://mo.ciner.com.tr/showtv/iu/400x400/uc-kurus.jpg?v=1719842284",
+      "backdropSource": "https://mo.ciner.com.tr/showtv/iu/300x200/uc-kurus.jpg?v=1719842284",
+      "title": "Üç Kuruş",
+      "provider": "show",
+      "startYear": 2021,
+      "poster": "assets/posters/official/uc-kurus-poster.jpg",
+      "posterSize": [
+        400,
+        400
+      ],
+      "posterSHA256": "967cd770c7c624746348a3e5531c3c9b420d21bee6b638f616085ae27c0efb17",
+      "backdrop": "assets/posters/official/uc-kurus-backdrop.jpg",
+      "backdropSize": [
+        300,
+        200
+      ],
+      "backdropSHA256": "a6f9ffddeb027bd86071fb58f7d891004f9398a59294067805789e149e84e798"
+    },
+    "baba": {
+      "source": "https://www.showtv.com.tr/dizi/tanitim/baba/2829",
+      "posterSource": "https://mo.ciner.com.tr/showtv/iu/400x400/baba.jpg?v=1719842231",
+      "backdropSource": "https://mo.ciner.com.tr/showtv/iu/300x200/baba.jpg?v=1719842231",
+      "title": "Baba",
+      "provider": "show",
+      "startYear": 2022,
+      "poster": "assets/posters/official/baba-poster.jpg",
+      "posterSize": [
+        400,
+        400
+      ],
+      "posterSHA256": "41f093a24acf442808487d32a5ab65257f4879979f3753f715c4f29bd112906f",
+      "backdrop": "assets/posters/official/baba-backdrop.jpg",
+      "backdropSize": [
+        300,
+        200
+      ],
+      "backdropSHA256": "a51e0fa51fb812cd9bd5aa5815f289af15e75b2a5ee8f81574fdf3b2622e9495"
+    },
+    "alev-alev": {
+      "source": "https://www.showtv.com.tr/dizi/tanitim/alev-alev/2754",
+      "posterSource": "https://mo.ciner.com.tr/showtv/iu/400x400/alev-alev.jpg?v=1719842272",
+      "backdropSource": "https://mo.ciner.com.tr/showtv/iu/300x200/alev-alev.jpg?v=1719842272",
+      "title": "Alev Alev",
+      "provider": "show",
+      "startYear": 2020,
+      "poster": "assets/posters/official/alev-alev-poster.jpg",
+      "posterSize": [
+        400,
+        400
+      ],
+      "posterSHA256": "d3fad3f68b7c0756b0303b155eb69f0ce5068c1704ae2d6afa3ea18d94edacdd",
+      "backdrop": "assets/posters/official/alev-alev-backdrop.jpg",
+      "backdropSize": [
+        300,
+        200
+      ],
+      "backdropSHA256": "45e3bc99f1f701ddb01d4a1d9ef004ca57589ad312dccd081dff29052ce07352"
+    },
+    "siyah-kalp": {
+      "source": "https://www.showtv.com.tr/dizi/tanitim/siyah-kalp/2974",
+      "posterSource": "https://mo.ciner.com.tr/showtv/iu/400x400/siyah-kalp.jpg?v=1768983235",
+      "backdropSource": "https://mo.ciner.com.tr/showtv/iu/300x200/siyah-kalp.jpg?v=1768983235",
+      "title": "Siyah Kalp",
+      "provider": "show",
+      "startYear": 2024,
+      "poster": "assets/posters/official/siyah-kalp-poster.jpg",
+      "posterSize": [
+        400,
+        400
+      ],
+      "posterSHA256": "180d61a1154228e0ab67c07beb7222a0f110a90ca83080f91726d5f3a3ad988e",
+      "backdrop": "assets/posters/official/siyah-kalp-backdrop.jpg",
+      "backdropSize": [
+        300,
+        200
+      ],
+      "backdropSHA256": "61b3d9e98398bfb164edb4084f50486b8bc6a405a1e896605c3977a9cc779a6a"
+    },
+    "cam-tavanlar": {
+      "source": "https://www.showtv.com.tr/dizi/tanitim/cam-tavanlar/2782",
+      "posterSource": "https://mo.ciner.com.tr/showtv/iu/400x400/cam-tavanlar.jpg?v=1719842072",
+      "backdropSource": "https://mo.ciner.com.tr/showtv/iu/300x200/cam-tavanlar.jpg?v=1719842072",
+      "title": "Cam Tavanlar",
+      "provider": "show",
+      "startYear": 2021,
+      "poster": "assets/posters/official/cam-tavanlar-poster.jpg",
+      "posterSize": [
+        400,
+        400
+      ],
+      "posterSHA256": "854be7f9ef2d5f53d6b6dbc2c3bb2d0c7f5b84108af321e93673e2a002d4c937",
+      "backdrop": "assets/posters/official/cam-tavanlar-backdrop.jpg",
+      "backdropSize": [
+        300,
+        200
+      ],
+      "backdropSHA256": "38e98cebc8a248ede12240cb215715ab47967dcda41abdf1e05dbdd2e3995370"
+    },
+    "kalpazan": {
+      "source": "https://www.showtv.com.tr/dizi/tanitim/kalpazan/2984",
+      "posterSource": "https://mo.ciner.com.tr/showtv/iu/400x400/kalpazan.jpg?v=1790085573",
+      "backdropSource": "https://mo.ciner.com.tr/showtv/iu/300x200/kalpazan.jpg?v=1790085573",
+      "title": "Kalpazan",
+      "provider": "show",
+      "startYear": 2024,
+      "poster": "assets/posters/official/kalpazan-poster.jpg",
+      "posterSize": [
+        400,
+        400
+      ],
+      "posterSHA256": "9de3c9af2d3e3e9f059ce6ea7fb4b1a782d763e09c4eb90528d2130744dfce47",
+      "backdrop": "assets/posters/official/kalpazan-backdrop.jpg",
+      "backdropSize": [
+        300,
+        200
+      ],
+      "backdropSHA256": "2bf0b5e3edff2c195e56f7baeb93b48881c92bbe2b696761b3387c7abf5582a7"
+    },
+    "yalanci": {
+      "source": "https://www.showtv.com.tr/dizi/tanitim/yalanci/2811",
+      "posterSource": "https://mo.ciner.com.tr/showtv/iu/400x400/yalanci.jpg?v=1719842208",
+      "backdropSource": "https://mo.ciner.com.tr/showtv/iu/300x200/yalanci.jpg?v=1719842208",
+      "title": "Yalancı",
+      "provider": "show",
+      "startYear": 2021,
+      "poster": "assets/posters/official/yalanci-poster.jpg",
+      "posterSize": [
+        400,
+        400
+      ],
+      "posterSHA256": "b4cf610834d45dbcdd5573ff20dee7da2a35cc62f2405fa98961af8373e6b0bf",
+      "backdrop": "assets/posters/official/yalanci-backdrop.jpg",
+      "backdropSize": [
+        300,
+        200
+      ],
+      "backdropSHA256": "9c11c90c182daff474e13f37dfc12d6ee1da4486fca697d627b4e2f7d71ced0f"
     }
   }
 }
