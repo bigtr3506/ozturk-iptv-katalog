@@ -23,7 +23,7 @@
   }catch(ignore){}
  });
  window.onYouTubeIframeAPIReady=function(){
-  player=new YT.Player('player',{width:'100%',height:'100%',videoId:id,playerVars:{autoplay:paused?0:1,playsinline:1,controls:live?0:1,disablekb:live?1:0,fs:live?0:1,cc_load_policy:0,origin:location.origin,widget_referrer:location.href.split('#')[0],start:Math.max(0,Number(p.get('start'))||0)},events:{
+  player=new YT.Player('player',{width:'100%',height:'100%',videoId:id,playerVars:{autoplay:paused?0:1,playsinline:1,controls:0,disablekb:1,fs:0,cc_load_policy:0,origin:location.origin,widget_referrer:location.href.split('#')[0],start:Math.max(0,Number(p.get('start'))||0)},events:{
    onReady:function(){ready=true;if(p.get('muted')==='1')player.mute();captions();send('ready');if(!paused)player.playVideo();timer=setInterval(tick,1000);},
    onStateChange:function(e){if(e.data===1)captions();if(live&&e.data===2)player.playVideo();tick();send('state',{value:e.data});},
    onError:function(e){send('error',{value:e.data});},onApiChange:function(){captions();send('api');},onAutoplayBlocked:function(){send('blocked');}
