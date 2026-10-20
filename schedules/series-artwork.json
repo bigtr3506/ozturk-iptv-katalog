@@ -1265,6 +1265,27 @@
         200
       ],
       "backdropSHA256": "41fdd2e273de1cc4fed71b47d1cba7011520fe870f39c1574e7c71429789e793"
+    },
+    "adanali": {
+      "source": "https://www.tvmaze.com/shows/18901/adanali",
+      "title": "Adanalı",
+      "provider": "TVmaze",
+      "publisher": "atv",
+      "startYear": 2008,
+      "posterSource": "https://static.tvmaze.com/uploads/images/original_untouched/65/163108.jpg",
+      "backdropSource": "https://static.tvmaze.com/uploads/images/original_untouched/65/163108.jpg",
+      "poster": "assets/posters/official/adanali-poster.jpg",
+      "posterSize": [
+        680,
+        1000
+      ],
+      "posterSHA256": "ce6148deaab4a876d1052069de566084bb8166a2d08747875ff9d45c8366fc2e",
+      "backdrop": "assets/posters/official/adanali-backdrop.jpg",
+      "backdropSize": [
+        680,
+        1000
+      ],
+      "backdropSHA256": "ce6148deaab4a876d1052069de566084bb8166a2d08747875ff9d45c8366fc2e"
     }
   }
 }
