@@ -4,6 +4,7 @@ import re
 import unicodedata
 from pathlib import Path
 from tools.youtube_metadata import make_series, now
+from tools.series_artwork import apply_artwork
 
 FOLLOWED=json.loads((Path(__file__).resolve().parents[1]/"schedules/followed-series.json").read_text(encoding="utf-8"))
 _fallback_file=Path(__file__).resolve().parents[1]/'schedules/official-episode-fallbacks.json'
@@ -38,7 +39,7 @@ def select(metadata, title, channel, minimum=1800, aliases=None, trusted_channel
         if number<1 or number>1000:continue
         cleaned=re.sub(r'@[\w.]+','',suffix)
         cleaned=re.sub(r'[|()–-]',' ',cleaned).strip()
-        if duration>=minimum and (cleaned in (full_suffixes or []) or re.fullmatch(r'(?:(?:Final|Sezon Finali|Yeni Sezon|\d+\.\s*Sezon|Full HD|Full Bölüm|HD|4K(?: Ultra HD)?)\s*)*',cleaned,re.I)):
+        if duration>=minimum and (cleaned in (full_suffixes or []) or re.fullmatch(r'(?:(?:Final|Sezon Finali|Yeni Sezon|\d+\.\s*Sezon|Full HD|Full Bölüm|HD|4K(?: Ultra HD)?|60\s*FPS|1080p)\s*)*',cleaned,re.I)):
             if number not in full:full[number]={**e,'title':name,'youtube_basligi':e.get('title')}
         elif 0<duration<minimum and re.match(r'^(?:\d+\.\s*)?(?:Tanıtım|Fragman|Trailer|TNT\s*\d)',suffix,re.I):
             part=re.search(r'^(?:(\d+)\.\s*(?:Fragman|Tanıtım)|(?:Fragman|Tanıtım|Trailer|TNT)\w*\s*(\d+))',suffix,re.I)
@@ -55,6 +56,10 @@ def build_followed(identity,metadata,previous=None):
     config=FOLLOWED[identity];title=config['title'];channel=config['channel']
     if previous and not previous.get('yonetim'):previous=None
     entries,trailers=select(metadata,title,channel,config.get('minimum_seconds',3600),config.get('aliases'),config.get('trusted_channels'),config.get('full_suffixes'))
+    # Completed Turkish archives may also contain a longer, renumbered export
+    # edition. Keep only the publisher's verified original broadcast range.
+    if config.get('last_episode'):
+        entries={n:e for n,e in entries.items() if n<=config['last_episode']}
     old={e['no']:e for s in (previous or {}).get('sezonlar',[]) for e in s.get('bolumler',[])}
     if not entries and not old:raise ValueError('No verified full episodes; catalog kept intact')
     if entries:
@@ -80,6 +85,9 @@ def build_followed(identity,metadata,previous=None):
     row.update(resmi_url=config['official'],kaynak_kanal_url=config['url'],
                aciklama=title+' — resmî kanalın tam bölümleri ve sıradaki bölümün tanıtımları.',
                yil_baslangic=config.get('start_year',2026),devam_ediyor=not bool(re.search(r'\bFinal\b',old[latest]['baslik'],re.I) and not re.search(r'Sezon Final',old[latest]['baslik'],re.I)),son_tam_bolum=latest,guncellendi=now(),
-               kontrol_araligi_saniye=3600,turler=config.get('genres',['Dram','Romantik']))
-    return apply_rating(row)
+               kontrol_araligi_saniye=900,turler=config.get('genres',['Dram','Romantik']))
+    if config.get('archive_complete'):
+        row['devam_ediyor']=False
+        row['fragmanlar']=[]
+    return apply_artwork(apply_rating(row))
 
