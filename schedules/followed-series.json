@@ -579,5 +579,749 @@
     ],
     "restricted_archive": true,
     "current_trailer_only": true
+  },
+  "icerde": {
+    "title": "İçerde",
+    "channel": "UC1B1iAhB-jtpJcDwhKc544A",
+    "url": "https://www.youtube.com/channel/UC1B1iAhB-jtpJcDwhKc544A/videos",
+    "official": "https://www.showtv.com.tr/dizi/tanitim/icerde/1681",
+    "publisher": "show",
+    "start_year": 2016,
+    "minimum_seconds": 3600,
+    "season_ends": [],
+    "season_titles": [
+      "1. Sezon"
+    ],
+    "last_episode": 39,
+    "archive_complete": true,
+    "current_trailer_only": true,
+    "genres": [
+      "Dram"
+    ],
+    "verified_at": "2026-10-20T21:53:36.734881+00:00",
+    "season_sources": [
+      "https://www.showtv.com.tr/dizi/tanitim/icerde/1681"
+    ]
+  },
+  "ezel": {
+    "title": "Ezel",
+    "channel": "UC82UK_P4DuDZ42Q0SHcey1w",
+    "url": "https://www.youtube.com/channel/UC82UK_P4DuDZ42Q0SHcey1w/videos",
+    "official": "https://www.atv.com.tr/ezel",
+    "publisher": "atv",
+    "start_year": 2009,
+    "minimum_seconds": 3600,
+    "season_ends": [
+      33
+    ],
+    "season_titles": [
+      "1. Sezon",
+      "2. Sezon"
+    ],
+    "last_episode": 71,
+    "archive_complete": true,
+    "current_trailer_only": true,
+    "genres": [
+      "Dram"
+    ],
+    "verified_at": "2026-10-20T21:53:36.757359+00:00",
+    "season_sources": [
+      "https://www.atv.com.tr/ezel",
+      "https://www.youtube.com/watch?v=kY0VeL_tcz8"
+    ]
+  },
+  "suskunlar": {
+    "title": "Suskunlar",
+    "channel": "UChqohzB1LyK2XUPt69Qw7Mg",
+    "url": "https://www.youtube.com/channel/UChqohzB1LyK2XUPt69Qw7Mg/videos",
+    "official": "https://www.showtv.com.tr/dizi/tanitim/suskunlar/1041",
+    "publisher": "show",
+    "start_year": 2012,
+    "minimum_seconds": 3600,
+    "season_ends": [
+      16
+    ],
+    "season_titles": [
+      "1. Sezon",
+      "2. Sezon"
+    ],
+    "last_episode": 28,
+    "archive_complete": true,
+    "current_trailer_only": true,
+    "genres": [
+      "Dram"
+    ],
+    "verified_at": "2026-10-20T21:53:36.770366+00:00",
+    "season_sources": [
+      "https://www.showtv.com.tr/dizi/tanitim/suskunlar/1041",
+      "https://www.youtube.com/watch?v=ti53T5qBxaw"
+    ]
+  },
+  "ramo": {
+    "title": "Ramo",
+    "channel": "UCch0Z8SPweSALVzS-qFKGzg",
+    "url": "https://www.youtube.com/channel/UCch0Z8SPweSALVzS-qFKGzg/videos",
+    "official": "https://www.showtv.com.tr/dizi/tanitim/ramo/2665",
+    "publisher": "show",
+    "start_year": 2020,
+    "minimum_seconds": 3600,
+    "season_ends": [
+      11
+    ],
+    "season_titles": [
+      "1. Sezon",
+      "2. Sezon"
+    ],
+    "last_episode": 40,
+    "archive_complete": true,
+    "current_trailer_only": true,
+    "genres": [
+      "Dram"
+    ],
+    "verified_at": "2026-10-20T21:53:36.776465+00:00",
+    "season_sources": [
+      "https://www.showtv.com.tr/dizi/tanitim/ramo/2665",
+      "https://thetvdb.com/series/ramo/episodes/7645441"
+    ]
+  },
+  "carpisma": {
+    "title": "Çarpışma",
+    "channel": "UCeVCtnbEvzGKu7sZbeBreVA",
+    "url": "https://www.youtube.com/channel/UCeVCtnbEvzGKu7sZbeBreVA/videos",
+    "official": "https://www.showtv.com.tr/dizi/tanitim/carpisma/2374",
+    "publisher": "show",
+    "start_year": 2018,
+    "minimum_seconds": 3600,
+    "season_ends": [],
+    "season_titles": [
+      "1. Sezon"
+    ],
+    "last_episode": 24,
+    "archive_complete": true,
+    "current_trailer_only": true,
+    "genres": [
+      "Dram"
+    ],
+    "verified_at": "2026-10-20T21:53:36.783796+00:00",
+    "season_sources": [
+      "https://www.showtv.com.tr/dizi/tanitim/carpisma/2374"
+    ]
+  },
+  "ask-laftan-anlamaz": {
+    "title": "Aşk Laftan Anlamaz",
+    "channel": "UCsbO_JHHA68ZpTlauAGEzrA",
+    "url": "https://www.youtube.com/channel/UCsbO_JHHA68ZpTlauAGEzrA/videos",
+    "official": "https://www.showtv.com.tr/dizi/tanitim/ask-laftan-anlamaz/1622",
+    "publisher": "show",
+    "start_year": 2016,
+    "minimum_seconds": 3600,
+    "season_ends": [],
+    "season_titles": [
+      "1. Sezon"
+    ],
+    "last_episode": 31,
+    "archive_complete": true,
+    "current_trailer_only": true,
+    "genres": [
+      "Dram"
+    ],
+    "verified_at": "2026-10-20T21:53:36.796897+00:00",
+    "season_sources": [
+      "https://www.showtv.com.tr/dizi/tanitim/ask-laftan-anlamaz/1622"
+    ]
+  },
+  "iliski-durumu-karisik": {
+    "title": "İlişki Durumu Karışık",
+    "channel": "UCErv1rOmAFobb-VGljYbTwA",
+    "url": "https://www.youtube.com/channel/UCErv1rOmAFobb-VGljYbTwA/videos",
+    "official": "https://www.showtv.com.tr/dizi/tanitim/iliski-durumu-karisik/1434",
+    "publisher": "show",
+    "start_year": 2015,
+    "minimum_seconds": 3600,
+    "season_ends": [],
+    "season_titles": [
+      "1. Sezon"
+    ],
+    "last_episode": 40,
+    "archive_complete": true,
+    "current_trailer_only": true,
+    "genres": [
+      "Dram"
+    ],
+    "verified_at": "2026-10-20T21:53:36.812501+00:00",
+    "season_sources": [
+      "https://www.showtv.com.tr/dizi/tanitim/iliski-durumu-karisik/1434"
+    ]
+  },
+  "yeni-gelin": {
+    "title": "Yeni Gelin",
+    "channel": "UCrPU2odAMEU8gUzuUE1IQXw",
+    "url": "https://www.youtube.com/channel/UCrPU2odAMEU8gUzuUE1IQXw/videos",
+    "official": "https://www.showtv.com.tr/dizi/tanitim/yeni-gelin/1752",
+    "publisher": "show",
+    "start_year": 2017,
+    "minimum_seconds": 3600,
+    "season_ends": [
+      15,
+      53
+    ],
+    "season_titles": [
+      "1. Sezon",
+      "2. Sezon",
+      "3. Sezon"
+    ],
+    "last_episode": 63,
+    "archive_complete": true,
+    "current_trailer_only": true,
+    "genres": [
+      "Dram"
+    ],
+    "verified_at": "2026-10-20T21:53:36.830583+00:00",
+    "season_sources": [
+      "https://www.showtv.com.tr/dizi/tanitim/yeni-gelin/1752",
+      "https://www.youtube.com/watch?v=fGOjw2T6Qng",
+      "https://www.youtube.com/watch?v=YHzug4RRq6o"
+    ]
+  },
+  "kuzey-yildizi-ilk-ask": {
+    "title": "Kuzey Yıldızı İlk Aşk",
+    "channel": "UCCzteqZRzsr87Lfh2wUKw5Q",
+    "url": "https://www.youtube.com/channel/UCCzteqZRzsr87Lfh2wUKw5Q/videos",
+    "official": "https://www.showtv.com.tr/dizi/tanitim/kuzey-yildizi-ilk-ask/2595",
+    "publisher": "show",
+    "start_year": 2019,
+    "minimum_seconds": 3600,
+    "season_ends": [
+      29
+    ],
+    "season_titles": [
+      "1. Sezon",
+      "2. Sezon"
+    ],
+    "last_episode": 64,
+    "archive_complete": true,
+    "current_trailer_only": true,
+    "genres": [
+      "Dram"
+    ],
+    "verified_at": "2026-10-20T21:53:36.850271+00:00",
+    "season_sources": [
+      "https://www.showtv.com.tr/dizi/tanitim/kuzey-yildizi-ilk-ask/2595",
+      "https://www.youtube.com/watch?v=GX2geQr48xY"
+    ]
+  },
+  "kalp-atisi": {
+    "title": "Kalp Atışı",
+    "channel": "UC1iOn8rEOTWeuxYbvemAlFQ",
+    "url": "https://www.youtube.com/channel/UC1iOn8rEOTWeuxYbvemAlFQ/videos",
+    "official": "https://www.showtv.com.tr/dizi/tanitim/kalp-atisi/1884",
+    "publisher": "show",
+    "start_year": 2017,
+    "minimum_seconds": 3600,
+    "season_ends": [],
+    "season_titles": [
+      "1. Sezon"
+    ],
+    "last_episode": 28,
+    "archive_complete": true,
+    "current_trailer_only": true,
+    "genres": [
+      "Dram"
+    ],
+    "verified_at": "2026-10-20T21:53:36.859345+00:00",
+    "season_sources": [
+      "https://www.showtv.com.tr/dizi/tanitim/kalp-atisi/1884"
+    ]
+  },
+  "erkenci-kus": {
+    "title": "Erkenci Kuş",
+    "channel": "UC64mzacdticc87zH870bQGA",
+    "url": "https://www.youtube.com/channel/UC64mzacdticc87zH870bQGA/videos",
+    "official": "https://www.startv.com.tr/dizi/erkenci-kus",
+    "publisher": "star",
+    "start_year": 2018,
+    "minimum_seconds": 3600,
+    "season_ends": [],
+    "season_titles": [
+      "1. Sezon"
+    ],
+    "last_episode": 51,
+    "archive_complete": true,
+    "current_trailer_only": true,
+    "genres": [
+      "Dram"
+    ],
+    "verified_at": "2026-10-20T21:53:36.873393+00:00",
+    "season_sources": [
+      "https://www.startv.com.tr/dizi/erkenci-kus"
+    ]
+  },
+  "aziz": {
+    "title": "Aziz",
+    "channel": "UCYR7EAv7P9L4Rg8vEXua2nQ",
+    "url": "https://www.youtube.com/channel/UCYR7EAv7P9L4Rg8vEXua2nQ/videos",
+    "official": "https://www.showtv.com.tr/dizi/tanitim/aziz/2818",
+    "publisher": "show",
+    "start_year": 2021,
+    "minimum_seconds": 3600,
+    "season_ends": [],
+    "season_titles": [
+      "1. Sezon"
+    ],
+    "last_episode": 28,
+    "archive_complete": true,
+    "current_trailer_only": true,
+    "genres": [
+      "Dram"
+    ],
+    "verified_at": "2026-10-20T21:53:36.886067+00:00",
+    "season_sources": [
+      "https://www.showtv.com.tr/dizi/tanitim/aziz/2818"
+    ]
+  },
+  "cilek-kokusu": {
+    "title": "Çilek Kokusu",
+    "channel": "UC3uB257qcHNt-Ri-iPx7uVA",
+    "url": "https://www.youtube.com/channel/UC3uB257qcHNt-Ri-iPx7uVA/videos",
+    "official": "https://www.startv.com.tr/dizi/cilek-kokusu",
+    "publisher": "star",
+    "start_year": 2015,
+    "minimum_seconds": 3600,
+    "season_ends": [],
+    "season_titles": [
+      "1. Sezon"
+    ],
+    "last_episode": 23,
+    "archive_complete": true,
+    "current_trailer_only": true,
+    "genres": [
+      "Dram"
+    ],
+    "verified_at": "2026-10-20T21:53:36.896602+00:00",
+    "season_sources": [
+      "https://www.startv.com.tr/dizi/cilek-kokusu"
+    ]
+  },
+  "fazilet-hanim-ve-kizlari": {
+    "title": "Fazilet Hanım ve Kızları",
+    "channel": "UChLCKO4_cMjRYtZ_LrlfmSQ",
+    "url": "https://www.youtube.com/channel/UChLCKO4_cMjRYtZ_LrlfmSQ/videos",
+    "official": "https://www.startv.com.tr/dizi/fazilet-hanim-ve-kizlari",
+    "publisher": "star",
+    "start_year": 2017,
+    "minimum_seconds": 3600,
+    "season_ends": [
+      13
+    ],
+    "season_titles": [
+      "1. Sezon",
+      "2. Sezon"
+    ],
+    "last_episode": 50,
+    "archive_complete": true,
+    "current_trailer_only": true,
+    "genres": [
+      "Dram"
+    ],
+    "verified_at": "2026-10-20T21:53:36.900723+00:00",
+    "season_sources": [
+      "https://www.startv.com.tr/dizi/fazilet-hanim-ve-kizlari",
+      "https://www.startv.com.tr/dizi/fazilet-hanim-ve-kizlari/bolumler"
+    ]
+  },
+  "ariza": {
+    "title": "Arıza",
+    "channel": "UCxJhBb04eELBRYgFgAzJQBg",
+    "url": "https://www.youtube.com/channel/UCxJhBb04eELBRYgFgAzJQBg/videos",
+    "official": "https://www.showtv.com.tr/dizi/tanitim/ariza/2745",
+    "publisher": "show",
+    "start_year": 2020,
+    "minimum_seconds": 3600,
+    "season_ends": [],
+    "season_titles": [
+      "1. Sezon"
+    ],
+    "last_episode": 30,
+    "archive_complete": true,
+    "current_trailer_only": true,
+    "genres": [
+      "Dram"
+    ],
+    "verified_at": "2026-10-20T21:53:36.912890+00:00",
+    "season_sources": [
+      "https://www.showtv.com.tr/dizi/tanitim/ariza/2745"
+    ]
+  },
+  "istanbullu-gelin": {
+    "title": "İstanbullu Gelin",
+    "channel": "UC7xHX82HI2XR_yoL-ru6SmQ",
+    "url": "https://www.youtube.com/channel/UC7xHX82HI2XR_yoL-ru6SmQ/videos",
+    "official": "https://www.startv.com.tr/dizi/istanbullu-gelin",
+    "publisher": "star",
+    "start_year": 2017,
+    "minimum_seconds": 3600,
+    "season_ends": [
+      16,
+      53
+    ],
+    "season_titles": [
+      "1. Sezon",
+      "2. Sezon",
+      "3. Sezon"
+    ],
+    "last_episode": 87,
+    "archive_complete": true,
+    "current_trailer_only": true,
+    "genres": [
+      "Dram"
+    ],
+    "verified_at": "2026-10-20T21:53:36.930139+00:00",
+    "season_sources": [
+      "https://www.startv.com.tr/dizi/istanbullu-gelin",
+      "https://www.youtube.com/watch?v=l1TV71DcNK0",
+      "https://www.youtube.com/watch?v=ayZ534DikXY",
+      "https://www.youtube.com/watch?v=lMllTF4PxEU"
+    ]
+  },
+  "sefirin-kizi": {
+    "title": "Sefirin Kızı",
+    "channel": "UCYKPH4JKMEdCWLaEZdj42Cg",
+    "url": "https://www.youtube.com/channel/UCYKPH4JKMEdCWLaEZdj42Cg/videos",
+    "official": "https://www.startv.com.tr/dizi/sefirin-kizi",
+    "publisher": "star",
+    "start_year": 2019,
+    "minimum_seconds": 5400,
+    "season_ends": [
+      17
+    ],
+    "season_titles": [
+      "1. Sezon",
+      "2. Sezon"
+    ],
+    "last_episode": 52,
+    "archive_complete": true,
+    "current_trailer_only": true,
+    "genres": [
+      "Dram"
+    ],
+    "verified_at": "2026-10-20T21:53:36.944722+00:00",
+    "season_sources": [
+      "https://www.startv.com.tr/dizi/sefirin-kizi",
+      "https://www.youtube.com/watch?v=P08guyazevw"
+    ]
+  },
+  "menajerimi-ara": {
+    "title": "Menajerimi Ara",
+    "channel": "UC4m9DyDmlReBfUSOkhed0Yg",
+    "url": "https://www.youtube.com/channel/UC4m9DyDmlReBfUSOkhed0Yg/videos",
+    "official": "https://www.startv.com.tr/dizi/menajerimi-ara",
+    "publisher": "star",
+    "start_year": 2020,
+    "minimum_seconds": 3600,
+    "season_ends": [],
+    "season_titles": [
+      "1. Sezon"
+    ],
+    "last_episode": 45,
+    "archive_complete": true,
+    "current_trailer_only": true,
+    "genres": [
+      "Dram"
+    ],
+    "verified_at": "2026-10-20T21:53:36.950783+00:00",
+    "season_sources": [
+      "https://www.startv.com.tr/dizi/menajerimi-ara"
+    ]
+  },
+  "gulperi": {
+    "title": "Gülperi",
+    "channel": "UCG9Z1mQ-fkAIQrK-Q0-o1Zw",
+    "url": "https://www.youtube.com/channel/UCG9Z1mQ-fkAIQrK-Q0-o1Zw/videos",
+    "official": "https://www.showtv.com.tr/dizi/tanitim/gulperi/2338",
+    "publisher": "show",
+    "start_year": 2018,
+    "minimum_seconds": 3600,
+    "season_ends": [],
+    "season_titles": [
+      "1. Sezon"
+    ],
+    "last_episode": 30,
+    "archive_complete": true,
+    "current_trailer_only": true,
+    "genres": [
+      "Dram"
+    ],
+    "verified_at": "2026-10-20T21:53:36.962369+00:00",
+    "season_sources": [
+      "https://www.showtv.com.tr/dizi/tanitim/gulperi/2338"
+    ]
+  },
+  "zemheri": {
+    "title": "Zemheri",
+    "channel": "UCF2PZvbvfUq3rahxOwCJ7hg",
+    "url": "https://www.youtube.com/channel/UCF2PZvbvfUq3rahxOwCJ7hg/videos",
+    "official": "https://www.showtv.com.tr/dizi/tanitim/zemheri/2672",
+    "publisher": "show",
+    "start_year": 2020,
+    "minimum_seconds": 3600,
+    "season_ends": [],
+    "season_titles": [
+      "1. Sezon"
+    ],
+    "last_episode": 10,
+    "archive_complete": true,
+    "current_trailer_only": true,
+    "genres": [
+      "Dram"
+    ],
+    "verified_at": "2026-10-20T21:53:36.967471+00:00",
+    "season_sources": [
+      "https://www.showtv.com.tr/dizi/tanitim/zemheri/2672"
+    ]
+  },
+  "bahar": {
+    "title": "Bahar",
+    "channel": "UCYN-z1B7Luc54FFmgdExjnw",
+    "url": "https://www.youtube.com/channel/UCYN-z1B7Luc54FFmgdExjnw/videos",
+    "official": "https://www.tvmaze.com/shows/74223/bahar",
+    "publisher": "show",
+    "start_year": 2024,
+    "minimum_seconds": 3600,
+    "season_ends": [
+      16,
+      48
+    ],
+    "season_titles": [
+      "1. Sezon",
+      "2. Sezon",
+      "3. Sezon"
+    ],
+    "last_episode": 64,
+    "archive_complete": true,
+    "current_trailer_only": true,
+    "genres": [
+      "Dram",
+      "Komedi"
+    ],
+    "season_sources": [
+      "https://mfyapim.com/episodes/bahar-16-bolum-sezon-finali/",
+      "https://mfyapim.com/episodes/bahar-48-bolum-sezon-finali/",
+      "https://mfyapim.com/episodes/bahar-64-bolum-final/"
+    ],
+    "verified_at": "2026-10-20T21:56:02.671106+00:00"
+  },
+  "aile": {
+    "title": "Aile",
+    "channel": "UC5d3mcgb1Fhn5KNfpNTKtnQ",
+    "url": "https://www.youtube.com/channel/UC5d3mcgb1Fhn5KNfpNTKtnQ/videos",
+    "official": "https://www.tvmaze.com/shows/66631/aile",
+    "publisher": "show",
+    "start_year": 2023,
+    "minimum_seconds": 5400,
+    "season_ends": [
+      13
+    ],
+    "season_titles": [
+      "1. Sezon",
+      "2. Sezon"
+    ],
+    "last_episode": 30,
+    "archive_complete": true,
+    "current_trailer_only": true,
+    "genres": [
+      "Aksiyon",
+      "Suç",
+      "Dram"
+    ],
+    "season_sources": [
+      "https://www.showtv.com.tr/dizi/tanitim/aile/2849"
+    ],
+    "verified_at": "2026-10-20T21:56:02.686299+00:00"
+  },
+  "kurulus-osman": {
+    "title": "Kuruluş Osman",
+    "channel": "UCGR1XmkoQedeJMT2ajRHvsw",
+    "url": "https://www.youtube.com/channel/UCGR1XmkoQedeJMT2ajRHvsw/videos",
+    "official": "https://www.tvmaze.com/shows/44935/kurulus-osman",
+    "publisher": "atv",
+    "start_year": 2019,
+    "minimum_seconds": 3600,
+    "season_ends": [
+      27,
+      64,
+      98,
+      130,
+      164
+    ],
+    "season_titles": [
+      "1. Sezon",
+      "2. Sezon",
+      "3. Sezon",
+      "4. Sezon",
+      "5. Sezon",
+      "6. Sezon"
+    ],
+    "last_episode": 194,
+    "archive_complete": true,
+    "current_trailer_only": true,
+    "genres": [
+      "Tarih",
+      "Aksiyon",
+      "Savaş"
+    ],
+    "season_sources": [
+      "https://en.wikipedia.org/wiki/Kurulu%C5%9F%3A_Osman"
+    ],
+    "verified_at": "2026-10-20T21:56:02.733138+00:00"
+  },
+  "bir-gece-masali": {
+    "title": "Bir Gece Masalı",
+    "channel": "UCjrEQgmIujyGJPID6I4K2jw",
+    "url": "https://www.youtube.com/channel/UCjrEQgmIujyGJPID6I4K2jw/videos",
+    "official": "https://www.tvmaze.com/shows/79045/bir-gece-masali",
+    "publisher": "atv",
+    "start_year": 2024,
+    "minimum_seconds": 3600,
+    "season_ends": [],
+    "season_titles": [
+      "1. Sezon"
+    ],
+    "last_episode": 34,
+    "archive_complete": true,
+    "current_trailer_only": true,
+    "genres": [
+      "Dram",
+      "Romantik"
+    ],
+    "season_sources": [
+      "https://www.atv.com.tr/bir-gece-masali/34-bolum/izle"
+    ],
+    "verified_at": "2026-10-20T21:56:02.749960+00:00"
+  },
+  "dirilis-ertugrul": {
+    "title": "Diriliş Ertuğrul",
+    "channel": "UCrr2fV8yd6r8k-FZKGxDr9Q",
+    "url": "https://www.youtube.com/channel/UCrr2fV8yd6r8k-FZKGxDr9Q/videos",
+    "official": "https://www.tvmaze.com/shows/11834/dirilis-ertugrul",
+    "publisher": "trt",
+    "start_year": 2014,
+    "minimum_seconds": 3600,
+    "season_ends": [
+      26,
+      61,
+      91,
+      121
+    ],
+    "season_titles": [
+      "1. Sezon",
+      "2. Sezon",
+      "3. Sezon",
+      "4. Sezon",
+      "5. Sezon"
+    ],
+    "last_episode": 150,
+    "archive_complete": true,
+    "current_trailer_only": true,
+    "genres": [
+      "Tarih",
+      "Aksiyon",
+      "Macera"
+    ],
+    "season_sources": [
+      "https://en.wikipedia.org/wiki/List_of_Dirili%C5%9F%3A_Ertu%C4%9Frul_episodes"
+    ],
+    "verified_at": "2026-10-20T21:56:02.767399+00:00"
+  },
+  "kiralik-ask": {
+    "title": "Kiralık Aşk",
+    "channel": "UCNIr3_nBs6ba2BS5076rSaQ",
+    "url": "https://www.youtube.com/channel/UCNIr3_nBs6ba2BS5076rSaQ/videos",
+    "official": "https://www.tvmaze.com/shows/7664/kiralik-ask",
+    "publisher": "star",
+    "start_year": 2015,
+    "minimum_seconds": 3600,
+    "season_ends": [
+      52
+    ],
+    "season_titles": [
+      "1. Sezon",
+      "2. Sezon"
+    ],
+    "last_episode": 69,
+    "archive_complete": true,
+    "current_trailer_only": true,
+    "genres": [
+      "Romantik",
+      "Komedi"
+    ],
+    "season_sources": [
+      "https://www.startv.com.tr/dizi/kiralik-ask/fragmanlar/52-bolum-fragmani"
+    ],
+    "verified_at": "2026-10-20T21:56:02.774201+00:00"
+  },
+  "yali-capkini": {
+    "title": "Yalı Çapkını",
+    "channel": "UCyahIZNtNmqK1LeNF0KlFZw",
+    "url": "https://www.youtube.com/channel/UCyahIZNtNmqK1LeNF0KlFZw/videos",
+    "official": "https://www.startv.com.tr/dizi/yali-capkini",
+    "publisher": "star",
+    "start_year": 2022,
+    "minimum_seconds": 3600,
+    "season_ends": [
+      36,
+      73
+    ],
+    "season_titles": [
+      "1. Sezon",
+      "2. Sezon",
+      "3. Sezon"
+    ],
+    "last_episode": 101,
+    "archive_complete": true,
+    "current_trailer_only": true,
+    "genres": [
+      "Dram",
+      "Romantik"
+    ],
+    "season_sources": [
+      "https://www.startv.com.tr/dizi/yali-capkini/bolumler/36-bolum-sezon-finali",
+      "https://www.youtube.com/watch?v=VC9GBNiPQO8"
+    ],
+    "verified_at": "2026-10-20T21:56:02.789608+00:00"
+  },
+  "avrupa-yakasi": {
+    "title": "Avrupa Yakası",
+    "channel": "UCgc3VJYdM_R8oKGRuXxUbKQ",
+    "url": "https://www.youtube.com/channel/UCgc3VJYdM_R8oKGRuXxUbKQ/videos",
+    "official": "https://www.tvmaze.com/shows/35824/avrupa-yakasi",
+    "publisher": "atv",
+    "start_year": 2004,
+    "minimum_seconds": 1800,
+    "season_ends": [
+      19,
+      58,
+      93,
+      130,
+      162
+    ],
+    "season_titles": [
+      "1. Sezon",
+      "2. Sezon",
+      "3. Sezon",
+      "4. Sezon",
+      "5. Sezon",
+      "6. Sezon"
+    ],
+    "last_episode": 190,
+    "archive_complete": true,
+    "current_trailer_only": true,
+    "genres": [
+      "Komedi",
+      "Sitcom"
+    ],
+    "season_sources": [
+      "https://en.wikipedia.org/wiki/Avrupa_Yakas%C4%B1"
+    ],
+    "verified_at": "2026-10-20T21:56:02.826087+00:00"
   }
 }

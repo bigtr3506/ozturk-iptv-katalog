@@ -1,0 +1,1270 @@
+{
+  "checkedAt": "2026-10-19T02:44:11.107963+00:00",
+  "publicBase": "https://ozturk-iptv-iphone.mobile-cloud.workers.dev/",
+  "items": {
+    "aile": {
+      "source": "https://www.tvmaze.com/shows/66631/aile",
+      "posterSource": "https://static.tvmaze.com/uploads/images/original_untouched/443/1109251.jpg",
+      "backdropSource": "https://mo.ciner.com.tr/showtv/iu/300x300/aile.jpg?v=1787209606",
+      "title": "Aile",
+      "poster": "assets/posters/official/aile-poster.jpg",
+      "posterSize": [
+        680,
+        1000
+      ],
+      "backdrop": "assets/posters/official/aile-backdrop.jpg",
+      "backdropSize": [
+        300,
+        300
+      ],
+      "provider": "TVmaze show image",
+      "posterSHA256": "aa986274207046ba7aaf2c3f63e060bdddde0913774bfd91f84b70aae3b4f4f4"
+    },
+    "kizilcik-serbeti": {
+      "source": "https://www.tvmaze.com/shows/64593/kizilcik-serbeti",
+      "posterSource": "https://static.tvmaze.com/uploads/images/original_untouched/596/1490153.jpg",
+      "backdropSource": "https://mo.ciner.com.tr/showtv/iu/1258x630/kizilcik-serbeti.jpg?v=1792183532",
+      "title": "Kızılcık Şerbeti",
+      "poster": "assets/posters/official/kizilcik-serbeti-poster.jpg",
+      "posterSize": [
+        1080,
+        1350
+      ],
+      "backdrop": "assets/posters/official/kizilcik-serbeti-backdrop.jpg",
+      "backdropSize": [
+        1260,
+        630
+      ],
+      "provider": "TVmaze show image",
+      "posterSHA256": "4f50b5067eafc63875df3047472639acafab454b5de31743420a77a6e074ff99"
+    },
+    "bahar": {
+      "source": "https://www.tvmaze.com/shows/74223/bahar",
+      "posterSource": "https://static.tvmaze.com/uploads/images/original_untouched/535/1339043.jpg",
+      "backdropSource": "https://mo.ciner.com.tr/showtv/iu/300x300/bahar.jpg?v=1787209619",
+      "title": "Bahar",
+      "poster": "assets/posters/official/bahar-poster.jpg",
+      "posterSize": [
+        1654,
+        2068
+      ],
+      "backdrop": "assets/posters/official/bahar-backdrop.jpg",
+      "backdropSize": [
+        300,
+        300
+      ],
+      "provider": "TVmaze show image",
+      "posterSHA256": "66df73f3b2e474a6a6b87da6ba2772bd4d1dd0baffa56d1d3f65cda3bea1a170"
+    },
+    "yeralti": {
+      "source": "https://www.nowtv.com.tr/Yeralti/izle",
+      "posterSource": "https://tpsbayxekmes.merlincdn.net//i/posters/1827",
+      "backdropSource": "https://nqg6bkpsnhen.merlincdn.net//Programlar/Yeralti/Yeralti-cover-photo-28711ae4-de5e-4a19-9f21-46d2e0d79113.jpg",
+      "title": "Yeraltı",
+      "poster": "assets/posters/official/yeralti-poster.jpg",
+      "posterSize": [
+        284,
+        396
+      ],
+      "backdrop": "assets/posters/official/yeralti-backdrop.jpg",
+      "backdropSize": [
+        1920,
+        600
+      ],
+      "posterSHA256": "df74d4fbc77e495cd793d37f39ef70e4ed9379825fd58f7d20266e134825ac1f",
+      "provider": "Official publisher artwork"
+    },
+    "arka-sokaklar": {
+      "source": "https://www.kanald.com.tr/arka-sokaklar",
+      "posterSource": "https://image.kanald.com.tr/i/kanald/100/0x0/68d4dd95d72ee82b6994ff07.jpg",
+      "backdropSource": "https://image.kanald.com.tr/i/kanald/100/0x0/68d4dd95d72ee82b6994ff07.jpg",
+      "title": "Arka Sokaklar",
+      "poster": "assets/posters/official/arka-sokaklar-poster.jpg",
+      "posterSize": [
+        840,
+        1200
+      ],
+      "backdrop": "assets/posters/official/arka-sokaklar-poster.jpg",
+      "backdropSize": [
+        840,
+        1200
+      ],
+      "posterSHA256": "8ade5d02b38353e414a0d645764de297b5423442014e0c1d6f44225c0add0ed7",
+      "provider": "Official publisher artwork"
+    },
+    "halef": {
+      "source": "https://www.nowtv.com.tr/Halef-Koklerin-Cagrisi/izle",
+      "posterSource": "https://tpsbayxekmes.merlincdn.net//i/posters/1808",
+      "backdropSource": "https://nqg6bkpsnhen.merlincdn.net//Programlar/Halef-Koklerin-Cagrisi/Halef-Koklerin-Cagrisi-1788879844_cover_photo.jpg",
+      "title": "Halef: Köklerin Çağrısı",
+      "poster": "assets/posters/official/halef-poster.jpg",
+      "posterSize": [
+        284,
+        396
+      ],
+      "backdrop": "assets/posters/official/halef-backdrop.jpg",
+      "backdropSize": [
+        1920,
+        600
+      ],
+      "posterSHA256": "c11628ce829210a347c15163db5915c006cb7a109af95fa4e26bc57542d83735",
+      "provider": "Official publisher artwork"
+    },
+    "gonul-dagi": {
+      "source": "https://www.trt1.com.tr/diziler/gonul-dagi",
+      "posterSource": "https://cdn-i.pr.trt.com.tr/trt1/gonul-dagi-vertical-image-21749890-0-0-1439-2159.jpeg",
+      "backdropSource": "https://cdn-i.pr.trt.com.tr/trt1/gonul-dagi-headline-web-image-21749888-0-0-2760-919.jpeg",
+      "title": "Gönül Dağı",
+      "poster": "assets/posters/official/gonul-dagi-poster.jpg",
+      "posterSize": [
+        1439,
+        2159
+      ],
+      "backdrop": "assets/posters/official/gonul-dagi-backdrop.jpg",
+      "backdropSize": [
+        2760,
+        919
+      ],
+      "posterSHA256": "6ece2a6f46f6102965b66012f2ef9ce621e5e35d641535bde22458f19e69367c",
+      "provider": "Official publisher artwork"
+    },
+    "teskilat": {
+      "source": "https://www.trt1.com.tr/diziler/teskilat",
+      "posterSource": "https://cdn-i.pr.trt.com.tr/trt1/teskilat-7-sezon-vertical-image-1440x2160_2_3-21758054-0-0-1439-2159.jpeg",
+      "backdropSource": "https://cdn-i.pr.trt.com.tr/trt1/teskilat-7-sezon-headline-web-image-2760x920_3_1-21758052-0-0-2760-919.jpeg",
+      "title": "Teşkilat",
+      "poster": "assets/posters/official/teskilat-poster.jpg",
+      "posterSize": [
+        1439,
+        2159
+      ],
+      "backdrop": "assets/posters/official/teskilat-backdrop.jpg",
+      "backdropSize": [
+        2760,
+        919
+      ],
+      "posterSHA256": "fc254223186c50adc6ffef5e54dde4e5461c7ad3f00469a5fcd6b43d4c20ec50",
+      "provider": "Official publisher artwork"
+    },
+    "esref-ruya": {
+      "source": "https://www.kanald.com.tr/esref-ruya",
+      "posterSource": "https://image.kanald.com.tr/i/kanald/100/0x0/691366016b2d104147cf6e8f.jpg",
+      "backdropSource": "https://image.kanald.com.tr/i/kanald/100/0x0/691366016b2d104147cf6e92.jpg",
+      "title": "Eşref Rüya",
+      "poster": "assets/posters/official/esref-ruya-poster.jpg",
+      "posterSize": [
+        840,
+        1200
+      ],
+      "backdrop": "assets/posters/official/esref-ruya-backdrop.jpg",
+      "backdropSize": [
+        1920,
+        977
+      ],
+      "posterSHA256": "720c68d0911065104fbb3f60be637090ec749ee37c4de350f5d21481d84f54eb",
+      "provider": "Official publisher artwork"
+    },
+    "cukur": {
+      "source": "https://www.tvmaze.com/shows/32417/cukur",
+      "posterSource": "https://static.tvmaze.com/uploads/images/original_untouched/297/744398.jpg",
+      "backdropSource": "https://mo.ciner.com.tr/showtv/iu/1258x630/cukur.jpg?v=1787209588",
+      "title": "Çukur",
+      "poster": "assets/posters/official/cukur-poster.jpg",
+      "posterSize": [
+        1080,
+        1350
+      ],
+      "backdrop": "assets/posters/official/cukur-backdrop.jpg",
+      "backdropSize": [
+        1260,
+        630
+      ],
+      "provider": "TVmaze show image",
+      "posterSHA256": "64f69aa0ac75e6b49ac2a7daba20b965f4d37cc2eb1f7f3274e91db10198751f"
+    },
+    "omer": {
+      "source": "https://www.startv.com.tr/dizi/omer",
+      "posterSource": "https://media.startv.com.tr/star-tv//images/8666898e40298c5945b2badf.jpg",
+      "backdropSource": "https://media.startv.com.tr/star-tv//images/cf360fec45b9aecd03020f6c.jpg",
+      "title": "Ömer",
+      "poster": "assets/posters/official/omer-poster.jpg",
+      "posterSize": [
+        1242,
+        1730
+      ],
+      "backdrop": "assets/posters/official/omer-backdrop.jpg",
+      "backdropSize": [
+        1600,
+        445
+      ],
+      "posterSHA256": "d6314a4a8f91c336205ff221f2ddd2153f517435a5a16e39988b805b8a451bd8",
+      "provider": "Official publisher artwork"
+    },
+    "yali-capkini": {
+      "source": "https://www.startv.com.tr/dizi/yali-capkini",
+      "posterSource": "https://media.startv.com.tr/star-tv//images/6c4b4ac44fca80e6864b876d.jpg",
+      "backdropSource": "https://media.startv.com.tr/star-tv//images/89a74cab482ea36bb79895a0.jpg",
+      "title": "Yalı Çapkını",
+      "poster": "assets/posters/official/yali-capkini-poster.jpg",
+      "posterSize": [
+        1242,
+        1730
+      ],
+      "backdrop": "assets/posters/official/yali-capkini-backdrop.jpg",
+      "backdropSize": [
+        1600,
+        445
+      ],
+      "posterSHA256": "e68b6632bd6aafe29163663ab5540df6bff4ffc678d1ed8e1bb65c381f0c8ae2",
+      "provider": "Official publisher artwork"
+    },
+    "tuzlu-kahve": {
+      "source": "https://www.startv.com.tr/dizi/tuzlu-kahve",
+      "posterSource": "https://media.startv.com.tr/star-tv//images/dikey(23).jpg",
+      "backdropSource": "https://media.startv.com.tr/star-tv//images/banner(2).jpg",
+      "title": "Tuzlu Kahve",
+      "poster": "assets/posters/official/tuzlu-kahve-poster.jpg",
+      "posterSize": [
+        1242,
+        1730
+      ],
+      "backdrop": "assets/posters/official/tuzlu-kahve-backdrop.jpg",
+      "backdropSize": [
+        1600,
+        445
+      ],
+      "posterSHA256": "4edc820fbb1ae416633c10b6a44a3874df4d08527421f4aece7d22a67d6600a3",
+      "provider": "Official publisher artwork"
+    },
+    "sevdigim-sensin": {
+      "source": "https://www.startv.com.tr/dizi/sevdigim-sensin",
+      "posterSource": "https://media.startv.com.tr/star-tv//images/sevd.jpg",
+      "backdropSource": "https://media.startv.com.tr/star-tv//images/d(6).jpg",
+      "title": "Sevdiğim Sensin",
+      "poster": "assets/posters/official/sevdigim-sensin-poster.jpg",
+      "posterSize": [
+        1242,
+        1730
+      ],
+      "backdrop": "assets/posters/official/sevdigim-sensin-backdrop.jpg",
+      "backdropSize": [
+        1600,
+        445
+      ],
+      "posterSHA256": "f7c1f2c069fa896f2f08d07e2d5b1e4ca61b6066c5d9d8bf684f0966c4f1d313",
+      "provider": "Official publisher artwork"
+    },
+    "cennet-mahallesi": {
+      "source": "https://www.showtv.com.tr/diziler",
+      "posterSource": "https://mo.ciner.com.tr/showtv/iu/300x300/cennet-mahallesi.jpg?v=1744097436",
+      "backdropSource": "https://mo.ciner.com.tr/showtv/iu/1258x630/cennet-mahallesi.jpg?v=1744097436",
+      "title": "Cennet Mahallesi",
+      "poster": "assets/posters/official/cennet-mahallesi-poster.jpg",
+      "posterSize": [
+        300,
+        300
+      ],
+      "backdrop": "assets/posters/official/cennet-mahallesi-backdrop.jpg",
+      "backdropSize": [
+        1260,
+        630
+      ],
+      "posterSHA256": "45d1f6df3a70ff5814f0bb522db56cbfbd6e27aa72bec27f7522a542dcdc54e6",
+      "provider": "Official publisher artwork"
+    },
+    "sevdan-bir-ates": {
+      "source": "https://www.tvmaze.com/shows/93729/sevdan-bir-ates",
+      "posterSource": "https://static.tvmaze.com/uploads/images/original_untouched/638/1595399.jpg",
+      "backdropSource": "https://mo.ciner.com.tr/showtv/iu/1258x630/sevdan-bir-ates.jpg?v=1792010984",
+      "title": "Sevdan Bir Ateş",
+      "poster": "assets/posters/official/sevdan-bir-ates-poster.jpg",
+      "posterSize": [
+        1030,
+        1280
+      ],
+      "backdrop": "assets/posters/official/sevdan-bir-ates-backdrop.jpg",
+      "backdropSize": [
+        1260,
+        630
+      ],
+      "provider": "TVmaze show image",
+      "posterSHA256": "25035f15b955c13035e97c65ad233138b2d22a4cc677aa851416486b5104a6db"
+    },
+    "muhtemel-ask": {
+      "source": "https://www.tvmaze.com/shows/92303/muhtemel-ask",
+      "posterSource": "https://static.tvmaze.com/uploads/images/original_untouched/628/1571338.jpg",
+      "backdropSource": "https://mo.ciner.com.tr/showtv/iu/1258x630/muhtemel-ask.jpg?v=1792096515",
+      "title": "Muhtemel Aşk",
+      "poster": "assets/posters/official/muhtemel-ask-poster.jpg",
+      "posterSize": [
+        500,
+        715
+      ],
+      "backdrop": "assets/posters/official/muhtemel-ask-backdrop.jpg",
+      "backdropSize": [
+        1260,
+        630
+      ],
+      "provider": "TVmaze show image",
+      "posterSHA256": "4f997535663b71b866be7adcaf913e4741542624917699326254fc1c7f664758"
+    },
+    "anne-yarisi": {
+      "source": "https://www.nowtv.com.tr/Anne-Yarisi/izle",
+      "posterSource": "https://tpsbayxekmes.merlincdn.net//i/posters/1847",
+      "backdropSource": "https://nqg6bkpsnhen.merlincdn.net//Programlar/Anne-Yarisi/Anne-Yarisi-1789123958_cover_photo.jpg",
+      "title": "Anne Yarısı",
+      "poster": "assets/posters/official/anne-yarisi-poster.jpg",
+      "posterSize": [
+        284,
+        396
+      ],
+      "backdrop": "assets/posters/official/anne-yarisi-backdrop.jpg",
+      "backdropSize": [
+        1920,
+        600
+      ],
+      "posterSHA256": "c7a97744e41dfee439733852a84b27a1992eb65164f37a41545bb0da2bd16db4",
+      "provider": "Official publisher artwork"
+    },
+    "omur-usta": {
+      "source": "https://www.nowtv.com.tr/Omur-Usta/izle",
+      "posterSource": "https://tpsbayxekmes.merlincdn.net//i/posters/1845",
+      "backdropSource": "https://nqg6bkpsnhen.merlincdn.net//Programlar/Omur-Usta/Omur-Usta-cover-photo-7f3d6587-0bf5-4201-a190-cd28e717f0d4.jpg",
+      "title": "Ömür Usta",
+      "poster": "assets/posters/official/omur-usta-poster.jpg",
+      "posterSize": [
+        284,
+        396
+      ],
+      "backdrop": "assets/posters/official/omur-usta-backdrop.jpg",
+      "backdropSize": [
+        1920,
+        600
+      ],
+      "posterSHA256": "067802f9d1624dcc8f6bb1799c1a72108b93251ccab8451727c8c272d028e6d5",
+      "provider": "Official publisher artwork"
+    },
+    "sevdam-karadeniz": {
+      "source": "https://www.nowtv.com.tr/Sevdam-Karadeniz/izle",
+      "posterSource": "https://tpsbayxekmes.merlincdn.net//i/posters/1846",
+      "backdropSource": "https://nqg6bkpsnhen.merlincdn.net//Programlar/Sevdam-Karadeniz/Sevdam-Karadeniz-1789122597_cover_photo.jpg",
+      "title": "Sevdam Karadeniz",
+      "poster": "assets/posters/official/sevdam-karadeniz-poster.jpg",
+      "posterSize": [
+        284,
+        396
+      ],
+      "backdrop": "assets/posters/official/sevdam-karadeniz-backdrop.jpg",
+      "backdropSize": [
+        1920,
+        600
+      ],
+      "posterSHA256": "e88427c35e08504bac057c971eb064b87c81d258cfbf9f1a79070df9f9862612",
+      "provider": "Official publisher artwork"
+    },
+    "cirkin": {
+      "source": "https://www.startv.com.tr/dizi/cirkin",
+      "posterSource": "https://media.startv.com.tr/star-tv//images/231irkin-dikey.jpg",
+      "backdropSource": "https://media.startv.com.tr/star-tv//images/231irkin-banner.jpg",
+      "title": "Çirkin",
+      "poster": "assets/posters/official/cirkin-poster.jpg",
+      "posterSize": [
+        1242,
+        1730
+      ],
+      "backdrop": "assets/posters/official/cirkin-backdrop.jpg",
+      "backdropSize": [
+        1600,
+        445
+      ],
+      "posterSHA256": "19c484c453651c525e4f84f02eff6b3c8e9306f108923ae4c768e7bb84af51fa",
+      "provider": "Official publisher artwork"
+    },
+    "baskalarinin-hayati": {
+      "source": "https://www.startv.com.tr/dizi/baskalarinin-hayati",
+      "posterSource": "https://media.startv.com.tr/star-tv//images/1(267).jpg",
+      "backdropSource": "https://media.startv.com.tr/star-tv//images/bh_web_1600x445(2).jpg",
+      "title": "Başkalarının Hayatı",
+      "poster": "assets/posters/official/baskalarinin-hayati-poster.jpg",
+      "posterSize": [
+        1242,
+        1730
+      ],
+      "backdrop": "assets/posters/official/baskalarinin-hayati-backdrop.jpg",
+      "backdropSize": [
+        1600,
+        445
+      ],
+      "posterSHA256": "c588af282926e338121e5d909230e21c37f35e99cf67f6b22c5ca16ac5721eb2",
+      "provider": "Official publisher artwork"
+    },
+    "guller-ve-gunahlar": {
+      "source": "https://www.kanald.com.tr/guller-ve-gunahlar",
+      "posterSource": "https://image.kanald.com.tr/i/kanald/100/0x0/68c83316f35cf5ba33dfcb33.jpg",
+      "backdropSource": "https://image.kanald.com.tr/i/kanald/100/0x0/68c83316f35cf5ba33dfcb2c.jpg",
+      "title": "Güller ve Günahlar",
+      "poster": "assets/posters/official/guller-ve-gunahlar-poster.jpg",
+      "posterSize": [
+        840,
+        1200
+      ],
+      "backdrop": "assets/posters/official/guller-ve-gunahlar-backdrop.jpg",
+      "backdropSize": [
+        3840,
+        1954
+      ],
+      "posterSHA256": "5beaaab66be144f74bca576d9578ed95bec73d902d9adf71371ea08039128c29",
+      "provider": "Official publisher artwork"
+    },
+    "alti-ustu-istanbul": {
+      "source": "https://www.atv.com.tr/alti-ustu-istanbul",
+      "posterSource": "https://iatv.tmgrup.com.tr/2026/08/12/1786534585837.jpg",
+      "backdropSource": "https://iatv.tmgrup.com.tr/2026/08/12/1786534585837.jpg",
+      "title": "Altı Üstü İstanbul",
+      "poster": "assets/posters/official/alti-ustu-istanbul-poster.jpg",
+      "posterSize": [
+        600,
+        857
+      ],
+      "backdrop": "assets/posters/official/alti-ustu-istanbul-poster.jpg",
+      "backdropSize": [
+        600,
+        857
+      ],
+      "posterSHA256": "c723c47aedef524145c4ccecdf36c7ee6cffe4d024b373aaeaf694bef3211e07",
+      "provider": "Official publisher artwork"
+    },
+    "uzak-sehir": {
+      "source": "https://www.kanald.com.tr/uzak-sehir",
+      "posterSource": "https://image.kanald.com.tr/i/kanald/100/0x0/6a91782dd73360a42855215e.jpg",
+      "backdropSource": "https://image.kanald.com.tr/i/kanald/100/0x0/6a917823d73360a428552146.jpg",
+      "title": "Uzak Şehir",
+      "poster": "assets/posters/official/uzak-sehir-poster.jpg",
+      "posterSize": [
+        840,
+        1200
+      ],
+      "backdrop": "assets/posters/official/uzak-sehir-backdrop.jpg",
+      "backdropSize": [
+        3840,
+        1954
+      ],
+      "posterSHA256": "f280d5cd5d616d784a66fe2e7dfd3e6eac7f72fb8a31341191003935a1787f5a",
+      "provider": "Official publisher artwork"
+    },
+    "abi": {
+      "source": "https://www.atv.com.tr/abi",
+      "posterSource": "https://iatv.tmgrup.com.tr/2026/08/31/1788168067770.jpg",
+      "backdropSource": "https://iatv.tmgrup.com.tr/2026/08/31/1788168067770.jpg",
+      "title": "A.B.İ.",
+      "poster": "assets/posters/official/abi-poster.jpg",
+      "posterSize": [
+        295,
+        410
+      ],
+      "backdrop": "assets/posters/official/abi-poster.jpg",
+      "backdropSize": [
+        295,
+        410
+      ],
+      "posterSHA256": "d4757670e232bfa81599d4e9de91f76c55b11e14fb67244e7dc2296276ada388",
+      "provider": "Official publisher artwork"
+    },
+    "ask-ve-taht": {
+      "source": "https://www.atv.com.tr/ask-ve-taht",
+      "posterSource": "https://iatv.tmgrup.com.tr/2026/08/31/1788199524384.jpg",
+      "backdropSource": "https://iatv.tmgrup.com.tr/2026/08/31/1788199524384.jpg",
+      "title": "Aşk ve Taht",
+      "poster": "assets/posters/official/ask-ve-taht-poster.jpg",
+      "posterSize": [
+        295,
+        410
+      ],
+      "backdrop": "assets/posters/official/ask-ve-taht-poster.jpg",
+      "backdropSize": [
+        295,
+        410
+      ],
+      "posterSHA256": "cb667b9044c49a453bfb0a9de53a0ff263a0c3973f0cb7a8fd1c2293fa5f32c9",
+      "provider": "Official publisher artwork"
+    },
+    "gunesin-dogdugu-yer": {
+      "source": "https://www.atv.com.tr/gunesin-dogdugu-yer",
+      "posterSource": "https://iatv.tmgrup.com.tr/2026/09/04/1788528392968.jpg",
+      "backdropSource": "https://iatv.tmgrup.com.tr/2026/09/04/1788528392968.jpg",
+      "title": "Güneşin Doğduğu Yer",
+      "poster": "assets/posters/official/gunesin-dogdugu-yer-poster.jpg",
+      "posterSize": [
+        295,
+        410
+      ],
+      "backdrop": "assets/posters/official/gunesin-dogdugu-yer-poster.jpg",
+      "backdropSize": [
+        295,
+        410
+      ],
+      "posterSHA256": "f11b57634ae89f8552cd8b03ed7a0b059ac01093a351e46d26e6a77ef57e9877",
+      "provider": "Official publisher artwork"
+    },
+    "mercan-kosk": {
+      "source": "https://www.atv.com.tr/mercan-kosk",
+      "posterSource": "https://iatv.tmgrup.com.tr/2026/08/07/1786095084568.jpg",
+      "backdropSource": "https://iatv.tmgrup.com.tr/2026/08/07/1786095084568.jpg",
+      "title": "Mercan Köşk",
+      "poster": "assets/posters/official/mercan-kosk-poster.jpg",
+      "posterSize": [
+        750,
+        1000
+      ],
+      "backdrop": "assets/posters/official/mercan-kosk-poster.jpg",
+      "backdropSize": [
+        750,
+        1000
+      ],
+      "posterSHA256": "9ccabbe62959abb266f1104fb30b833abcba257fb998620ecddd5a7db23d02b6",
+      "provider": "Official publisher artwork"
+    },
+    "tasacak-bu-deniz": {
+      "source": "https://www.trt1.com.tr/diziler/tasacak-bu-deniz",
+      "posterSource": "https://cdn-i.pr.trt.com.tr/trt1/vertical-image-1440x2160_2_3-21753908-0-0-1439-2159.png",
+      "backdropSource": "https://cdn-i.pr.trt.com.tr/trt1/headline-web-image-2760x920_3_1-21753910-0-0-2760-919.png",
+      "title": "Taşacak Bu Deniz",
+      "poster": "assets/posters/official/tasacak-bu-deniz-poster.png",
+      "posterSize": [
+        1439,
+        2159
+      ],
+      "backdrop": "assets/posters/official/tasacak-bu-deniz-backdrop.png",
+      "backdropSize": [
+        2760,
+        919
+      ],
+      "posterSHA256": "2e4953bb4ff94a268882078145adee845cdb5cf4818f35cd3f2295e9de29a81d",
+      "provider": "Official publisher artwork"
+    },
+    "kod-adi-kirlangic": {
+      "source": "https://www.trt1.com.tr/diziler/kod-adi-kirlangic",
+      "posterSource": "https://cdn-i.pr.trt.com.tr/trt1/kod-adi-kirlangic-vertical-image-21641623-0-0-1439-2159.png",
+      "backdropSource": "https://cdn-i.pr.trt.com.tr/trt1/kod-adi-kirlangic-headline-web-image-21641621-0-0-2760-919.png",
+      "title": "Kod Adı Kırlangıç",
+      "poster": "assets/posters/official/kod-adi-kirlangic-poster.png",
+      "posterSize": [
+        1439,
+        2159
+      ],
+      "backdrop": "assets/posters/official/kod-adi-kirlangic-backdrop.png",
+      "backdropSize": [
+        2760,
+        919
+      ],
+      "posterSHA256": "e461dc3f5467040753525d77a58dcfd0e9a17721dbbf56759162545f2b5e450d",
+      "provider": "Official publisher artwork"
+    },
+    "evlilik-guzeldir": {
+      "source": "https://www.trt1.com.tr/diziler/evlilik-guzeldir",
+      "posterSource": "https://cdn-i.pr.trt.com.tr/trt1/evlilik-guzeldir-vertical-image-21749340-0-0-1439-2159.jpeg",
+      "backdropSource": "https://cdn-i.pr.trt.com.tr/trt1/evlilik-guzeldir-headline-web-image-21749338-0-0-2760-919.jpeg",
+      "title": "Evlilik Güzeldir",
+      "poster": "assets/posters/official/evlilik-guzeldir-poster.jpg",
+      "posterSize": [
+        1439,
+        2159
+      ],
+      "backdrop": "assets/posters/official/evlilik-guzeldir-backdrop.jpg",
+      "backdropSize": [
+        2760,
+        919
+      ],
+      "posterSHA256": "8cc70f4bef5445628d3dcae454c2184fb7bed2f890f716a3741bb95cee48e19b",
+      "provider": "Official publisher artwork"
+    },
+    "gassal": {
+      "source": "https://www.trt1.com.tr/diziler/gassal",
+      "posterSource": "https://cdn-i.pr.trt.com.tr/trt1/vertical-image-gassal-21452970-0-0-1439-2159.jpeg",
+      "backdropSource": "https://cdn-i.pr.trt.com.tr/trt1/headline-web-image-gassal-21452965-0-0-2760-919.jpeg",
+      "title": "Gassal",
+      "poster": "assets/posters/official/gassal-poster.jpg",
+      "posterSize": [
+        1439,
+        2159
+      ],
+      "backdrop": "assets/posters/official/gassal-backdrop.jpg",
+      "backdropSize": [
+        2760,
+        919
+      ],
+      "posterSHA256": "1b2f36da36b1beca0d18151715a033de6c9938214dba8e2dea030ea0732e8df1",
+      "provider": "Official publisher artwork"
+    },
+    "daha-17": {
+      "source": "https://www.kanald.com.tr/daha-17",
+      "posterSource": "https://image.kanald.com.tr/i/kanald/100/0x0/6a0b381b6857e013a393b7f9.jpg",
+      "backdropSource": "https://image.kanald.com.tr/i/kanald/100/0x0/6a0b381c6857e013a393b803.jpg",
+      "title": "Daha 17",
+      "poster": "assets/posters/official/daha-17-poster.jpg",
+      "posterSize": [
+        840,
+        1200
+      ],
+      "backdrop": "assets/posters/official/daha-17-backdrop.jpg",
+      "backdropSize": [
+        3840,
+        1954
+      ],
+      "posterSHA256": "4a8645cef0aad56b6235a54aab6768fbfdcc327044b46b294129d727256a57ec",
+      "provider": "Official publisher artwork"
+    },
+    "haysiyet": {
+      "source": "https://www.kanald.com.tr/haysiyet",
+      "posterSource": "https://image.kanald.com.tr/i/kanald/100/0x0/6a918788d73360a42855218c.jpg",
+      "backdropSource": "https://image.kanald.com.tr/i/kanald/100/0x0/6a8d6544b91dc8a83ebb60a2.jpg",
+      "title": "Haysiyet",
+      "poster": "assets/posters/official/haysiyet-poster.jpg",
+      "posterSize": [
+        840,
+        1200
+      ],
+      "backdrop": "assets/posters/official/haysiyet-backdrop.jpg",
+      "backdropSize": [
+        3840,
+        1954
+      ],
+      "posterSHA256": "2104ed4af6f8497951f80b5f014d34ab3b3952157dfaab5d40f342572c839632",
+      "provider": "Official publisher artwork"
+    },
+    "kizil-goncalar": {
+      "source": "https://www.tvmaze.com/shows/73042/kizil-goncalar",
+      "posterSource": "https://static.tvmaze.com/uploads/images/original_untouched/502/1257446.jpg",
+      "backdropSource": "https://static.tvmaze.com/uploads/images/original_untouched/502/1257446.jpg",
+      "title": "Kızıl Goncalar",
+      "provider": "TVmaze show image",
+      "poster": "assets/posters/official/kizil-goncalar-poster.jpg",
+      "posterSize": [
+        1080,
+        1350
+      ],
+      "backdrop": "assets/posters/official/kizil-goncalar-poster.jpg",
+      "backdropSize": [
+        1080,
+        1350
+      ],
+      "posterSHA256": "fef332be6716aeee2255f6d4cdcf1c5f4ec197217273784153f0f7c5c4896b71"
+    },
+    "kurulus-osman": {
+      "source": "https://www.tvmaze.com/shows/44935/kurulus-osman",
+      "posterSource": "https://static.tvmaze.com/uploads/images/original_untouched/480/1200243.jpg",
+      "backdropSource": "https://static.tvmaze.com/uploads/images/original_untouched/480/1200243.jpg",
+      "title": "Kuruluş Osman",
+      "provider": "TVmaze show image",
+      "poster": "assets/posters/official/kurulus-osman-poster.jpg",
+      "posterSize": [
+        720,
+        1066
+      ],
+      "backdrop": "assets/posters/official/kurulus-osman-poster.jpg",
+      "backdropSize": [
+        720,
+        1066
+      ],
+      "posterSHA256": "99f85caf5d6d3d1a1c7cb8e4cf2a4574bd9f30737928ad5ab20ed8cc3a1e6a9e"
+    },
+    "bir-gece-masali": {
+      "source": "https://www.tvmaze.com/shows/79045/bir-gece-masali",
+      "posterSource": "https://static.tvmaze.com/uploads/images/original_untouched/532/1330117.jpg",
+      "backdropSource": "https://static.tvmaze.com/uploads/images/original_untouched/532/1330117.jpg",
+      "title": "Bir Gece Masalı",
+      "provider": "TVmaze show image",
+      "poster": "assets/posters/official/bir-gece-masali-poster.jpg",
+      "posterSize": [
+        1253,
+        1600
+      ],
+      "backdrop": "assets/posters/official/bir-gece-masali-poster.jpg",
+      "backdropSize": [
+        1253,
+        1600
+      ],
+      "posterSHA256": "bf8a9d9d148602fcb384214c3b22d5af2850395341e6f327f77bc4784c1afe5f"
+    },
+    "avrupa-yakasi": {
+      "source": "https://www.tvmaze.com/shows/35824/avrupa-yakasi",
+      "posterSource": "https://static.tvmaze.com/uploads/images/original_untouched/550/1375283.jpg",
+      "backdropSource": "https://static.tvmaze.com/uploads/images/original_untouched/550/1375283.jpg",
+      "title": "Avrupa Yakası",
+      "provider": "TVmaze show image",
+      "poster": "assets/posters/official/avrupa-yakasi-poster.jpg",
+      "posterSize": [
+        842,
+        1191
+      ],
+      "backdrop": "assets/posters/official/avrupa-yakasi-poster.jpg",
+      "backdropSize": [
+        842,
+        1191
+      ],
+      "posterSHA256": "fbeaa09e0bbc253dbe6f88d51e2c7908b0143cba94f08cda77dc3a886cc88597"
+    },
+    "dirilis-ertugrul": {
+      "source": "https://www.tvmaze.com/shows/11834/dirilis-ertugrul",
+      "posterSource": "https://static.tvmaze.com/uploads/images/original_untouched/404/1010852.jpg",
+      "backdropSource": "https://static.tvmaze.com/uploads/images/original_untouched/404/1010852.jpg",
+      "title": "Diriliş Ertuğrul",
+      "provider": "TVmaze show image",
+      "poster": "assets/posters/official/dirilis-ertugrul-poster.jpg",
+      "posterSize": [
+        2000,
+        2857
+      ],
+      "backdrop": "assets/posters/official/dirilis-ertugrul-poster.jpg",
+      "backdropSize": [
+        2000,
+        2857
+      ],
+      "posterSHA256": "9df6c03edd654f6bca5b252c784978e736b054bc6463436565b9ff602a913fec"
+    },
+    "dogdugun-ev-kaderindir": {
+      "source": "https://www.tvmaze.com/shows/45494/dogdugun-ev-kaderindir",
+      "posterSource": "https://static.tvmaze.com/uploads/images/original_untouched/232/580625.jpg",
+      "backdropSource": "https://static.tvmaze.com/uploads/images/original_untouched/232/580625.jpg",
+      "title": "Doğduğun Ev Kaderindir",
+      "provider": "TVmaze show image",
+      "poster": "assets/posters/official/dogdugun-ev-kaderindir-poster.jpg",
+      "posterSize": [
+        680,
+        1000
+      ],
+      "backdrop": "assets/posters/official/dogdugun-ev-kaderindir-poster.jpg",
+      "backdropSize": [
+        680,
+        1000
+      ],
+      "posterSHA256": "dd7623012c065e294b76d60fb8507f0f8034958d8ec0738987390f37964547da"
+    },
+    "kirmizi-oda": {
+      "source": "https://www.tvmaze.com/shows/50015/kirmizi-oda",
+      "posterSource": "https://static.tvmaze.com/uploads/images/original_untouched/392/980841.jpg",
+      "backdropSource": "https://static.tvmaze.com/uploads/images/original_untouched/392/980841.jpg",
+      "title": "Kırmızı Oda",
+      "provider": "TVmaze show image",
+      "poster": "assets/posters/official/kirmizi-oda-poster.jpg",
+      "posterSize": [
+        680,
+        1000
+      ],
+      "backdrop": "assets/posters/official/kirmizi-oda-poster.jpg",
+      "backdropSize": [
+        680,
+        1000
+      ],
+      "posterSHA256": "e28ba9e00ca041afbd8eddd02dd95b5cd788d862612ca719791f13eb8ce79ae1"
+    },
+    "tuzak": {
+      "source": "https://www.tvmaze.com/shows/64050/tuzak",
+      "posterSource": "https://static.tvmaze.com/uploads/images/original_untouched/426/1065361.jpg",
+      "backdropSource": "https://static.tvmaze.com/uploads/images/original_untouched/426/1065361.jpg",
+      "title": "Tuzak",
+      "provider": "TVmaze show image",
+      "poster": "assets/posters/official/tuzak-poster.jpg",
+      "posterSize": [
+        680,
+        1000
+      ],
+      "backdrop": "assets/posters/official/tuzak-poster.jpg",
+      "backdropSize": [
+        680,
+        1000
+      ],
+      "posterSHA256": "bc66d0551414893112f296288396b0111a440ae8688759cce3364b01e0f04db0"
+    },
+    "kiralik-ask": {
+      "source": "https://www.tvmaze.com/shows/7664/kiralik-ask",
+      "posterSource": "https://static.tvmaze.com/uploads/images/original_untouched/28/70548.jpg",
+      "backdropSource": "https://static.tvmaze.com/uploads/images/original_untouched/28/70548.jpg",
+      "title": "Kiralık Aşk",
+      "provider": "TVmaze show image",
+      "poster": "assets/posters/official/kiralik-ask-poster.jpg",
+      "posterSize": [
+        680,
+        1000
+      ],
+      "backdrop": "assets/posters/official/kiralik-ask-poster.jpg",
+      "backdropSize": [
+        680,
+        1000
+      ],
+      "posterSHA256": "a51d2708eee5ccd153f394b592bb655f33ae93a310bcd8017ab1a083bc4c2f2e"
+    },
+    "emanet": {
+      "source": "https://www.tvmaze.com/shows/50860/emanet",
+      "posterSource": "https://static.tvmaze.com/uploads/images/original_untouched/276/690152.jpg",
+      "backdropSource": "https://static.tvmaze.com/uploads/images/original_untouched/276/690152.jpg",
+      "title": "Emanet",
+      "provider": "TVmaze show image",
+      "poster": "assets/posters/official/emanet-poster.jpg",
+      "posterSize": [
+        680,
+        1000
+      ],
+      "backdrop": "assets/posters/official/emanet-poster.jpg",
+      "backdropSize": [
+        680,
+        1000
+      ],
+      "posterSHA256": "2fc8e5e603d294ba80777817dfce59632df77a669aa0dcab267002f1e356c801"
+    },
+    "esaret": {
+      "source": "https://www.tvmaze.com/shows/65979/esaret",
+      "posterSource": "https://static.tvmaze.com/uploads/images/original_untouched/516/1290878.jpg",
+      "backdropSource": "https://static.tvmaze.com/uploads/images/original_untouched/516/1290878.jpg",
+      "title": "Esaret",
+      "provider": "TVmaze show image",
+      "poster": "assets/posters/official/esaret-poster.jpg",
+      "posterSize": [
+        667,
+        1002
+      ],
+      "backdrop": "assets/posters/official/esaret-poster.jpg",
+      "backdropSize": [
+        667,
+        1002
+      ],
+      "posterSHA256": "2f511b10b9c47dce7a7fdb01eae37ae528af2da4bf9a8dda6b420b4930c0dc8c"
+    },
+    "yemin": {
+      "source": "https://www.tvmaze.com/shows/41764/yemin",
+      "posterSource": "https://static.tvmaze.com/uploads/images/original_untouched/230/575547.jpg",
+      "backdropSource": "https://static.tvmaze.com/uploads/images/original_untouched/230/575547.jpg",
+      "title": "Yemin",
+      "provider": "TVmaze show image",
+      "poster": "assets/posters/official/yemin-poster.jpg",
+      "posterSize": [
+        1080,
+        1350
+      ],
+      "backdrop": "assets/posters/official/yemin-poster.jpg",
+      "backdropSize": [
+        1080,
+        1350
+      ],
+      "posterSHA256": "0d57d23fd783c59222647156da172ef0a594176e2153384880e41a67e6a1491d"
+    },
+    "mehmed": {
+      "source": "https://www.tvmaze.com/shows/74784/mehmed-fetihler-sultani",
+      "posterSource": "https://static.tvmaze.com/uploads/images/original_untouched/505/1263576.jpg",
+      "backdropSource": "https://static.tvmaze.com/uploads/images/original_untouched/505/1263576.jpg",
+      "title": "Mehmed: Fetihler Sultanı",
+      "provider": "TVmaze show image",
+      "poster": "assets/posters/official/mehmed-poster.jpg",
+      "posterSize": [
+        1000,
+        1501
+      ],
+      "backdrop": "assets/posters/official/mehmed-poster.jpg",
+      "backdropSize": [
+        1000,
+        1501
+      ],
+      "posterSHA256": "5aeb5857e89907a107c6edf7f9b7fc6834f871edc444cfb8c067b890a73c1942"
+    },
+    "icerde": {
+      "source": "https://www.showtv.com.tr/dizi/tanitim/icerde/1681",
+      "posterSource": "https://mo.ciner.com.tr/showtv/iu/400x400/icerde.jpg?v=1787209596",
+      "backdropSource": "https://mo.ciner.com.tr/showtv/iu/300x200/icerde.jpg?v=1787209596",
+      "title": "İçerde",
+      "provider": "show",
+      "startYear": 2016,
+      "poster": "assets/posters/official/icerde-poster.jpg",
+      "posterSize": [
+        400,
+        400
+      ],
+      "posterSHA256": "f7c91dc31f4d0177ff696b2b5a9e5f6536774206b84bb7c2bdd426214fc46956",
+      "backdrop": "assets/posters/official/icerde-backdrop.jpg",
+      "backdropSize": [
+        300,
+        200
+      ],
+      "backdropSHA256": "f78faa2517c5fce736447f84757c7fbdeb926bb33cb1458e1a0ddb1d38da17ec"
+    },
+    "ezel": {
+      "source": "https://www.atv.com.tr/ezel",
+      "posterSource": "https://iaatv.tmgrup.com.tr/31617c/0/0/0/0/0/0?u=https://iatv.tmgrup.com.tr/2021/06/24/500x268/1624538796774.jpg",
+      "backdropSource": "https://iaatv.tmgrup.com.tr/31617c/0/0/0/0/0/0?u=https://iatv.tmgrup.com.tr/2021/06/24/500x268/1624538796774.jpg",
+      "title": "Ezel",
+      "provider": "atv",
+      "startYear": 2009,
+      "poster": "assets/posters/official/ezel-poster.webp",
+      "posterSize": [
+        500,
+        268
+      ],
+      "posterSHA256": "a0726717144cbf821e9f56ffea3ee3253eb095a8299acdf64c96c42cf8194c20",
+      "backdrop": "assets/posters/official/ezel-backdrop.webp",
+      "backdropSize": [
+        500,
+        268
+      ],
+      "backdropSHA256": "a0726717144cbf821e9f56ffea3ee3253eb095a8299acdf64c96c42cf8194c20"
+    },
+    "suskunlar": {
+      "source": "https://www.showtv.com.tr/dizi/tanitim/suskunlar/1041",
+      "posterSource": "https://mo.ciner.com.tr/showtv/iu/400x400/suskunlar.jpg?v=1706513300",
+      "backdropSource": "https://mo.ciner.com.tr/showtv/iu/300x200/suskunlar.jpg?v=1706513300",
+      "title": "Suskunlar",
+      "provider": "show",
+      "startYear": 2012,
+      "poster": "assets/posters/official/suskunlar-poster.jpg",
+      "posterSize": [
+        400,
+        400
+      ],
+      "posterSHA256": "1b88f2303b5f6a9b286560a3d6cfcb1c903ae8341248d0af7916ea04b09fdc4e",
+      "backdrop": "assets/posters/official/suskunlar-backdrop.jpg",
+      "backdropSize": [
+        300,
+        200
+      ],
+      "backdropSHA256": "55b61ed3691aacc14bdbafc8896a446c09712b0b78a16d494d220ca23489765b"
+    },
+    "ramo": {
+      "source": "https://www.showtv.com.tr/dizi/tanitim/ramo/2665",
+      "posterSource": "https://mo.ciner.com.tr/showtv/iu/400x400/ramo.jpg?v=1719842298",
+      "backdropSource": "https://mo.ciner.com.tr/showtv/iu/300x200/ramo.jpg?v=1719842298",
+      "title": "Ramo",
+      "provider": "show",
+      "startYear": 2020,
+      "poster": "assets/posters/official/ramo-poster.jpg",
+      "posterSize": [
+        400,
+        400
+      ],
+      "posterSHA256": "e85a5b2aa3d52d96291cec88aef3fb9cec254b0afe28d7ed2c879cde2ba73ec2",
+      "backdrop": "assets/posters/official/ramo-backdrop.jpg",
+      "backdropSize": [
+        300,
+        200
+      ],
+      "backdropSHA256": "e3e6dbcc82201a58e2851fd78c3c487f33008ece89f6d320c837fee1ab6dc63f"
+    },
+    "carpisma": {
+      "source": "https://www.showtv.com.tr/dizi/tanitim/carpisma/2374",
+      "posterSource": "https://mo.ciner.com.tr/showtv/iu/400x400/carpisma.jpg?v=1776153198",
+      "backdropSource": "https://mo.ciner.com.tr/showtv/iu/300x200/carpisma.jpg?v=1776153198",
+      "title": "Çarpışma",
+      "provider": "show",
+      "startYear": 2018,
+      "poster": "assets/posters/official/carpisma-poster.jpg",
+      "posterSize": [
+        400,
+        400
+      ],
+      "posterSHA256": "3aed5c8ec4df5b58bb3c271d8464b6a25193bb5d3acb7a548fb38f9e9f41d31f",
+      "backdrop": "assets/posters/official/carpisma-backdrop.jpg",
+      "backdropSize": [
+        300,
+        200
+      ],
+      "backdropSHA256": "c2f3868ac3fe2c59677e96332fdc450736216f35d045f3e391a32a0931da59f8"
+    },
+    "ask-laftan-anlamaz": {
+      "source": "https://www.showtv.com.tr/dizi/tanitim/ask-laftan-anlamaz/1622",
+      "posterSource": "https://mo.ciner.com.tr/showtv/iu/400x400/ask-laftan-anlamaz.jpg?v=1711549120",
+      "backdropSource": "https://mo.ciner.com.tr/showtv/iu/300x200/ask-laftan-anlamaz.jpg?v=1711549120",
+      "title": "Aşk Laftan Anlamaz",
+      "provider": "show",
+      "startYear": 2016,
+      "poster": "assets/posters/official/ask-laftan-anlamaz-poster.jpg",
+      "posterSize": [
+        400,
+        400
+      ],
+      "posterSHA256": "cd9122c6797499fd2a2acd627554fe4a890f57b3e6ce1e12e6e2685ab8deeeac",
+      "backdrop": "assets/posters/official/ask-laftan-anlamaz-backdrop.jpg",
+      "backdropSize": [
+        300,
+        200
+      ],
+      "backdropSHA256": "deef5db92b0b41e35ba7f7f49bbadc00d4f9069a2a0e3a59163a3d4dcb2545a0"
+    },
+    "iliski-durumu-karisik": {
+      "source": "https://www.showtv.com.tr/dizi/tanitim/iliski-durumu-karisik/1434",
+      "posterSource": "https://mo.ciner.com.tr/showtv/iu/400x400/iliski-durumu-karisik.jpg?v=1706513518",
+      "backdropSource": "https://mo.ciner.com.tr/showtv/iu/300x200/iliski-durumu-karisik.jpg?v=1706513518",
+      "title": "İlişki Durumu Karışık",
+      "provider": "show",
+      "startYear": 2015,
+      "poster": "assets/posters/official/iliski-durumu-karisik-poster.jpg",
+      "posterSize": [
+        400,
+        400
+      ],
+      "posterSHA256": "8fd7c1a32a190c36dc4294f3b7af8efc61e3d153df7c396eaa9a073dace4d2cf",
+      "backdrop": "assets/posters/official/iliski-durumu-karisik-backdrop.jpg",
+      "backdropSize": [
+        300,
+        200
+      ],
+      "backdropSHA256": "d0748bd6214bb208c4b6c5a9c74700dd88f3e7626c134a80cea1c8c1120a796d"
+    },
+    "yeni-gelin": {
+      "source": "https://www.showtv.com.tr/dizi/tanitim/yeni-gelin/1752",
+      "posterSource": "https://mo.ciner.com.tr/showtv/iu/400x400/yeni-gelin.jpg?v=1787820054",
+      "backdropSource": "https://mo.ciner.com.tr/showtv/iu/300x200/yeni-gelin.jpg?v=1787820054",
+      "title": "Yeni Gelin",
+      "provider": "show",
+      "startYear": 2017,
+      "poster": "assets/posters/official/yeni-gelin-poster.jpg",
+      "posterSize": [
+        400,
+        400
+      ],
+      "posterSHA256": "db9877af4c4822f6f68ff742ed714924d79b0923736fd3c6e53753b3d2eeb4d5",
+      "backdrop": "assets/posters/official/yeni-gelin-backdrop.jpg",
+      "backdropSize": [
+        300,
+        200
+      ],
+      "backdropSHA256": "5d44a39915f346d612b1619946fac2bbf29236ad042bfa2cd4b564000dd2abb9"
+    },
+    "kuzey-yildizi-ilk-ask": {
+      "source": "https://www.showtv.com.tr/dizi/tanitim/kuzey-yildizi-ilk-ask/2595",
+      "posterSource": "https://mo.ciner.com.tr/showtv/iu/400x400/kuzey-yildizi-ilk-ask.jpg?v=1787210153",
+      "backdropSource": "https://mo.ciner.com.tr/showtv/iu/300x200/kuzey-yildizi-ilk-ask.jpg?v=1787210153",
+      "title": "Kuzey Yıldızı İlk Aşk",
+      "provider": "show",
+      "startYear": 2019,
+      "poster": "assets/posters/official/kuzey-yildizi-ilk-ask-poster.jpg",
+      "posterSize": [
+        400,
+        400
+      ],
+      "posterSHA256": "7352a571c0945574cf1ac0c1be49e74ad7073cfc415b8e95a28d1afd578db7aa",
+      "backdrop": "assets/posters/official/kuzey-yildizi-ilk-ask-backdrop.jpg",
+      "backdropSize": [
+        300,
+        200
+      ],
+      "backdropSHA256": "f3f0f6cedcfb3a05010dd28965added7b38c4bc393ce46e9b07bc1fd4dc22598"
+    },
+    "kalp-atisi": {
+      "source": "https://www.showtv.com.tr/dizi/tanitim/kalp-atisi/1884",
+      "posterSource": "https://mo.ciner.com.tr/showtv/iu/400x400/kalp-atisi.jpg?v=1706513760",
+      "backdropSource": "https://mo.ciner.com.tr/showtv/iu/300x200/kalp-atisi.jpg?v=1706513760",
+      "title": "Kalp Atışı",
+      "provider": "show",
+      "startYear": 2017,
+      "poster": "assets/posters/official/kalp-atisi-poster.jpg",
+      "posterSize": [
+        400,
+        400
+      ],
+      "posterSHA256": "5d2abc0b79ce06b68a378fd028322497cdad8855641f1c524ac54cd432c9dd6a",
+      "backdrop": "assets/posters/official/kalp-atisi-backdrop.jpg",
+      "backdropSize": [
+        300,
+        200
+      ],
+      "backdropSHA256": "0a0d679d1d6acdfb0f2f7041f645f729107d772f69ca39d6f7055e735edf7543"
+    },
+    "erkenci-kus": {
+      "source": "https://www.startv.com.tr/dizi/erkenci-kus",
+      "posterSource": "https://media.startv.com.tr/star-tv//images/9f67254a4a5bb8f5c3e08cec.jpg",
+      "backdropSource": "https://media.startv.com.tr/star-tv//images/c3a4add540438b4a5a2bab29.jpg",
+      "title": "Erkenci Kuş",
+      "provider": "star",
+      "startYear": 2018,
+      "poster": "assets/posters/official/erkenci-kus-poster.jpg",
+      "posterSize": [
+        1077,
+        1500
+      ],
+      "posterSHA256": "bf12e435a1073ed85f60fdeffec2e1f55e37c78c6d603f187ab12f56e3f0544b",
+      "backdrop": "assets/posters/official/erkenci-kus-backdrop.jpg",
+      "backdropSize": [
+        1600,
+        447
+      ],
+      "backdropSHA256": "aa9aef8352c88a61f9d11312dc4b9f9e5fc4e1126494eb50f2312c224169d157"
+    },
+    "aziz": {
+      "source": "https://www.showtv.com.tr/dizi/tanitim/aziz/2818",
+      "posterSource": "https://mo.ciner.com.tr/showtv/iu/400x400/aziz.jpg?v=1719842291",
+      "backdropSource": "https://mo.ciner.com.tr/showtv/iu/300x200/aziz.jpg?v=1719842291",
+      "title": "Aziz",
+      "provider": "show",
+      "startYear": 2021,
+      "poster": "assets/posters/official/aziz-poster.jpg",
+      "posterSize": [
+        400,
+        400
+      ],
+      "posterSHA256": "8f0975998a74072f8a2c5235f9438d3285d02e2db25f9caf3d7a4848e2321269",
+      "backdrop": "assets/posters/official/aziz-backdrop.jpg",
+      "backdropSize": [
+        300,
+        200
+      ],
+      "backdropSHA256": "f50685587318e6ed8d17a8cec541ef2d29a93ab9f3c1e9c9496fae2235bb03a4"
+    },
+    "cilek-kokusu": {
+      "source": "https://www.startv.com.tr/dizi/cilek-kokusu",
+      "posterSource": "https://media.startv.com.tr/star-tv//images/66ad748a42fb8d51b16090ea.jpg",
+      "backdropSource": "https://media.startv.com.tr/star-tv//images/17c56dc04a4d80e2fb6483d6.jpg",
+      "title": "Çilek Kokusu",
+      "provider": "star",
+      "startYear": 2015,
+      "poster": "assets/posters/official/cilek-kokusu-poster.jpg",
+      "posterSize": [
+        1242,
+        1730
+      ],
+      "posterSHA256": "bb82ecb997f8cbcc33c7d5d93cf101b933c5133ed59cfb059da5760e75ec1132",
+      "backdrop": "assets/posters/official/cilek-kokusu-backdrop.jpg",
+      "backdropSize": [
+        1920,
+        445
+      ],
+      "backdropSHA256": "8e54a5c1975505605628f3145ed564b1079cb50d49f8eb3e1633f891aaf87f53"
+    },
+    "fazilet-hanim-ve-kizlari": {
+      "source": "https://www.startv.com.tr/dizi/fazilet-hanim-ve-kizlari",
+      "posterSource": "https://media.startv.com.tr/star-tv//images/b9e6b5364e7ba9fbfb697642.jpg",
+      "backdropSource": "https://media.startv.com.tr/star-tv//images/e5a6ad7941fcab8184e52e0d.jpg",
+      "title": "Fazilet Hanım ve Kızları",
+      "provider": "star",
+      "startYear": 2017,
+      "poster": "assets/posters/official/fazilet-hanim-ve-kizlari-poster.jpg",
+      "posterSize": [
+        1242,
+        1730
+      ],
+      "posterSHA256": "c5edcc2b5f2e6c29c9a5de8058dfe739798836458d50ce5133195d4305189c4b",
+      "backdrop": "assets/posters/official/fazilet-hanim-ve-kizlari-backdrop.jpg",
+      "backdropSize": [
+        1600,
+        447
+      ],
+      "backdropSHA256": "aff57b9a10f46d82eb11c83943e0386ba2da2626a7b776ab4b88567a313bc12e"
+    },
+    "ariza": {
+      "source": "https://www.showtv.com.tr/dizi/tanitim/ariza/2745",
+      "posterSource": "https://mo.ciner.com.tr/showtv/iu/400x400/ariza.jpg?v=1719842242",
+      "backdropSource": "https://mo.ciner.com.tr/showtv/iu/300x200/ariza.jpg?v=1719842242",
+      "title": "Arıza",
+      "provider": "show",
+      "startYear": 2020,
+      "poster": "assets/posters/official/ariza-poster.jpg",
+      "posterSize": [
+        400,
+        400
+      ],
+      "posterSHA256": "19c7a5a0c4d408d41856102c60edb075341c878308c58b354ff20b1254612caa",
+      "backdrop": "assets/posters/official/ariza-backdrop.jpg",
+      "backdropSize": [
+        300,
+        200
+      ],
+      "backdropSHA256": "8864361535e05bda267f9bd3939beecbfb5a4670f1d8fc8256eb90b2247c4831"
+    },
+    "istanbullu-gelin": {
+      "source": "https://www.startv.com.tr/dizi/istanbullu-gelin",
+      "posterSource": "https://media.startv.com.tr/star-tv//images/3cc178744d15b67cbe2be665.jpg",
+      "backdropSource": "https://media.startv.com.tr/star-tv//images/2cf891d34f078e3fd0a7fbb6.jpg",
+      "title": "İstanbullu Gelin",
+      "provider": "star",
+      "startYear": 2017,
+      "poster": "assets/posters/official/istanbullu-gelin-poster.jpg",
+      "posterSize": [
+        1242,
+        1730
+      ],
+      "posterSHA256": "ba3b4931bb7eda18f3424e9bf6571de15041deac976d463de15f7fbf42ad81fa",
+      "backdrop": "assets/posters/official/istanbullu-gelin-backdrop.jpg",
+      "backdropSize": [
+        1600,
+        447
+      ],
+      "backdropSHA256": "0cb94f1e308522c6dff031e6765e6202d5e08e3e8a8a708fcaa65dda96526f27"
+    },
+    "sefirin-kizi": {
+      "source": "https://www.startv.com.tr/dizi/sefirin-kizi",
+      "posterSource": "https://media.startv.com.tr/star-tv//images/3b8c6cf8462488039fcaa61c.jpg",
+      "backdropSource": "https://media.startv.com.tr/star-tv//images/a41590f84676b41ee483c426.jpg",
+      "title": "Sefirin Kızı",
+      "provider": "star",
+      "startYear": 2019,
+      "poster": "assets/posters/official/sefirin-kizi-poster.jpg",
+      "posterSize": [
+        1242,
+        1730
+      ],
+      "posterSHA256": "99d456b5fff9008ba766ed81d4d30752fe66a3d11b024a82755bfd0bade902c7",
+      "backdrop": "assets/posters/official/sefirin-kizi-backdrop.jpg",
+      "backdropSize": [
+        1600,
+        445
+      ],
+      "backdropSHA256": "59e2fcc3ed312e776a3464b211bc314e4c68a60038f3fab688ee7bfd5f1cf384"
+    },
+    "menajerimi-ara": {
+      "source": "https://www.startv.com.tr/dizi/menajerimi-ara",
+      "posterSource": "https://media.startv.com.tr/star-tv//images/c778fa484c75afbd3f37aa11.jpg",
+      "backdropSource": "https://media.startv.com.tr/star-tv//images/560f07934a3ba2a22c18f424.jpg",
+      "title": "Menajerimi Ara",
+      "provider": "star",
+      "startYear": 2020,
+      "poster": "assets/posters/official/menajerimi-ara-poster.jpg",
+      "posterSize": [
+        1242,
+        1730
+      ],
+      "posterSHA256": "4eef0f9b2ac5c58c914c4e5551bb76a3863793f79fb368ff2c389e0b61873ebf",
+      "backdrop": "assets/posters/official/menajerimi-ara-backdrop.jpg",
+      "backdropSize": [
+        1600,
+        445
+      ],
+      "backdropSHA256": "111d770e743c8aadb9d57c74d407d8e52084a9f5fae1c4b908571fb594600f9b"
+    },
+    "gulperi": {
+      "source": "https://www.showtv.com.tr/dizi/tanitim/gulperi/2338",
+      "posterSource": "https://mo.ciner.com.tr/showtv/iu/400x400/gulperi.jpg?v=1706513778",
+      "backdropSource": "https://mo.ciner.com.tr/showtv/iu/300x200/gulperi.jpg?v=1706513778",
+      "title": "Gülperi",
+      "provider": "show",
+      "startYear": 2018,
+      "poster": "assets/posters/official/gulperi-poster.jpg",
+      "posterSize": [
+        400,
+        400
+      ],
+      "posterSHA256": "64b138d6b55f150fc2316822d9f70374fd8b903ec188c88e2bf9595dbc127f0a",
+      "backdrop": "assets/posters/official/gulperi-backdrop.jpg",
+      "backdropSize": [
+        300,
+        200
+      ],
+      "backdropSHA256": "c9219d22ece09e0c8b6b72d7b0e2a8908038df768c7496a506e9bd4caa08a4e6"
+    },
+    "zemheri": {
+      "source": "https://www.showtv.com.tr/dizi/tanitim/zemheri/2672",
+      "posterSource": "https://mo.ciner.com.tr/showtv/iu/400x400/zemheri.jpg?v=1719842007",
+      "backdropSource": "https://mo.ciner.com.tr/showtv/iu/300x200/zemheri.jpg?v=1719842007",
+      "title": "Zemheri",
+      "provider": "show",
+      "startYear": 2020,
+      "poster": "assets/posters/official/zemheri-poster.jpg",
+      "posterSize": [
+        400,
+        400
+      ],
+      "posterSHA256": "d51d200bd6a2a11beed013a1e8767f656ebfa8c80af2ec4b2a36daff650e7912",
+      "backdrop": "assets/posters/official/zemheri-backdrop.jpg",
+      "backdropSize": [
+        300,
+        200
+      ],
+      "backdropSHA256": "41fdd2e273de1cc4fed71b47d1cba7011520fe870f39c1574e7c71429789e793"
+    }
+  }
+}
