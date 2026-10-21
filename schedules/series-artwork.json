@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-10-19T02:44:11.107963+00:00",
+  "checkedAt": "2026-10-21T20:38:09.389071+00:00",
   "publicBase": "https://ozturk-iptv-iphone.mobile-cloud.workers.dev/",
   "items": {
     "aile": {
@@ -1486,6 +1486,956 @@
         200
       ],
       "backdropSHA256": "9c11c90c182daff474e13f37dfc12d6ee1da4486fca697d627b4e2f7d71ced0f"
+    },
+    "kara-sevda": {
+      "source": "https://www.tvmaze.com/shows/7580/kara-sevda",
+      "posterSource": "https://static.tvmaze.com/uploads/images/original_untouched/76/191358.jpg",
+      "backdropSource": "https://static.tvmaze.com/uploads/images/original_untouched/76/191358.jpg",
+      "title": "Kara Sevda",
+      "provider": "TVmaze show image",
+      "startYear": 2015,
+      "poster": "assets/posters/official/kara-sevda-poster.jpg",
+      "backdrop": "assets/posters/official/kara-sevda-poster.jpg",
+      "posterSize": [
+        680,
+        1000
+      ],
+      "backdropSize": [
+        680,
+        1000
+      ],
+      "posterSHA256": "c266ed950009803da750f2f99daed6cb4b9906c4266035b65914360ce480fe2f"
+    },
+    "medcezir": {
+      "source": "https://www.tvmaze.com/shows/18758/medcezir",
+      "posterSource": "https://static.tvmaze.com/uploads/images/original_untouched/64/161868.jpg",
+      "backdropSource": "https://static.tvmaze.com/uploads/images/original_untouched/64/161868.jpg",
+      "title": "Medcezir",
+      "provider": "TVmaze show image",
+      "startYear": 2013,
+      "poster": "assets/posters/official/medcezir-poster.jpg",
+      "backdrop": "assets/posters/official/medcezir-poster.jpg",
+      "posterSize": [
+        680,
+        1000
+      ],
+      "backdropSize": [
+        680,
+        1000
+      ],
+      "posterSHA256": "d7e9a1af60e1c6666224d6f5a942407032680140d9177a4246bc5b53c8a23494"
+    },
+    "ufak-tefek-cinayetler": {
+      "source": "https://www.tvmaze.com/shows/32557/ufak-tefek-cinayetler",
+      "posterSource": "https://static.tvmaze.com/uploads/images/original_untouched/130/325880.jpg",
+      "backdropSource": "https://static.tvmaze.com/uploads/images/original_untouched/130/325880.jpg",
+      "title": "Ufak Tefek Cinayetler",
+      "provider": "TVmaze show image",
+      "startYear": 2017,
+      "poster": "assets/posters/official/ufak-tefek-cinayetler-poster.jpg",
+      "backdrop": "assets/posters/official/ufak-tefek-cinayetler-poster.jpg",
+      "posterSize": [
+        671,
+        960
+      ],
+      "backdropSize": [
+        671,
+        960
+      ],
+      "posterSHA256": "647a9b70b3fbe644dd1a737fdb8fc098b9185e2414783c7fa25fad53c769b089"
+    },
+    "soz": {
+      "source": "https://www.tvmaze.com/shows/29702/soz",
+      "posterSource": "https://static.tvmaze.com/uploads/images/original_untouched/117/294977.jpg",
+      "backdropSource": "https://static.tvmaze.com/uploads/images/original_untouched/117/294977.jpg",
+      "title": "Söz",
+      "provider": "TVmaze show image",
+      "startYear": 2017,
+      "poster": "assets/posters/official/soz-poster.jpg",
+      "backdrop": "assets/posters/official/soz-poster.jpg",
+      "posterSize": [
+        680,
+        1000
+      ],
+      "backdropSize": [
+        680,
+        1000
+      ],
+      "posterSHA256": "2105b774fbf39bd49a63ebe17640ae9b60ebc6aac7722afeaef37caa0f205f37"
+    },
+    "avlu": {
+      "source": "https://www.tvmaze.com/shows/35669/avlu",
+      "posterSource": "https://static.tvmaze.com/uploads/images/original_untouched/550/1375252.jpg",
+      "backdropSource": "https://static.tvmaze.com/uploads/images/original_untouched/550/1375252.jpg",
+      "title": "Avlu",
+      "provider": "TVmaze show image",
+      "startYear": 2018,
+      "poster": "assets/posters/official/avlu-poster.jpg",
+      "backdrop": "assets/posters/official/avlu-poster.jpg",
+      "posterSize": [
+        667,
+        1000
+      ],
+      "backdropSize": [
+        667,
+        1000
+      ],
+      "posterSHA256": "d67f45d001a34de110a6f7c719854b6b98dc415a50b93ac639e70e40b414f2d8"
+    },
+    "dolunay": {
+      "source": "https://www.tvmaze.com/shows/30122/dolunay",
+      "posterSource": "https://static.tvmaze.com/uploads/images/original_untouched/122/306140.jpg",
+      "backdropSource": "https://static.tvmaze.com/uploads/images/original_untouched/122/306140.jpg",
+      "title": "Dolunay",
+      "provider": "TVmaze show image",
+      "startYear": 2017,
+      "poster": "assets/posters/official/dolunay-poster.jpg",
+      "backdrop": "assets/posters/official/dolunay-poster.jpg",
+      "posterSize": [
+        677,
+        1000
+      ],
+      "backdropSize": [
+        677,
+        1000
+      ],
+      "posterSHA256": "f7ad95dc13e55a5806aa666cd603e3eed9ad8ea3b61e91567581d55ce1226f39"
+    },
+    "ada-masali": {
+      "source": "https://www.tvmaze.com/shows/55558/ada-masali",
+      "posterSource": "https://static.tvmaze.com/uploads/images/original_untouched/328/821794.jpg",
+      "backdropSource": "https://static.tvmaze.com/uploads/images/original_untouched/328/821794.jpg",
+      "title": "Ada Masalı",
+      "provider": "TVmaze show image",
+      "startYear": 2021,
+      "poster": "assets/posters/official/ada-masali-poster.jpg",
+      "backdrop": "assets/posters/official/ada-masali-poster.jpg",
+      "posterSize": [
+        680,
+        1000
+      ],
+      "backdropSize": [
+        680,
+        1000
+      ],
+      "posterSHA256": "b5a6a35af5b185ea7713916223bbb5533dad59ea2a9f9df55468a9e60e99afcf"
+    },
+    "kazara-ask": {
+      "source": "https://www.tvmaze.com/shows/55560/kazara-ask",
+      "posterSource": "https://static.tvmaze.com/uploads/images/original_untouched/330/825657.jpg",
+      "backdropSource": "https://static.tvmaze.com/uploads/images/original_untouched/330/825657.jpg",
+      "title": "Kazara Aşk",
+      "provider": "TVmaze show image",
+      "startYear": 2021,
+      "poster": "assets/posters/official/kazara-ask-poster.jpg",
+      "backdrop": "assets/posters/official/kazara-ask-poster.jpg",
+      "posterSize": [
+        680,
+        851
+      ],
+      "backdropSize": [
+        680,
+        851
+      ],
+      "posterSHA256": "4037f347617cb0ebdf9d28f456d1fb672b9f8858badd981daca373fbfc1de1fe"
+    },
+    "hayat-bazen-tatlidir": {
+      "source": "https://www.tvmaze.com/shows/22680/hayat-bazen-tatlidir",
+      "posterSource": "https://static.tvmaze.com/uploads/images/original_untouched/83/209864.jpg",
+      "backdropSource": "https://static.tvmaze.com/uploads/images/original_untouched/83/209864.jpg",
+      "title": "Hayat Bazen Tatlıdır",
+      "provider": "TVmaze show image",
+      "startYear": 2016,
+      "poster": "assets/posters/official/hayat-bazen-tatlidir-poster.jpg",
+      "backdrop": "assets/posters/official/hayat-bazen-tatlidir-poster.jpg",
+      "posterSize": [
+        680,
+        834
+      ],
+      "backdropSize": [
+        680,
+        834
+      ],
+      "posterSHA256": "f3decefa5b582512d675aad3b6307d232f265a4f96daae617ca1e9ed0c1fbf6f"
+    },
+    "sen-anlat-karadeniz": {
+      "source": "https://www.tvmaze.com/shows/34455/sen-anlat-karadeniz",
+      "posterSource": "https://static.tvmaze.com/uploads/images/original_untouched/142/357411.jpg",
+      "backdropSource": "https://static.tvmaze.com/uploads/images/original_untouched/142/357411.jpg",
+      "title": "Sen Anlat Karadeniz",
+      "provider": "TVmaze show image",
+      "startYear": 2018,
+      "poster": "assets/posters/official/sen-anlat-karadeniz-poster.jpg",
+      "backdrop": "assets/posters/official/sen-anlat-karadeniz-poster.jpg",
+      "posterSize": [
+        675,
+        399
+      ],
+      "backdropSize": [
+        675,
+        399
+      ],
+      "posterSHA256": "c091a11086eeaef1d772bddf690d8e8edb084f3407592528e42d29d93ac7ef81"
+    },
+    "hercai": {
+      "source": "https://www.tvmaze.com/shows/41400/hercai",
+      "posterSource": "https://static.tvmaze.com/uploads/images/original_untouched/188/470745.jpg",
+      "backdropSource": "https://static.tvmaze.com/uploads/images/original_untouched/188/470745.jpg",
+      "title": "Hercai",
+      "provider": "TVmaze show image",
+      "startYear": 2019,
+      "poster": "assets/posters/official/hercai-poster.jpg",
+      "backdrop": "assets/posters/official/hercai-poster.jpg",
+      "posterSize": [
+        680,
+        1000
+      ],
+      "backdropSize": [
+        680,
+        1000
+      ],
+      "posterSHA256": "dfa3c4480064b817cc339890713ab88fd376b1b0a41a4d2b90649a23fa8e6fb9"
+    },
+    "marasli": {
+      "source": "https://www.tvmaze.com/shows/52594/marasli",
+      "posterSource": "https://static.tvmaze.com/uploads/images/original_untouched/290/726055.jpg",
+      "backdropSource": "https://static.tvmaze.com/uploads/images/original_untouched/290/726055.jpg",
+      "title": "Maraşlı",
+      "provider": "TVmaze show image",
+      "startYear": 2021,
+      "poster": "assets/posters/official/marasli-poster.jpg",
+      "backdrop": "assets/posters/official/marasli-poster.jpg",
+      "posterSize": [
+        680,
+        1000
+      ],
+      "backdropSize": [
+        680,
+        1000
+      ],
+      "posterSHA256": "6c5b9be86b54e29d3ac25ef7267f2bb6cc5b925748b3f6fb90653df73df0590b"
+    },
+    "karadayi": {
+      "source": "https://www.tvmaze.com/shows/17719/karadayi",
+      "posterSource": "https://static.tvmaze.com/uploads/images/original_untouched/59/149051.jpg",
+      "backdropSource": "https://static.tvmaze.com/uploads/images/original_untouched/59/149051.jpg",
+      "title": "Karadayı",
+      "provider": "TVmaze show image",
+      "startYear": 2012,
+      "poster": "assets/posters/official/karadayi-poster.jpg",
+      "backdrop": "assets/posters/official/karadayi-poster.jpg",
+      "posterSize": [
+        680,
+        1000
+      ],
+      "backdropSize": [
+        680,
+        1000
+      ],
+      "posterSHA256": "8f9e0cd5139f2faffac60db1f1c12327472cb9ef6e8481b1c670da3edc5e54b1"
+    },
+    "eskiya-dunyaya-hukumdar-olmaz": {
+      "source": "https://www.tvmaze.com/shows/12047/eskiya-dunyaya-hukumdar-olmaz",
+      "posterSource": "https://static.tvmaze.com/uploads/images/original_untouched/40/101001.jpg",
+      "backdropSource": "https://static.tvmaze.com/uploads/images/original_untouched/40/101001.jpg",
+      "title": "Eşkıya Dünyaya Hükümdar Olmaz",
+      "provider": "TVmaze show image",
+      "startYear": 2015,
+      "poster": "assets/posters/official/eskiya-dunyaya-hukumdar-olmaz-poster.jpg",
+      "backdrop": "assets/posters/official/eskiya-dunyaya-hukumdar-olmaz-poster.jpg",
+      "posterSize": [
+        680,
+        1000
+      ],
+      "backdropSize": [
+        680,
+        1000
+      ],
+      "posterSHA256": "856484b6627ef467bb5c0785b64fe68526356288d970541c7ac8371bff45ebf9"
+    },
+    "ask-ve-mavi": {
+      "source": "https://www.tvmaze.com/shows/22829/ask-ve-mavi",
+      "posterSource": "https://static.tvmaze.com/uploads/images/original_untouched/84/211576.jpg",
+      "backdropSource": "https://static.tvmaze.com/uploads/images/original_untouched/84/211576.jpg",
+      "title": "Aşk ve Mavi",
+      "provider": "TVmaze show image",
+      "startYear": 2016,
+      "poster": "assets/posters/official/ask-ve-mavi-poster.jpg",
+      "backdrop": "assets/posters/official/ask-ve-mavi-poster.jpg",
+      "posterSize": [
+        353,
+        530
+      ],
+      "backdropSize": [
+        353,
+        530
+      ],
+      "posterSHA256": "7bf235eb7c7c34972adf8e319f061d1185bc8d72dada33c43e14196cebe36687"
+    },
+    "ates-kuslari": {
+      "source": "https://www.tvmaze.com/shows/66385/ates-kuslari",
+      "posterSource": "https://static.tvmaze.com/uploads/images/original_untouched/441/1104114.jpg",
+      "backdropSource": "https://static.tvmaze.com/uploads/images/original_untouched/441/1104114.jpg",
+      "title": "Ateş Kuşları",
+      "provider": "TVmaze show image",
+      "startYear": 2023,
+      "poster": "assets/posters/official/ates-kuslari-poster.jpg",
+      "backdrop": "assets/posters/official/ates-kuslari-poster.jpg",
+      "posterSize": [
+        680,
+        1000
+      ],
+      "backdropSize": [
+        680,
+        1000
+      ],
+      "posterSHA256": "b568fd8a908bc9effed662a0dd52099412ec14cc0783395182f986ad33b3f03f"
+    },
+    "kardeslerim": {
+      "source": "https://www.tvmaze.com/shows/53620/kardeslerim",
+      "posterSource": "https://static.tvmaze.com/uploads/images/original_untouched/297/742631.jpg",
+      "backdropSource": "https://static.tvmaze.com/uploads/images/original_untouched/297/742631.jpg",
+      "title": "Kardeşlerim",
+      "provider": "TVmaze show image",
+      "startYear": 2021,
+      "poster": "assets/posters/official/kardeslerim-poster.jpg",
+      "backdrop": "assets/posters/official/kardeslerim-poster.jpg",
+      "posterSize": [
+        585,
+        1000
+      ],
+      "backdropSize": [
+        585,
+        1000
+      ],
+      "posterSHA256": "bdf8c7a0a5fcd7a2f5d70fb441a68bb48e78a89f5eabe2b64ad2080438485b78"
+    },
+    "bir-zamanlar-cukurova": {
+      "source": "https://www.tvmaze.com/shows/38467/bir-zamanlar-cukurova",
+      "posterSource": "https://static.tvmaze.com/uploads/images/original_untouched/165/414709.jpg",
+      "backdropSource": "https://static.tvmaze.com/uploads/images/original_untouched/165/414709.jpg",
+      "title": "Bir Zamanlar Çukurova",
+      "provider": "TVmaze show image",
+      "startYear": 2018,
+      "poster": "assets/posters/official/bir-zamanlar-cukurova-poster.jpg",
+      "backdrop": "assets/posters/official/bir-zamanlar-cukurova-poster.jpg",
+      "posterSize": [
+        204,
+        300
+      ],
+      "backdropSize": [
+        204,
+        300
+      ],
+      "posterSHA256": "eb398cd6e8d5a206529cf29f5a40647a22a16b5e83086dc36038b24fab6c3627"
+    },
+    "destan": {
+      "source": "https://www.tvmaze.com/shows/58662/destan",
+      "posterSource": "https://static.tvmaze.com/uploads/images/original_untouched/370/926526.jpg",
+      "backdropSource": "https://static.tvmaze.com/uploads/images/original_untouched/370/926526.jpg",
+      "title": "Destan",
+      "provider": "TVmaze show image",
+      "startYear": 2021,
+      "poster": "assets/posters/official/destan-poster.jpg",
+      "backdrop": "assets/posters/official/destan-poster.jpg",
+      "posterSize": [
+        680,
+        1000
+      ],
+      "backdropSize": [
+        680,
+        1000
+      ],
+      "posterSHA256": "b8a76422bcd5231eae50bad0deaca39e74829fc4d941abc28746179323d8af37"
+    },
+    "safir": {
+      "source": "https://www.tvmaze.com/shows/70812/safir",
+      "posterSource": "https://static.tvmaze.com/uploads/images/original_untouched/474/1185427.jpg",
+      "backdropSource": "https://static.tvmaze.com/uploads/images/original_untouched/474/1185427.jpg",
+      "title": "Safir",
+      "provider": "TVmaze show image",
+      "startYear": 2023,
+      "poster": "assets/posters/official/safir-poster.jpg",
+      "backdrop": "assets/posters/official/safir-poster.jpg",
+      "posterSize": [
+        680,
+        1000
+      ],
+      "backdropSize": [
+        680,
+        1000
+      ],
+      "posterSHA256": "3ca782e20cfd6f5402a521f65ea32da00ba7a484e00d9230c291dcbce2896e0a"
+    },
+    "akinci": {
+      "source": "https://www.tvmaze.com/shows/52596/akinci",
+      "posterSource": "https://static.tvmaze.com/uploads/images/original_untouched/290/726582.jpg",
+      "backdropSource": "https://static.tvmaze.com/uploads/images/original_untouched/290/726582.jpg",
+      "title": "Akıncı",
+      "provider": "TVmaze show image",
+      "startYear": 2021,
+      "poster": "assets/posters/official/akinci-poster.jpg",
+      "backdrop": "assets/posters/official/akinci-poster.jpg",
+      "posterSize": [
+        680,
+        850
+      ],
+      "backdropSize": [
+        680,
+        850
+      ],
+      "posterSHA256": "181667939264517340f3edf0ee4558fe9f6f624e1dc464624d2203d4ff77f5cb"
+    },
+    "bas-belasi": {
+      "source": "https://www.tvmaze.com/shows/55816/bas-belasi",
+      "posterSource": "https://static.tvmaze.com/uploads/images/original_untouched/327/818537.jpg",
+      "backdropSource": "https://static.tvmaze.com/uploads/images/original_untouched/327/818537.jpg",
+      "title": "Baş Belası",
+      "provider": "TVmaze show image",
+      "startYear": 2021,
+      "poster": "assets/posters/official/bas-belasi-poster.jpg",
+      "backdrop": "assets/posters/official/bas-belasi-poster.jpg",
+      "posterSize": [
+        680,
+        932
+      ],
+      "backdropSize": [
+        680,
+        932
+      ],
+      "posterSHA256": "e37ad65bdf091e18667e1ef3462b8e275e8c42cff8afea1d1ca53bab2d709d3c"
+    },
+    "kimse-bilmez": {
+      "source": "https://www.tvmaze.com/shows/42501/kimse-bilmez",
+      "posterSource": "https://static.tvmaze.com/uploads/images/original_untouched/201/503093.jpg",
+      "backdropSource": "https://static.tvmaze.com/uploads/images/original_untouched/201/503093.jpg",
+      "title": "Kimse Bilmez",
+      "provider": "TVmaze show image",
+      "startYear": 2019,
+      "poster": "assets/posters/official/kimse-bilmez-poster.jpg",
+      "backdrop": "assets/posters/official/kimse-bilmez-poster.jpg",
+      "posterSize": [
+        582,
+        1000
+      ],
+      "backdropSize": [
+        582,
+        1000
+      ],
+      "posterSHA256": "eb3e64dcaa44cfb7a057f4a304552eccec1fddfa163f9093af6d890292e42032"
+    },
+    "can-kiriklari": {
+      "source": "https://www.tvmaze.com/shows/38513/can-kiriklari",
+      "posterSource": "https://static.tvmaze.com/uploads/images/original_untouched/270/675116.jpg",
+      "backdropSource": "https://static.tvmaze.com/uploads/images/original_untouched/270/675116.jpg",
+      "title": "Can Kırıkları",
+      "provider": "TVmaze show image",
+      "startYear": 2018,
+      "poster": "assets/posters/official/can-kiriklari-poster.jpg",
+      "backdrop": "assets/posters/official/can-kiriklari-poster.jpg",
+      "posterSize": [
+        680,
+        1000
+      ],
+      "backdropSize": [
+        680,
+        1000
+      ],
+      "posterSHA256": "45d3f4262dbc0c8a7545309351afc592da0c00849c7989dd424ad9b478b10725"
+    },
+    "kursun": {
+      "source": "https://www.tvmaze.com/shows/43986/kursun",
+      "posterSource": "https://static.tvmaze.com/uploads/images/original_untouched/215/539645.jpg",
+      "backdropSource": "https://static.tvmaze.com/uploads/images/original_untouched/215/539645.jpg",
+      "title": "Kurşun",
+      "provider": "TVmaze show image",
+      "startYear": 2019,
+      "poster": "assets/posters/official/kursun-poster.jpg",
+      "backdrop": "assets/posters/official/kursun-poster.jpg",
+      "posterSize": [
+        677,
+        1000
+      ],
+      "backdropSize": [
+        677,
+        1000
+      ],
+      "posterSHA256": "6218fb428bf8ca8434e2387a4cfef08df34f3ecdde5d78a817935847831a4f1d"
+    },
+    "kehribar": {
+      "source": "https://www.tvmaze.com/shows/19050/kehribar",
+      "posterSource": "https://static.tvmaze.com/uploads/images/original_untouched/66/165149.jpg",
+      "backdropSource": "https://static.tvmaze.com/uploads/images/original_untouched/66/165149.jpg",
+      "title": "Kehribar",
+      "provider": "TVmaze show image",
+      "startYear": 2016,
+      "poster": "assets/posters/official/kehribar-poster.jpg",
+      "backdrop": "assets/posters/official/kehribar-poster.jpg",
+      "posterSize": [
+        680,
+        1000
+      ],
+      "backdropSize": [
+        680,
+        1000
+      ],
+      "posterSHA256": "d5a52e63893e9350871422ab7a6ff58086e91e8e0f301f2ef960a26d916adbf0"
+    },
+    "gencligim-eyvah": {
+      "source": "https://www.tvmaze.com/shows/48643/gencligim-eyvah",
+      "posterSource": "https://static.tvmaze.com/uploads/images/original_untouched/262/655433.jpg",
+      "backdropSource": "https://static.tvmaze.com/uploads/images/original_untouched/262/655433.jpg",
+      "title": "Gençliğim Eyvah",
+      "provider": "TVmaze show image",
+      "startYear": 2020,
+      "poster": "assets/posters/official/gencligim-eyvah-poster.jpg",
+      "backdrop": "assets/posters/official/gencligim-eyvah-poster.jpg",
+      "posterSize": [
+        680,
+        857
+      ],
+      "backdropSize": [
+        680,
+        857
+      ],
+      "posterSHA256": "3cc333b5815419979095945b1daf09f79e1729ce030b37a9a00cb9a2af7f7234"
+    },
+    "kalp-yarasi": {
+      "source": "https://www.tvmaze.com/shows/55741/kalp-yarasi",
+      "posterSource": "https://static.tvmaze.com/uploads/images/original_untouched/327/818526.jpg",
+      "backdropSource": "https://static.tvmaze.com/uploads/images/original_untouched/327/818526.jpg",
+      "title": "Kalp Yarası",
+      "provider": "TVmaze show image",
+      "startYear": 2021,
+      "poster": "assets/posters/official/kalp-yarasi-poster.jpg",
+      "backdrop": "assets/posters/official/kalp-yarasi-poster.jpg",
+      "posterSize": [
+        680,
+        1000
+      ],
+      "backdropSize": [
+        680,
+        1000
+      ],
+      "posterSHA256": "75a31c623805824428ecf0cd33dee753ed92a2e3e217dbe670c3d92a5014d248"
+    },
+    "huzur-sokagi": {
+      "source": "https://www.tvmaze.com/shows/64579/huzur-sokagi",
+      "posterSource": "https://static.tvmaze.com/uploads/images/original_untouched/425/1064084.jpg",
+      "backdropSource": "https://static.tvmaze.com/uploads/images/original_untouched/425/1064084.jpg",
+      "title": "Huzur Sokağı",
+      "provider": "TVmaze show image",
+      "startYear": 2012,
+      "poster": "assets/posters/official/huzur-sokagi-poster.jpg",
+      "backdrop": "assets/posters/official/huzur-sokagi-poster.jpg",
+      "posterSize": [
+        680,
+        1000
+      ],
+      "backdropSize": [
+        680,
+        1000
+      ],
+      "posterSHA256": "ef4d473c9d21d2f28e1c9a08246d3c4819a3eace1a0e0ab736b063d5b111c501"
+    },
+    "ben-bu-cihana-sigmazam": {
+      "source": "https://www.tvmaze.com/shows/64092/ben-bu-cihana-sigmazam",
+      "posterSource": "https://static.tvmaze.com/uploads/images/original_untouched/422/1055110.jpg",
+      "backdropSource": "https://static.tvmaze.com/uploads/images/original_untouched/422/1055110.jpg",
+      "title": "Ben Bu Cihana Sığmazam",
+      "provider": "TVmaze show image",
+      "startYear": 2022,
+      "poster": "assets/posters/official/ben-bu-cihana-sigmazam-poster.jpg",
+      "backdrop": "assets/posters/official/ben-bu-cihana-sigmazam-poster.jpg",
+      "posterSize": [
+        680,
+        1000
+      ],
+      "backdropSize": [
+        680,
+        1000
+      ],
+      "posterSHA256": "07346b9ed88e783e4657339ced8da8bb816608af2a204bff1ff180222da28122"
+    },
+    "bir-kucuk-gun-isigi": {
+      "source": "https://www.tvmaze.com/shows/63807/bir-kucuk-gun-isigi",
+      "posterSource": "https://static.tvmaze.com/uploads/images/original_untouched/420/1051274.jpg",
+      "backdropSource": "https://static.tvmaze.com/uploads/images/original_untouched/420/1051274.jpg",
+      "title": "Bir Küçük Gün Işığı",
+      "provider": "TVmaze show image",
+      "startYear": 2022,
+      "poster": "assets/posters/official/bir-kucuk-gun-isigi-poster.jpg",
+      "backdrop": "assets/posters/official/bir-kucuk-gun-isigi-poster.jpg",
+      "posterSize": [
+        680,
+        850
+      ],
+      "backdropSize": [
+        680,
+        850
+      ],
+      "posterSHA256": "4f95f3ee77793f1c36e23d7666f3866e117b2db01c204d940e20bc59312ac2d9"
+    },
+    "bu-sehir-arkandan-gelecek": {
+      "source": "https://www.tvmaze.com/shows/24059/bu-sehir-arkandan-gelecek",
+      "posterSource": "https://static.tvmaze.com/uploads/images/original_untouched/91/227971.jpg",
+      "backdropSource": "https://static.tvmaze.com/uploads/images/original_untouched/91/227971.jpg",
+      "title": "Bu Şehir Arkandan Gelecek",
+      "provider": "TVmaze show image",
+      "startYear": 2017,
+      "poster": "assets/posters/official/bu-sehir-arkandan-gelecek-poster.jpg",
+      "backdrop": "assets/posters/official/bu-sehir-arkandan-gelecek-poster.jpg",
+      "posterSize": [
+        680,
+        849
+      ],
+      "backdropSize": [
+        680,
+        849
+      ],
+      "posterSHA256": "e8b386dbc449ea83c061f8bd3bf84e06f20761f5fa1b2f6f2656f0f1a278113b"
+    },
+    "olene-kadar": {
+      "source": "https://www.tvmaze.com/shows/24063/olene-kadar",
+      "posterSource": "https://static.tvmaze.com/uploads/images/original_untouched/91/227987.jpg",
+      "backdropSource": "https://static.tvmaze.com/uploads/images/original_untouched/91/227987.jpg",
+      "title": "Ölene Kadar",
+      "provider": "TVmaze show image",
+      "startYear": 2017,
+      "poster": "assets/posters/official/olene-kadar-poster.jpg",
+      "backdrop": "assets/posters/official/olene-kadar-poster.jpg",
+      "posterSize": [
+        640,
+        796
+      ],
+      "backdropSize": [
+        640,
+        796
+      ],
+      "posterSHA256": "4a8a22b1cc6e8ac04556bf3b8a15653ac64f65b8cba9c9e2af9d88206f9521ca"
+    },
+    "seviyor-sevmiyor": {
+      "source": "https://www.tvmaze.com/shows/18401/seviyor-sevmiyor",
+      "posterSource": "https://static.tvmaze.com/uploads/images/original_untouched/62/156456.jpg",
+      "backdropSource": "https://static.tvmaze.com/uploads/images/original_untouched/62/156456.jpg",
+      "title": "Seviyor Sevmiyor",
+      "provider": "TVmaze show image",
+      "startYear": 2016,
+      "poster": "assets/posters/official/seviyor-sevmiyor-poster.jpg",
+      "backdrop": "assets/posters/official/seviyor-sevmiyor-poster.jpg",
+      "posterSize": [
+        632,
+        1000
+      ],
+      "backdropSize": [
+        632,
+        1000
+      ],
+      "posterSHA256": "bfa02b3e42a9039f5e81acb04832f773b6a7abc7a32fea69fa7832edc1667b9a"
+    },
+    "analar-ve-anneler": {
+      "source": "https://www.tvmaze.com/shows/15472/analar-ve-anneler",
+      "posterSource": "https://static.tvmaze.com/uploads/images/original_untouched/52/131205.jpg",
+      "backdropSource": "https://static.tvmaze.com/uploads/images/original_untouched/52/131205.jpg",
+      "title": "Analar ve Anneler",
+      "provider": "TVmaze show image",
+      "startYear": 2015,
+      "poster": "assets/posters/official/analar-ve-anneler-poster.jpg",
+      "backdrop": "assets/posters/official/analar-ve-anneler-poster.jpg",
+      "posterSize": [
+        680,
+        1000
+      ],
+      "backdropSize": [
+        680,
+        1000
+      ],
+      "posterSHA256": "3f50df502c6bfc670f6c639e6de5b14e160e7ff663067bbf6836ba951301b9c3"
+    },
+    "canevim": {
+      "source": "https://www.tvmaze.com/shows/42309/canevim",
+      "posterSource": "https://static.tvmaze.com/uploads/images/original_untouched/198/497497.jpg",
+      "backdropSource": "https://static.tvmaze.com/uploads/images/original_untouched/198/497497.jpg",
+      "title": "Canevim",
+      "provider": "TVmaze show image",
+      "startYear": 2019,
+      "poster": "assets/posters/official/canevim-poster.jpg",
+      "backdrop": "assets/posters/official/canevim-poster.jpg",
+      "posterSize": [
+        466,
+        817
+      ],
+      "backdropSize": [
+        466,
+        817
+      ],
+      "posterSHA256": "ec02f34da59963b7e5385a086a48949f9bfa35821adaee412e8990b5fe804727"
+    },
+    "uvey-anne": {
+      "source": "https://www.tvmaze.com/shows/69233/uvey-anne",
+      "posterSource": "https://static.tvmaze.com/uploads/images/original_untouched/464/1161970.jpg",
+      "backdropSource": "https://static.tvmaze.com/uploads/images/original_untouched/464/1161970.jpg",
+      "title": "Üvey Anne",
+      "provider": "TVmaze show image",
+      "startYear": 2023,
+      "poster": "assets/posters/official/uvey-anne-poster.jpg",
+      "backdrop": "assets/posters/official/uvey-anne-poster.jpg",
+      "posterSize": [
+        680,
+        1000
+      ],
+      "backdropSize": [
+        680,
+        1000
+      ],
+      "posterSHA256": "8393924166fefbfc07415590b7459a72d093059d8e60e44d5e194cf26b9cca49"
+    },
+    "poyraz-karayel": {
+      "source": "https://www.tvmaze.com/shows/18635/poyraz-karayel",
+      "posterSource": "https://static.tvmaze.com/uploads/images/original_untouched/63/159402.jpg",
+      "backdropSource": "https://static.tvmaze.com/uploads/images/original_untouched/63/159402.jpg",
+      "title": "Poyraz Karayel",
+      "provider": "TVmaze show image",
+      "startYear": 2015,
+      "poster": "assets/posters/official/poyraz-karayel-poster.jpg",
+      "backdrop": "assets/posters/official/poyraz-karayel-poster.jpg",
+      "posterSize": [
+        680,
+        1000
+      ],
+      "backdropSize": [
+        680,
+        1000
+      ],
+      "posterSHA256": "298396757067a02580cd969607f8a8fac0a72de889adcddc0aed0c7fc2ab8f5f"
+    },
+    "gunesin-kizlari": {
+      "source": "https://www.tvmaze.com/shows/18634/gunesin-kizlari",
+      "posterSource": "https://static.tvmaze.com/uploads/images/original_untouched/63/159409.jpg",
+      "backdropSource": "https://static.tvmaze.com/uploads/images/original_untouched/63/159409.jpg",
+      "title": "Güneşin Kızları",
+      "provider": "TVmaze show image",
+      "startYear": 2015,
+      "poster": "assets/posters/official/gunesin-kizlari-poster.jpg",
+      "backdrop": "assets/posters/official/gunesin-kizlari-poster.jpg",
+      "posterSize": [
+        680,
+        1000
+      ],
+      "backdropSize": [
+        680,
+        1000
+      ],
+      "posterSHA256": "cc26b2a15ffc29781d2fe2760a720727953af773f616f81bb01e711c818614a2"
+    },
+    "merhamet": {
+      "source": "https://www.tvmaze.com/shows/18782/merhamet",
+      "posterSource": "https://static.tvmaze.com/uploads/images/original_untouched/64/162363.jpg",
+      "backdropSource": "https://static.tvmaze.com/uploads/images/original_untouched/64/162363.jpg",
+      "title": "Merhamet",
+      "provider": "TVmaze show image",
+      "startYear": 2013,
+      "poster": "assets/posters/official/merhamet-poster.jpg",
+      "backdrop": "assets/posters/official/merhamet-poster.jpg",
+      "posterSize": [
+        680,
+        1000
+      ],
+      "backdropSize": [
+        680,
+        1000
+      ],
+      "posterSHA256": "a0a5648ad8ae9f083afec35978fc55bb7a473d2518f4a30efe5bf1f53a3853c7"
+    },
+    "aski-yeniden": {
+      "source": "https://www.tvmaze.com/shows/18940/ask-yeniden",
+      "posterSource": "https://static.tvmaze.com/uploads/images/original_untouched/502/1256696.jpg",
+      "backdropSource": "https://static.tvmaze.com/uploads/images/original_untouched/502/1256696.jpg",
+      "title": "Aşk Yeniden",
+      "provider": "TVmaze show image",
+      "startYear": 2015,
+      "poster": "assets/posters/official/aski-yeniden-poster.jpg",
+      "backdrop": "assets/posters/official/aski-yeniden-poster.jpg",
+      "posterSize": [
+        680,
+        890
+      ],
+      "backdropSize": [
+        680,
+        890
+      ],
+      "posterSHA256": "53d2a23e3bca4b5815344a1b2f64dd3f8c5e1c0395e0f90cff97c1afafae4341"
+    },
+    "kiraz-mevsimi": {
+      "source": "https://www.tvmaze.com/shows/7663/kiraz-mevsimi",
+      "posterSource": "https://static.tvmaze.com/uploads/images/original_untouched/64/161251.jpg",
+      "backdropSource": "https://static.tvmaze.com/uploads/images/original_untouched/64/161251.jpg",
+      "title": "Kiraz Mevsimi",
+      "provider": "TVmaze show image",
+      "startYear": 2014,
+      "poster": "assets/posters/official/kiraz-mevsimi-poster.jpg",
+      "backdrop": "assets/posters/official/kiraz-mevsimi-poster.jpg",
+      "posterSize": [
+        680,
+        1000
+      ],
+      "backdropSize": [
+        680,
+        1000
+      ],
+      "posterSHA256": "315c22993c2fe78163fd20a5e47656de1615541c655ce7831191d8dc5196d183"
+    },
+    "sen-cal-kapimi": {
+      "source": "https://www.tvmaze.com/shows/48595/sen-cal-kapimi",
+      "posterSource": "https://static.tvmaze.com/uploads/images/original_untouched/265/662633.jpg",
+      "backdropSource": "https://static.tvmaze.com/uploads/images/original_untouched/265/662633.jpg",
+      "title": "Sen Çal Kapımı",
+      "provider": "TVmaze show image",
+      "startYear": 2020,
+      "poster": "assets/posters/official/sen-cal-kapimi-poster.jpg",
+      "backdrop": "assets/posters/official/sen-cal-kapimi-poster.jpg",
+      "posterSize": [
+        680,
+        971
+      ],
+      "backdropSize": [
+        680,
+        971
+      ],
+      "posterSHA256": "22568ca82317f7b650bf4d36c8dd0fd35206346f5da8d5cc9506f608c734010f"
+    },
+    "mucize-doktor": {
+      "source": "https://www.tvmaze.com/shows/43557/mucize-doktor",
+      "posterSource": "https://static.tvmaze.com/uploads/images/original_untouched/477/1194240.jpg",
+      "backdropSource": "https://static.tvmaze.com/uploads/images/original_untouched/477/1194240.jpg",
+      "title": "Mucize Doktor",
+      "provider": "TVmaze show image",
+      "startYear": 2019,
+      "poster": "assets/posters/official/mucize-doktor-poster.jpg",
+      "backdrop": "assets/posters/official/mucize-doktor-poster.jpg",
+      "posterSize": [
+        680,
+        1000
+      ],
+      "backdropSize": [
+        680,
+        1000
+      ],
+      "posterSHA256": "cae9d29ec78ef41cbcde855bb5b2e3d95a6cba792c888737b5e19424072a2fee"
+    },
+    "kadin": {
+      "source": "https://www.tvmaze.com/shows/32660/kadin",
+      "posterSource": "https://static.tvmaze.com/uploads/images/original_untouched/131/327624.jpg",
+      "backdropSource": "https://static.tvmaze.com/uploads/images/original_untouched/131/327624.jpg",
+      "title": "Kadın",
+      "provider": "TVmaze show image",
+      "startYear": 2017,
+      "poster": "assets/posters/official/kadin-poster.jpg",
+      "backdrop": "assets/posters/official/kadin-poster.jpg",
+      "posterSize": [
+        680,
+        952
+      ],
+      "backdropSize": [
+        680,
+        952
+      ],
+      "posterSHA256": "18d6e986580724a2b568f09f3bc5b7e0029bac1a36e93806feb1472bc8cb2f25"
+    },
+    "bizim-hikaye": {
+      "source": "https://www.tvmaze.com/shows/31823/bizim-hikaye",
+      "posterSource": "https://static.tvmaze.com/uploads/images/original_untouched/147/368562.jpg",
+      "backdropSource": "https://static.tvmaze.com/uploads/images/original_untouched/147/368562.jpg",
+      "title": "Bizim Hikaye",
+      "provider": "TVmaze show image",
+      "startYear": 2017,
+      "poster": "assets/posters/official/bizim-hikaye-poster.jpg",
+      "backdrop": "assets/posters/official/bizim-hikaye-poster.jpg",
+      "posterSize": [
+        640,
+        953
+      ],
+      "backdropSize": [
+        640,
+        953
+      ],
+      "posterSHA256": "0bdf1f0e8d265031c493d04988c695cbfc9df6ec9081ecec6b660016f4cb809c"
+    },
+    "yasak-elma": {
+      "source": "https://www.tvmaze.com/shows/35403/yasak-elma",
+      "posterSource": "https://static.tvmaze.com/uploads/images/original_untouched/366/916950.jpg",
+      "backdropSource": "https://static.tvmaze.com/uploads/images/original_untouched/366/916950.jpg",
+      "title": "Yasak Elma",
+      "provider": "TVmaze show image",
+      "startYear": 2018,
+      "poster": "assets/posters/official/yasak-elma-poster.jpg",
+      "backdrop": "assets/posters/official/yasak-elma-poster.jpg",
+      "posterSize": [
+        680,
+        971
+      ],
+      "backdropSize": [
+        680,
+        971
+      ],
+      "posterSHA256": "38ef666d05001f16cb2b3ae65831fdf8a82f54924216602d74125b323d41bc7e"
+    },
+    "babil": {
+      "source": "https://www.tvmaze.com/shows/45687/babil",
+      "posterSource": "https://static.tvmaze.com/uploads/images/original_untouched/578/1445577.jpg",
+      "backdropSource": "https://static.tvmaze.com/uploads/images/original_untouched/578/1445577.jpg",
+      "title": "Babil",
+      "provider": "TVmaze show image",
+      "startYear": 2020,
+      "poster": "assets/posters/official/babil-poster.jpg",
+      "backdrop": "assets/posters/official/babil-poster.jpg",
+      "posterSize": [
+        667,
+        1000
+      ],
+      "backdropSize": [
+        667,
+        1000
+      ],
+      "posterSHA256": "45cd4aed5f945f0b8ede7b69218b17537d968a2d64dc8def0ba8ae7de88e9ee1"
+    },
+    "sol-yanim": {
+      "source": "https://www.tvmaze.com/shows/51841/sol-yanim",
+      "posterSource": "https://static.tvmaze.com/uploads/images/original_untouched/282/705834.jpg",
+      "backdropSource": "https://static.tvmaze.com/uploads/images/original_untouched/282/705834.jpg",
+      "title": "Sol Yanım",
+      "provider": "TVmaze show image",
+      "startYear": 2020,
+      "poster": "assets/posters/official/sol-yanim-poster.jpg",
+      "backdrop": "assets/posters/official/sol-yanim-poster.jpg",
+      "posterSize": [
+        672,
+        960
+      ],
+      "backdropSize": [
+        672,
+        960
+      ],
+      "posterSHA256": "86187eb888b1ef583dcab58c19b27c9a726cd583a0367b030ab7aca6c1f77c0c"
+    },
+    "iyi-gunde-kotu-gunde": {
+      "source": "https://www.tvmaze.com/shows/50223/iyi-gunde-kotu-gunde",
+      "posterSource": "https://static.tvmaze.com/uploads/images/original_untouched/272/680095.jpg",
+      "backdropSource": "https://static.tvmaze.com/uploads/images/original_untouched/272/680095.jpg",
+      "title": "İyi Günde Kötü Günde",
+      "provider": "TVmaze show image",
+      "startYear": 2020,
+      "poster": "assets/posters/official/iyi-gunde-kotu-gunde-poster.jpg",
+      "backdrop": "assets/posters/official/iyi-gunde-kotu-gunde-poster.jpg",
+      "posterSize": [
+        680,
+        858
+      ],
+      "backdropSize": [
+        680,
+        858
+      ],
+      "posterSHA256": "a27567c52b7f72f16f435064e2b7c0b7e694be086ca23df50dabd419c2876757"
     }
   }
 }

@@ -2,43 +2,336 @@
   "checkedAt": "2026-10-16",
   "method": "IMDb weighted audience rating on a 10-point scale, as visible in public indexed pages. Counts marked approximate reflect rounded K displays. This is not an average across websites. Rotten Tomatoes approval percentages are excluded. Popularity uses IMDb vote count, not IMDb popularity rank.",
   "items": {
-    "kizilcik-serbeti": {"imdb":"tt21764074","score":5.3,"votes":4700,"approximate":true,"year":2022},
-    "yeralti": {"imdb":"tt39222526","score":7.1,"votes":1800,"approximate":true,"year":2026},
-    "halef": {"imdb":"tt38411336","score":4.2,"votes":775,"year":2025},
-    "uzak-sehir": {"imdb":"tt34063491","score":6.4,"votes":3500,"approximate":true,"year":2024},
-    "arka-sokaklar": {"imdb":"tt0845088","score":3.8,"votes":4900,"approximate":true,"year":2006},
-    "esref-ruya": {"imdb":"tt35069642","score":6.7,"votes":9200,"approximate":true,"year":2025},
-    "gonul-dagi": {"imdb":"tt12872884","score":7.2,"votes":1400,"approximate":true,"year":2020,"source":"https://www.imdb.com/es/title/tt12872884/ratings/"},
-    "teskilat": {"imdb":"tt13562418","score":6.0,"votes":3500,"approximate":true,"year":2021},
-    "cukur": {"imdb":"tt7431994","score":7.7,"votes":25000,"approximate":true,"year":2017},
-    "cennet-mahallesi": {"imdb":"tt0424619","score":4.8,"votes":3000,"approximate":true,"year":2004},
-    "tuzlu-kahve": {"imdb":"tt43644041","score":5.5,"votes":130,"year":2026,"source":"https://www.imdb.com/title/tt43644041/ratings/"},
-    "sevdigim-sensin": {"imdb":"tt38987259","score":6.7,"votes":754,"year":2026,"source":"https://www.imdb.com/pt/title/tt38987259/"},
-    "sevdan-bir-ates": {"imdb":"tt43723646","score":7.8,"votes":84,"year":2026},
-    "muhtemel-ask": {"imdb":"tt43351313","score":7.0,"votes":447,"year":2026},
-    "anne-yarisi": {"imdb":"tt44632465","score":null,"votes":null,"year":2026,"reason":"Series identity confirmed; no unambiguous series-level score verified."},
-    "sevdam-karadeniz": {"imdb":"tt43697602","score":null,"votes":null,"year":2026,"reason":"Series identity confirmed; no series-level score verified."},
-    "omur-usta": {"imdb":"tt39333720","score":6.3,"votes":29,"year":2026,"source":"https://www.imdb.com/de/title/tt39333720/"},
-    "baskalarinin-hayati": {"imdb":"tt42888794","score":7.6,"votes":81,"year":2026},
-    "cirkin": {"imdb":"tt40887908","score":4.6,"votes":172,"year":2026},
-    "haysiyet": {"imdb":"tt44733941","score":6.2,"votes":16,"year":2026,"source":"https://www.imdb.com/es-es/title/tt44733941/"},
-    "guller-ve-gunahlar": {"imdb":"tt38074086","score":6.4,"votes":871,"year":2025,"source":"https://www.imdb.com/title/tt38074086/?reasonForLanguagePrompt=language_preference_mismatch"},
-    "daha-17": {"imdb":"tt42764103","score":6.4,"votes":1200,"approximate":true,"year":2026},
-    "alti-ustu-istanbul": {"imdb":"tt43586569","score":6.4,"votes":325,"year":2026},
-    "abi": {"imdb":"tt38282411","score":4.9,"votes":791,"year":2026,"source":"https://www.imdb.com/title/tt38282411"},
-    "ask-ve-taht": {"imdb":"tt45351792","score":7.1,"votes":61,"year":2026,"source":"https://www.imdb.com/title/tt45351792"},
-    "gunesin-dogdugu-yer": {"imdb":"tt43669648","score":6.8,"votes":56,"year":2026},
-    "mercan-kosk": {"imdb":"tt43631370","score":7.5,"votes":83,"year":2026},
-    "mehmed": {"imdb":"tt31323988","score":7.8,"votes":3200,"approximate":true,"year":2024},
-    "tasacak-bu-deniz": {"imdb":"tt38647499","score":7.5,"votes":2100,"approximate":true,"year":2025,"source":"https://www.imdb.com/title/tt38647499/ratings/"},
-    "kod-adi-kirlangic": {"imdb":"tt30025590","score":6.0,"votes":112,"year":2023},
-    "evlilik-guzeldir": {"imdb":"tt43651553","score":6.2,"votes":52,"year":2026},
-    "gassal": {"imdb":"tt35082593","score":8.1,"votes":8300,"approximate":true,"year":2024},
-    "tosun-pasa": {"imdb":"tt0253828","score":8.9,"votes":26692,"year":1976,"source":"https://www.imdb.com/de/title/tt0253828/"},
-    "sut-kardesler": {"imdb":"tt0253779","score":8.8,"votes":22823,"year":1976,"source":"https://www.imdb.com/de/title/tt0253779/"},
-    "copculer-krali": {"imdb":"tt0253997","score":8.5,"votes":23214,"year":1977,"source":"https://www.imdb.com/de/title/tt0253997/"},
-    "kibar-feyzo": {"imdb":"tt0252597","score":8.6,"votes":18868,"year":1978,"source":"https://www.imdb.com/de/title/tt0252597/"},
-    "koyden-indim-sehire": {"imdb":"tt0252619","score":8.3,"votes":13000,"approximate":true,"year":1974,"source":"https://www.imdb.com/fr-ca/title/tt0252619/"},
-    "gulen-gozler": {"imdb":"tt0289967","score":8.4,"votes":8440,"year":1977,"source":"https://www.imdb.com/de/title/tt0289967/"}
+    "kizilcik-serbeti": {
+      "imdb": "tt21764074",
+      "score": 5.3,
+      "votes": 4700,
+      "approximate": true,
+      "year": 2022
+    },
+    "yeralti": {
+      "imdb": "tt39222526",
+      "score": 7.1,
+      "votes": 1800,
+      "approximate": true,
+      "year": 2026
+    },
+    "halef": {
+      "imdb": "tt38411336",
+      "score": 4.2,
+      "votes": 775,
+      "year": 2025
+    },
+    "uzak-sehir": {
+      "imdb": "tt34063491",
+      "score": 6.4,
+      "votes": 3500,
+      "approximate": true,
+      "year": 2024
+    },
+    "arka-sokaklar": {
+      "imdb": "tt0845088",
+      "score": 3.8,
+      "votes": 4900,
+      "approximate": true,
+      "year": 2006
+    },
+    "esref-ruya": {
+      "imdb": "tt35069642",
+      "score": 6.7,
+      "votes": 9200,
+      "approximate": true,
+      "year": 2025
+    },
+    "gonul-dagi": {
+      "imdb": "tt12872884",
+      "score": 7.2,
+      "votes": 1400,
+      "approximate": true,
+      "year": 2020,
+      "source": "https://www.imdb.com/es/title/tt12872884/ratings/"
+    },
+    "teskilat": {
+      "imdb": "tt13562418",
+      "score": 6.0,
+      "votes": 3500,
+      "approximate": true,
+      "year": 2021
+    },
+    "cukur": {
+      "imdb": "tt7431994",
+      "score": 7.7,
+      "votes": 25000,
+      "approximate": true,
+      "year": 2017
+    },
+    "cennet-mahallesi": {
+      "imdb": "tt0424619",
+      "score": 4.8,
+      "votes": 3000,
+      "approximate": true,
+      "year": 2004
+    },
+    "tuzlu-kahve": {
+      "imdb": "tt43644041",
+      "score": 5.5,
+      "votes": 130,
+      "year": 2026,
+      "source": "https://www.imdb.com/title/tt43644041/ratings/"
+    },
+    "sevdigim-sensin": {
+      "imdb": "tt38987259",
+      "score": 6.7,
+      "votes": 754,
+      "year": 2026,
+      "source": "https://www.imdb.com/pt/title/tt38987259/"
+    },
+    "sevdan-bir-ates": {
+      "imdb": "tt43723646",
+      "score": 7.8,
+      "votes": 84,
+      "year": 2026
+    },
+    "muhtemel-ask": {
+      "imdb": "tt43351313",
+      "score": 7.0,
+      "votes": 447,
+      "year": 2026
+    },
+    "anne-yarisi": {
+      "imdb": "tt44632465",
+      "score": null,
+      "votes": null,
+      "year": 2026,
+      "reason": "Series identity confirmed; no unambiguous series-level score verified."
+    },
+    "sevdam-karadeniz": {
+      "imdb": "tt43697602",
+      "score": null,
+      "votes": null,
+      "year": 2026,
+      "reason": "Series identity confirmed; no series-level score verified."
+    },
+    "omur-usta": {
+      "imdb": "tt39333720",
+      "score": 6.3,
+      "votes": 29,
+      "year": 2026,
+      "source": "https://www.imdb.com/de/title/tt39333720/"
+    },
+    "baskalarinin-hayati": {
+      "imdb": "tt42888794",
+      "score": 7.6,
+      "votes": 81,
+      "year": 2026
+    },
+    "cirkin": {
+      "imdb": "tt40887908",
+      "score": 4.6,
+      "votes": 172,
+      "year": 2026
+    },
+    "haysiyet": {
+      "imdb": "tt44733941",
+      "score": 6.2,
+      "votes": 16,
+      "year": 2026,
+      "source": "https://www.imdb.com/es-es/title/tt44733941/"
+    },
+    "guller-ve-gunahlar": {
+      "imdb": "tt38074086",
+      "score": 6.4,
+      "votes": 871,
+      "year": 2025,
+      "source": "https://www.imdb.com/title/tt38074086/?reasonForLanguagePrompt=language_preference_mismatch"
+    },
+    "daha-17": {
+      "imdb": "tt42764103",
+      "score": 6.4,
+      "votes": 1200,
+      "approximate": true,
+      "year": 2026
+    },
+    "alti-ustu-istanbul": {
+      "imdb": "tt43586569",
+      "score": 6.4,
+      "votes": 325,
+      "year": 2026
+    },
+    "abi": {
+      "imdb": "tt38282411",
+      "score": 4.9,
+      "votes": 791,
+      "year": 2026,
+      "source": "https://www.imdb.com/title/tt38282411"
+    },
+    "ask-ve-taht": {
+      "imdb": "tt45351792",
+      "score": 7.1,
+      "votes": 61,
+      "year": 2026,
+      "source": "https://www.imdb.com/title/tt45351792"
+    },
+    "gunesin-dogdugu-yer": {
+      "imdb": "tt43669648",
+      "score": 6.8,
+      "votes": 56,
+      "year": 2026
+    },
+    "mercan-kosk": {
+      "imdb": "tt43631370",
+      "score": 7.5,
+      "votes": 83,
+      "year": 2026
+    },
+    "mehmed": {
+      "imdb": "tt31323988",
+      "score": 7.8,
+      "votes": 3200,
+      "approximate": true,
+      "year": 2024
+    },
+    "tasacak-bu-deniz": {
+      "imdb": "tt38647499",
+      "score": 7.5,
+      "votes": 2100,
+      "approximate": true,
+      "year": 2025,
+      "source": "https://www.imdb.com/title/tt38647499/ratings/"
+    },
+    "kod-adi-kirlangic": {
+      "imdb": "tt30025590",
+      "score": 6.0,
+      "votes": 112,
+      "year": 2023
+    },
+    "evlilik-guzeldir": {
+      "imdb": "tt43651553",
+      "score": 6.2,
+      "votes": 52,
+      "year": 2026
+    },
+    "gassal": {
+      "imdb": "tt35082593",
+      "score": 8.1,
+      "votes": 8300,
+      "approximate": true,
+      "year": 2024
+    },
+    "tosun-pasa": {
+      "imdb": "tt0253828",
+      "score": 8.9,
+      "votes": 26692,
+      "year": 1976,
+      "source": "https://www.imdb.com/de/title/tt0253828/"
+    },
+    "sut-kardesler": {
+      "imdb": "tt0253779",
+      "score": 8.8,
+      "votes": 22823,
+      "year": 1976,
+      "source": "https://www.imdb.com/de/title/tt0253779/"
+    },
+    "copculer-krali": {
+      "imdb": "tt0253997",
+      "score": 8.5,
+      "votes": 23214,
+      "year": 1977,
+      "source": "https://www.imdb.com/de/title/tt0253997/"
+    },
+    "kibar-feyzo": {
+      "imdb": "tt0252597",
+      "score": 8.6,
+      "votes": 18868,
+      "year": 1978,
+      "source": "https://www.imdb.com/de/title/tt0252597/"
+    },
+    "koyden-indim-sehire": {
+      "imdb": "tt0252619",
+      "score": 8.3,
+      "votes": 13000,
+      "approximate": true,
+      "year": 1974,
+      "source": "https://www.imdb.com/fr-ca/title/tt0252619/"
+    },
+    "gulen-gozler": {
+      "imdb": "tt0289967",
+      "score": 8.4,
+      "votes": 8440,
+      "year": 1977,
+      "source": "https://www.imdb.com/de/title/tt0289967/"
+    },
+    "kara-sevda": {
+      "score": 7.3,
+      "source": "https://www.tvmaze.com/shows/7580/kara-sevda",
+      "provider": "TVmaze",
+      "checkedAt": "2026-10-21T20:37:57.076649+00:00"
+    },
+    "dolunay": {
+      "score": 7.1,
+      "source": "https://www.tvmaze.com/shows/30122/dolunay",
+      "provider": "TVmaze",
+      "checkedAt": "2026-10-21T20:37:56.417958+00:00"
+    },
+    "ada-masali": {
+      "score": 7.3,
+      "source": "https://www.tvmaze.com/shows/55558/ada-masali",
+      "provider": "TVmaze",
+      "checkedAt": "2026-10-21T20:37:55.271516+00:00"
+    },
+    "sen-anlat-karadeniz": {
+      "score": 8,
+      "source": "https://www.tvmaze.com/shows/34455/sen-anlat-karadeniz",
+      "provider": "TVmaze",
+      "checkedAt": "2026-10-21T20:37:58.627447+00:00"
+    },
+    "hercai": {
+      "score": 6.8,
+      "source": "https://www.tvmaze.com/shows/41400/hercai",
+      "provider": "TVmaze",
+      "checkedAt": "2026-10-21T20:37:56.884419+00:00"
+    },
+    "safir": {
+      "score": 5.5,
+      "source": "https://www.tvmaze.com/shows/70812/safir",
+      "provider": "TVmaze",
+      "checkedAt": "2026-10-21T20:37:58.331492+00:00"
+    },
+    "akinci": {
+      "score": 5.5,
+      "source": "https://www.tvmaze.com/shows/52596/akinci",
+      "provider": "TVmaze",
+      "checkedAt": "2026-10-21T20:37:55.296741+00:00"
+    },
+    "kiraz-mevsimi": {
+      "score": 7,
+      "source": "https://www.tvmaze.com/shows/7663/kiraz-mevsimi",
+      "provider": "TVmaze",
+      "checkedAt": "2026-10-21T20:37:57.400157+00:00"
+    },
+    "sen-cal-kapimi": {
+      "score": 7.6,
+      "source": "https://www.tvmaze.com/shows/48595/sen-cal-kapimi",
+      "provider": "TVmaze",
+      "checkedAt": "2026-10-21T20:37:58.627956+00:00"
+    },
+    "bizim-hikaye": {
+      "score": 4.3,
+      "source": "https://www.tvmaze.com/shows/31823/bizim-hikaye",
+      "provider": "TVmaze",
+      "checkedAt": "2026-10-21T20:37:56.133667+00:00"
+    },
+    "yasak-elma": {
+      "score": 7.2,
+      "source": "https://www.tvmaze.com/shows/35403/yasak-elma",
+      "provider": "TVmaze",
+      "checkedAt": "2026-10-21T20:37:59.298373+00:00"
+    },
+    "sol-yanim": {
+      "score": 5.8,
+      "source": "https://www.tvmaze.com/shows/51841/sol-yanim",
+      "provider": "TVmaze",
+      "checkedAt": "2026-10-21T20:37:58.861224+00:00"
+    }
   }
 }
