@@ -1,0 +1,17 @@
+{
+  "id": "yesilcam",
+  "title": "Yeşilçam Klasikleri 7/24",
+  "schedule": "https://bigtr3506.github.io/ozturk-iptv-katalog/yesilcam-schedule.json",
+  "page": "https://bigtr3506.github.io/ozturk-iptv-katalog/yesilcam.html",
+  "minimumSeconds": 3600,
+  "maximumSeconds": 10800,
+  "maximumFilms": 400,
+  "selectedFilms": 300,
+  "publishers": [
+    {"name": "ARZU FİLM", "channel": "UCUALYmnkEmx8vlxIbpr2gmw", "url": "https://www.youtube.com/channel/UCUALYmnkEmx8vlxIbpr2gmw"},
+    {"name": "Erler Film Türker İnanoğlu", "channel": "UCUX_iQoFXw2nYzIuuYdeWhg", "url": "https://www.youtube.com/channel/UCUX_iQoFXw2nYzIuuYdeWhg"},
+    {"name": "Fanatik Film - Yerli", "channel": "UCAJcU9SesgVqsJ8M0l7zYrA", "url": "https://www.youtube.com/channel/UCAJcU9SesgVqsJ8M0l7zYrA"},
+    {"name": "Erman Film", "channel": "UCgcwys292hCdcN6uyH-UkoA", "url": "https://www.youtube.com/channel/UCgcwys292hCdcN6uyH-UkoA"}
+  ],
+  "selection": "Full films from publisher classic-film playlists, normalized title deduplication, familiar classics prioritized, then YouTube view count. Modern-film exclusions and restored-upload preference are reviewed locally. No media files or credentials are published."
+}
