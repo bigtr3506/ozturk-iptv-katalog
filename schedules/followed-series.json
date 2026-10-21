@@ -2848,5 +2848,746 @@
       "İyileştirilmiş Görüntü",
       "İyileştirilmiş Görüntü FİNAL"
     ]
+  },
+  "muhtesem-yuzyil": {
+    "title": "Muhteşem Yüzyıl",
+    "channel": "UCkRY4J8G__K8SEWZRLbke-Q",
+    "url": "https://www.youtube.com/channel/UCkRY4J8G__K8SEWZRLbke-Q/videos",
+    "official": "https://tims.tv/diziler/muhtesem-yuzyil",
+    "publisher": "star",
+    "start_year": 2011,
+    "minimum_seconds": 3600,
+    "season_ends": [
+      24,
+      63,
+      103
+    ],
+    "season_titles": [
+      "1. Sezon",
+      "2. Sezon",
+      "3. Sezon",
+      "4. Sezon"
+    ],
+    "last_episode": 139,
+    "archive_complete": true,
+    "current_trailer_only": true,
+    "genres": [
+      "Dram",
+      "Aksiyon",
+      "Tarih"
+    ],
+    "season_source": "https://www.tvmaze.com/shows/5858/muhtesem-yuzyil/episodes",
+    "source_verified_at": "2026-10-21T21:06:12.542798+00:00"
+  },
+  "muhtesem-yuzyil-kosem": {
+    "title": "Muhteşem Yüzyıl Kösem",
+    "channel": "UCHXdylbsyDVN4UO2Fv8CgmA",
+    "url": "https://www.youtube.com/channel/UCHXdylbsyDVN4UO2Fv8CgmA/videos",
+    "official": "https://tims.tv/diziler/muhtesem-yuzyil-kosem",
+    "publisher": "star",
+    "start_year": 2015,
+    "minimum_seconds": 3600,
+    "season_ends": [
+      30
+    ],
+    "season_titles": [
+      "1. Sezon",
+      "2. Sezon"
+    ],
+    "last_episode": 60,
+    "archive_complete": true,
+    "current_trailer_only": true,
+    "genres": [
+      "Dram",
+      "Romantik",
+      "Tarih"
+    ],
+    "season_source": "https://www.tvmaze.com/shows/7093/muhtesem-yuzyil-kosem/episodes",
+    "source_verified_at": "2026-10-21T21:06:12.539225+00:00",
+    "aliases": [
+      "Muhteşem Yüzyıl: Kösem"
+    ]
+  },
+  "asla-vazgecmem": {
+    "title": "Asla Vazgeçmem",
+    "channel": "UCm23GfyQwuiyJNqepKnhlXw",
+    "url": "https://www.youtube.com/channel/UCm23GfyQwuiyJNqepKnhlXw/videos",
+    "official": "https://www.showtv.com.tr/dizi/tanitim/asla-vazgecmem/1411",
+    "publisher": "show",
+    "start_year": 2015,
+    "minimum_seconds": 3600,
+    "season_ends": [
+      18,
+      56
+    ],
+    "season_titles": [
+      "1. Sezon",
+      "2. Sezon",
+      "3. Sezon"
+    ],
+    "last_episode": 59,
+    "archive_complete": true,
+    "current_trailer_only": true,
+    "genres": [
+      "Dram",
+      "Romantik"
+    ],
+    "season_source": "https://www.tvmaze.com/shows/16360/asla-vazgecmem/episodes",
+    "source_verified_at": "2026-10-21T21:06:12.257326+00:00"
+  },
+  "guzel-gunler": {
+    "title": "Güzel Günler",
+    "channel": "UCBq6tAuxXBbEGl-r8WMA-Lg",
+    "url": "https://www.youtube.com/channel/UCBq6tAuxXBbEGl-r8WMA-Lg/videos",
+    "official": "https://www.showtv.com.tr/dizi/tanitim/guzel-gunler/2878",
+    "publisher": "show",
+    "start_year": 2022,
+    "minimum_seconds": 3600,
+    "season_ends": [],
+    "season_titles": [
+      "1. Sezon"
+    ],
+    "last_episode": 26,
+    "archive_complete": true,
+    "current_trailer_only": true,
+    "genres": [
+      "Dram",
+      "Aile",
+      "Romantik"
+    ],
+    "season_source": "https://www.tvmaze.com/shows/65379/guzel-gunler/episodes",
+    "source_verified_at": "2026-10-21T21:06:12.507315+00:00",
+    "full_suffixes": [
+      "Günler"
+    ]
+  },
+  "guzel-koylu": {
+    "title": "Güzel Köylü",
+    "channel": "UC2e6TQ6gn_xd1VIGlM6x7Uw",
+    "url": "https://www.youtube.com/channel/UC2e6TQ6gn_xd1VIGlM6x7Uw/videos",
+    "official": "https://www.startv.com.tr/dizi/guzel-koylu",
+    "publisher": "star",
+    "start_year": 2014,
+    "minimum_seconds": 3600,
+    "season_ends": [],
+    "season_titles": [
+      "1. Sezon"
+    ],
+    "last_episode": 52,
+    "archive_complete": true,
+    "current_trailer_only": true,
+    "genres": [
+      "Dram",
+      "Aile"
+    ],
+    "season_source": "https://www.tvmaze.com/shows/19000/guzel-koylu/episodes",
+    "source_verified_at": "2026-10-21T21:06:12.507888+00:00"
+  },
+  "payitaht-abdulhamid": {
+    "title": "Payitaht Abdülhamid",
+    "channel": "UCv4Y__4UzJg-Hjwutow48FQ",
+    "url": "https://www.youtube.com/channel/UCv4Y__4UzJg-Hjwutow48FQ/videos",
+    "official": "https://www.trt1.com.tr/diziler/payitaht-abdulhamid",
+    "publisher": "trt",
+    "start_year": 2017,
+    "minimum_seconds": 3600,
+    "season_ends": [
+      17,
+      54,
+      88,
+      119
+    ],
+    "season_titles": [
+      "1. Sezon",
+      "2. Sezon",
+      "3. Sezon",
+      "4. Sezon",
+      "5. Sezon"
+    ],
+    "last_episode": 154,
+    "archive_complete": true,
+    "current_trailer_only": true,
+    "genres": [
+      "Dram",
+      "Tarih"
+    ],
+    "season_source": "https://www.tvmaze.com/shows/29922/payitaht-abdulhamid/episodes",
+    "source_verified_at": "2026-10-21T21:06:12.569134+00:00",
+    "trusted_channels": [
+      "UCYWwhdgFmZR0uWwaS-GURyg"
+    ],
+    "aliases": [
+      "Payitaht  Abdülhamid",
+      "\"Payitaht\" Abdülhamid",
+      "Payitaht \"Abdülhamid\""
+    ],
+    "full_suffixes": [
+      "3. Sezon Finali"
+    ]
+  },
+  "alparslan-buyuk-selcuklu": {
+    "title": "Alparslan Büyük Selçuklu",
+    "channel": "UCubM4jGmZ8sA0ASaG1ly2sw",
+    "url": "https://www.youtube.com/channel/UCubM4jGmZ8sA0ASaG1ly2sw/videos",
+    "official": "https://www.trt1.com.tr/diziler/alparslan-buyuk-selcuklu",
+    "publisher": "trt",
+    "start_year": 2021,
+    "minimum_seconds": 3600,
+    "season_ends": [
+      27
+    ],
+    "season_titles": [
+      "1. Sezon",
+      "2. Sezon"
+    ],
+    "last_episode": 61,
+    "archive_complete": true,
+    "current_trailer_only": true,
+    "genres": [
+      "Aksiyon",
+      "War",
+      "Tarih"
+    ],
+    "season_source": "https://www.tvmaze.com/shows/58752/alparslan-buyuk-selcuklu/episodes",
+    "source_verified_at": "2026-10-21T21:06:12.253937+00:00",
+    "aliases": [
+      "Alparslan: Büyük Selçuklu"
+    ]
+  },
+  "masumlar-apartmani": {
+    "title": "Masumlar Apartmanı",
+    "channel": "UC1wRZwOGxBpJNQsC_1w7AbA",
+    "url": "https://www.youtube.com/channel/UC1wRZwOGxBpJNQsC_1w7AbA/videos",
+    "official": "https://www.trt1.com.tr/diziler/masumlar-apartmani",
+    "publisher": "trt",
+    "start_year": 2020,
+    "minimum_seconds": 3600,
+    "season_ends": [
+      37
+    ],
+    "season_titles": [
+      "1. Sezon",
+      "2. Sezon"
+    ],
+    "last_episode": 71,
+    "archive_complete": true,
+    "current_trailer_only": true,
+    "genres": [
+      "Dram"
+    ],
+    "season_source": "https://www.tvmaze.com/shows/50108/masumlar-apartmani/episodes",
+    "source_verified_at": "2026-10-21T21:06:12.534425+00:00"
+  },
+  "vuslat": {
+    "title": "Vuslat",
+    "channel": "UCxDMD2hyaCYmNMjyaT91Mwg",
+    "url": "https://www.youtube.com/channel/UCxDMD2hyaCYmNMjyaT91Mwg/videos",
+    "official": "https://www.trt1.com.tr/diziler/vuslat",
+    "publisher": "trt",
+    "start_year": 2019,
+    "minimum_seconds": 3600,
+    "season_ends": [
+      20
+    ],
+    "season_titles": [
+      "1. Sezon",
+      "2. Sezon"
+    ],
+    "last_episode": 44,
+    "archive_complete": true,
+    "current_trailer_only": true,
+    "genres": [
+      "Dram",
+      "Adventure",
+      "Romantik"
+    ],
+    "season_source": "https://www.tvmaze.com/shows/41092/vuslat/episodes",
+    "source_verified_at": "2026-10-21T21:06:12.594772+00:00"
+  },
+  "elimi-birakma": {
+    "title": "Elimi Bırakma",
+    "channel": "UCFKE61kl3C6imSmbIVzGLoA",
+    "url": "https://www.youtube.com/channel/UCFKE61kl3C6imSmbIVzGLoA/videos",
+    "official": "https://www.trt1.com.tr/diziler/elimi-birakma",
+    "publisher": "trt",
+    "start_year": 2018,
+    "minimum_seconds": 3600,
+    "season_ends": [
+      43
+    ],
+    "season_titles": [
+      "1. Sezon",
+      "2. Sezon"
+    ],
+    "last_episode": 59,
+    "archive_complete": true,
+    "current_trailer_only": true,
+    "genres": [
+      "Komedi",
+      "Aile",
+      "Romantik"
+    ],
+    "season_source": "https://www.tvmaze.com/shows/37276/elimi-birakma/episodes",
+    "source_verified_at": "2026-10-21T21:06:12.413182+00:00"
+  },
+  "cati-kati-ask": {
+    "title": "Çatı Katı Aşk",
+    "channel": "UCfj2bu-apHga0rO5SH2vwRA",
+    "url": "https://www.youtube.com/channel/UCfj2bu-apHga0rO5SH2vwRA/videos",
+    "official": "https://www.kanald.com.tr/cati-kati-ask",
+    "publisher": "kanald",
+    "start_year": 2020,
+    "minimum_seconds": 3600,
+    "season_ends": [],
+    "season_titles": [
+      "1. Sezon"
+    ],
+    "last_episode": 16,
+    "archive_complete": true,
+    "current_trailer_only": true,
+    "genres": [
+      "Komedi",
+      "Romantik"
+    ],
+    "season_source": "https://www.tvmaze.com/shows/48675/cati-kati-ask/episodes",
+    "source_verified_at": "2026-10-21T21:06:12.377593+00:00"
+  },
+  "afili-ask": {
+    "title": "Afili Aşk",
+    "channel": "UCTX9c3ahIac0gomdesg_XdA",
+    "url": "https://www.youtube.com/channel/UCTX9c3ahIac0gomdesg_XdA/videos",
+    "official": "https://www.kanald.com.tr/afili-ask",
+    "publisher": "kanald",
+    "start_year": 2019,
+    "minimum_seconds": 3600,
+    "season_ends": [],
+    "season_titles": [
+      "1. Sezon"
+    ],
+    "last_episode": 38,
+    "archive_complete": true,
+    "current_trailer_only": true,
+    "genres": [
+      "Komedi",
+      "Romantik"
+    ],
+    "season_source": "https://www.tvmaze.com/shows/42307/afili-ask/episodes",
+    "source_verified_at": "2026-10-21T21:06:12.241368+00:00"
+  },
+  "tatli-intikam": {
+    "title": "Tatlı İntikam",
+    "channel": "UCbQ3o1_Ip4gbCgeyU9_4dvQ",
+    "url": "https://www.youtube.com/channel/UCbQ3o1_Ip4gbCgeyU9_4dvQ/videos",
+    "official": "https://www.kanald.com.tr/tatli-intikam",
+    "publisher": "kanald",
+    "start_year": 2016,
+    "minimum_seconds": 3600,
+    "season_ends": [],
+    "season_titles": [
+      "1. Sezon"
+    ],
+    "last_episode": 30,
+    "archive_complete": true,
+    "current_trailer_only": true,
+    "genres": [
+      "Komedi",
+      "Romantik"
+    ],
+    "season_source": "https://www.tvmaze.com/shows/18027/tatli-intikam/episodes",
+    "source_verified_at": "2026-10-21T21:06:12.586024+00:00"
+  },
+  "inadina-ask": {
+    "title": "İnadına Aşk",
+    "channel": "UC7wU_ZaDAQP3sZ585GStavA",
+    "url": "https://www.youtube.com/channel/UC7wU_ZaDAQP3sZ585GStavA/videos",
+    "official": "https://www.nowtv.com.tr/İnadina-Ask",
+    "publisher": "now",
+    "start_year": 2015,
+    "minimum_seconds": 3600,
+    "season_ends": [],
+    "season_titles": [
+      "1. Sezon"
+    ],
+    "last_episode": 32,
+    "archive_complete": true,
+    "current_trailer_only": true,
+    "genres": [
+      "Komedi",
+      "Romantik"
+    ],
+    "season_source": "https://www.tvmaze.com/shows/11509/inadina-ask/episodes",
+    "source_verified_at": "2026-10-21T21:06:12.517004+00:00"
+  },
+  "her-yerde-sen": {
+    "title": "Her Yerde Sen",
+    "channel": "UCLzB63OvFFlAjNNwMxjNHjg",
+    "url": "https://www.youtube.com/channel/UCLzB63OvFFlAjNNwMxjNHjg/videos",
+    "official": "https://www.nowtv.com.tr/Her-Yerde-Sen",
+    "publisher": "now",
+    "start_year": 2019,
+    "minimum_seconds": 3600,
+    "season_ends": [],
+    "season_titles": [
+      "1. Sezon"
+    ],
+    "last_episode": 23,
+    "archive_complete": true,
+    "current_trailer_only": true,
+    "genres": [
+      "Komedi",
+      "Romantik"
+    ],
+    "season_source": "https://www.tvmaze.com/shows/42308/her-yerde-sen/episodes",
+    "source_verified_at": "2026-10-21T21:06:12.513984+00:00"
+  },
+  "senden-daha-guzel": {
+    "title": "Senden Daha Güzel",
+    "channel": "UCHprDc8AKwqFlpEIvl684Lg",
+    "url": "https://www.youtube.com/channel/UCHprDc8AKwqFlpEIvl684Lg/videos",
+    "official": "https://www.nowtv.com.tr/Senden-Daha-Guzel",
+    "publisher": "now",
+    "start_year": 2022,
+    "minimum_seconds": 3600,
+    "season_ends": [],
+    "season_titles": [
+      "1. Sezon"
+    ],
+    "last_episode": 14,
+    "archive_complete": true,
+    "current_trailer_only": true,
+    "genres": [
+      "Dram",
+      "Komedi",
+      "Romantik"
+    ],
+    "season_source": "https://www.tvmaze.com/shows/62249/senden-daha-guzel/episodes",
+    "source_verified_at": "2026-10-21T21:06:12.576467+00:00"
+  },
+  "son-yaz": {
+    "title": "Son Yaz",
+    "channel": "UCzYNcw7NI3KA2bimswFRY8g",
+    "url": "https://www.youtube.com/channel/UCzYNcw7NI3KA2bimswFRY8g/videos",
+    "official": "https://www.nowtv.com.tr/Son-Yaz",
+    "publisher": "now",
+    "start_year": 2021,
+    "minimum_seconds": 3600,
+    "season_ends": [
+      21
+    ],
+    "season_titles": [
+      "1. Sezon",
+      "2. Sezon"
+    ],
+    "last_episode": 26,
+    "archive_complete": true,
+    "current_trailer_only": true,
+    "genres": [
+      "Dram",
+      "Aksiyon",
+      "Romantik"
+    ],
+    "season_source": "https://www.tvmaze.com/shows/52595/son-yaz/episodes",
+    "source_verified_at": "2026-10-21T21:06:12.586024+00:00"
+  },
+  "mahkum": {
+    "title": "Mahkum",
+    "channel": "UCxstGbSpDAfymMXOr6zKqAA",
+    "url": "https://www.youtube.com/channel/UCxstGbSpDAfymMXOr6zKqAA/videos",
+    "official": "https://www.nowtv.com.tr/Mahkum",
+    "publisher": "now",
+    "start_year": 2021,
+    "minimum_seconds": 3600,
+    "season_ends": [
+      24
+    ],
+    "season_titles": [
+      "1. Sezon",
+      "2. Sezon"
+    ],
+    "last_episode": 31,
+    "archive_complete": true,
+    "current_trailer_only": true,
+    "genres": [
+      "Dram",
+      "Aksiyon",
+      "Suç"
+    ],
+    "season_source": "https://www.tvmaze.com/shows/59415/mahkum/episodes",
+    "source_verified_at": "2026-10-21T21:06:12.533900+00:00"
+  },
+  "ego": {
+    "title": "Ego",
+    "channel": "UCIpI3QsD5pAo0vjxgfOsGFA",
+    "url": "https://www.youtube.com/channel/UCIpI3QsD5pAo0vjxgfOsGFA/videos",
+    "official": "https://www.nowtv.com.tr/Ego",
+    "publisher": "now",
+    "start_year": 2023,
+    "minimum_seconds": 3600,
+    "season_ends": [],
+    "season_titles": [
+      "1. Sezon"
+    ],
+    "last_episode": 13,
+    "archive_complete": true,
+    "current_trailer_only": true,
+    "genres": [
+      "Dram"
+    ],
+    "season_source": "https://www.tvmaze.com/shows/66649/ego/episodes",
+    "source_verified_at": "2026-10-21T21:06:12.410656+00:00"
+  },
+  "yabani": {
+    "title": "Yabani",
+    "channel": "UC642B6OXEfPDP4F9Z_J0CCA",
+    "url": "https://www.youtube.com/channel/UC642B6OXEfPDP4F9Z_J0CCA/videos",
+    "official": "https://www.nowtv.com.tr/Yabani",
+    "publisher": "now",
+    "start_year": 2023,
+    "minimum_seconds": 3600,
+    "season_ends": [
+      36
+    ],
+    "season_titles": [
+      "1. Sezon",
+      "2. Sezon"
+    ],
+    "last_episode": 51,
+    "archive_complete": true,
+    "current_trailer_only": true,
+    "genres": [
+      "Dram"
+    ],
+    "season_source": "https://www.tvmaze.com/shows/70845/yabani/episodes",
+    "source_verified_at": "2026-10-21T21:06:12.604810+00:00"
+  },
+  "hudutsuz-sevda": {
+    "title": "Hudutsuz Sevda",
+    "channel": "UChE38WMhQs2YCv9IueqkhPg",
+    "url": "https://www.youtube.com/channel/UChE38WMhQs2YCv9IueqkhPg/videos",
+    "official": "https://www.nowtv.com.tr/Hudutsuz-Sevda",
+    "publisher": "now",
+    "start_year": 2023,
+    "minimum_seconds": 3600,
+    "season_ends": [
+      34
+    ],
+    "season_titles": [
+      "1. Sezon",
+      "2. Sezon"
+    ],
+    "last_episode": 63,
+    "archive_complete": true,
+    "current_trailer_only": true,
+    "genres": [
+      "Dram",
+      "Suç",
+      "Gerilim"
+    ],
+    "season_source": "https://www.tvmaze.com/shows/70889/hudutsuz-sevda/episodes",
+    "source_verified_at": "2026-10-21T21:06:12.513984+00:00"
+  },
+  "adim-farah": {
+    "title": "Adım Farah",
+    "channel": "UCjMg-p4naYM9i_hsp9ckpYg",
+    "url": "https://www.youtube.com/channel/UCjMg-p4naYM9i_hsp9ckpYg/videos",
+    "official": "https://www.nowtv.com.tr/Adim-Farah",
+    "publisher": "now",
+    "start_year": 2023,
+    "minimum_seconds": 3600,
+    "season_ends": [
+      14
+    ],
+    "season_titles": [
+      "1. Sezon",
+      "2. Sezon"
+    ],
+    "last_episode": 27,
+    "archive_complete": true,
+    "current_trailer_only": true,
+    "genres": [
+      "Dram",
+      "Suç",
+      "Romantik"
+    ],
+    "season_source": "https://www.tvmaze.com/shows/67182/adim-farah/episodes",
+    "source_verified_at": "2026-10-21T21:06:12.233108+00:00",
+    "full_suffixes": [
+      "Uzun Versiyon",
+      "Uzun Versiyon FİNAL"
+    ]
+  },
+  "cocuk": {
+    "title": "Çocuk",
+    "channel": "UCXGbSMPiI5WnTrDZDms1zyA",
+    "url": "https://www.youtube.com/channel/UCXGbSMPiI5WnTrDZDms1zyA/videos",
+    "official": "https://www.startv.com.tr/dizi/cocuk",
+    "publisher": "star",
+    "start_year": 2019,
+    "minimum_seconds": 3600,
+    "season_ends": [],
+    "season_titles": [
+      "1. Sezon"
+    ],
+    "last_episode": 18,
+    "archive_complete": true,
+    "current_trailer_only": true,
+    "genres": [
+      "Dram"
+    ],
+    "season_source": "https://www.tvmaze.com/shows/43643/cocuk/episodes",
+    "source_verified_at": "2026-10-21T21:06:12.391126+00:00"
+  },
+  "guvercin": {
+    "title": "Güvercin",
+    "channel": "UCFl99iZxISGjhqBB0Zhm9SQ",
+    "url": "https://www.youtube.com/channel/UCFl99iZxISGjhqBB0Zhm9SQ/videos",
+    "official": "https://www.startv.com.tr/dizi/guvercin",
+    "publisher": "star",
+    "start_year": 2019,
+    "minimum_seconds": 3600,
+    "season_ends": [],
+    "season_titles": [
+      "1. Sezon"
+    ],
+    "last_episode": 16,
+    "archive_complete": true,
+    "current_trailer_only": true,
+    "genres": [
+      "Dram"
+    ],
+    "season_source": "https://www.tvmaze.com/shows/44968/guvercin/episodes",
+    "source_verified_at": "2026-10-21T21:06:12.501576+00:00"
+  },
+  "yuksek-sosyete": {
+    "title": "Yüksek Sosyete",
+    "channel": "UC17odVjZPxXeC9MqSoinJww",
+    "url": "https://www.youtube.com/channel/UC17odVjZPxXeC9MqSoinJww/videos",
+    "official": "https://www.startv.com.tr/dizi/yuksek-sosyete",
+    "publisher": "star",
+    "start_year": 2016,
+    "minimum_seconds": 3600,
+    "season_ends": [],
+    "season_titles": [
+      "1. Sezon"
+    ],
+    "last_episode": 26,
+    "archive_complete": true,
+    "current_trailer_only": true,
+    "genres": [
+      "Dram",
+      "Komedi",
+      "Romantik"
+    ],
+    "season_source": "https://www.tvmaze.com/shows/18293/yuksek-sosyete/episodes",
+    "source_verified_at": "2026-10-21T21:06:12.606328+00:00"
+  },
+  "tatli-kucuk-yalancilar": {
+    "title": "Tatlı Küçük Yalancılar",
+    "channel": "UCxuw32OVfd_lS9RWMmJNmBA",
+    "url": "https://www.youtube.com/channel/UCxuw32OVfd_lS9RWMmJNmBA/videos",
+    "official": "https://www.youtube.com/channel/UCxuw32OVfd_lS9RWMmJNmBA",
+    "publisher": "star",
+    "start_year": 2015,
+    "minimum_seconds": 3600,
+    "season_ends": [],
+    "season_titles": [
+      "1. Sezon"
+    ],
+    "last_episode": 13,
+    "archive_complete": true,
+    "current_trailer_only": true,
+    "genres": [
+      "Dram",
+      "Gerilim"
+    ],
+    "season_source": "https://www.tvmaze.com/shows/18705/tatli-kucuk-yalancilar/episodes",
+    "source_verified_at": "2026-10-21T21:06:12.586024+00:00"
+  },
+  "kacak-gelinler": {
+    "title": "Kaçak Gelinler",
+    "channel": "UC0pXEN9QpszdOKK-4rde8ow",
+    "url": "https://www.youtube.com/channel/UC0pXEN9QpszdOKK-4rde8ow/videos",
+    "official": "https://www.youtube.com/channel/UC0pXEN9QpszdOKK-4rde8ow",
+    "publisher": "star",
+    "start_year": 2014,
+    "minimum_seconds": 3600,
+    "season_ends": [],
+    "season_titles": [
+      "1. Sezon"
+    ],
+    "last_episode": 29,
+    "archive_complete": true,
+    "current_trailer_only": true,
+    "genres": [
+      "Dram",
+      "Komedi",
+      "Romantik"
+    ],
+    "season_source": "https://www.tvmaze.com/shows/19051/kacak-gelinler/episodes",
+    "source_verified_at": "2026-10-21T21:06:12.522276+00:00"
+  },
+  "nefes-nefese": {
+    "title": "Nefes Nefese",
+    "channel": "UCPv-6x7Jhz2KZaqi6SpUK2w",
+    "url": "https://www.youtube.com/channel/UCPv-6x7Jhz2KZaqi6SpUK2w/videos",
+    "official": "https://www.startv.com.tr/dizi/nefes-nefese",
+    "publisher": "star",
+    "start_year": 2018,
+    "minimum_seconds": 3600,
+    "season_ends": [],
+    "season_titles": [
+      "1. Sezon"
+    ],
+    "last_episode": 10,
+    "archive_complete": true,
+    "current_trailer_only": true,
+    "genres": [
+      "Dram"
+    ],
+    "season_source": "https://www.tvmaze.com/shows/37851/nefes-nefese/episodes",
+    "source_verified_at": "2026-10-21T21:06:12.568631+00:00"
+  },
+  "sana-soz": {
+    "title": "Sana Söz",
+    "channel": "UCNy0Yw4Z5BshCU57VRcpsxg",
+    "url": "https://www.youtube.com/channel/UCNy0Yw4Z5BshCU57VRcpsxg/videos",
+    "official": "https://www.startv.com.tr/dizi/sana-soz",
+    "publisher": "star",
+    "start_year": 2021,
+    "minimum_seconds": 3600,
+    "season_ends": [],
+    "season_titles": [
+      "1. Sezon"
+    ],
+    "last_episode": 7,
+    "archive_complete": true,
+    "current_trailer_only": true,
+    "genres": [
+      "Dram"
+    ],
+    "season_source": "https://www.tvmaze.com/shows/58664/sana-soz/episodes",
+    "source_verified_at": "2026-10-21T21:06:12.571264+00:00"
+  },
+  "duy-beni": {
+    "title": "Duy Beni",
+    "channel": "UCFq4_AtSew8EdotLQLquOXg",
+    "url": "https://www.youtube.com/channel/UCFq4_AtSew8EdotLQLquOXg/videos",
+    "official": "https://www.startv.com.tr/dizi/duy-beni",
+    "publisher": "star",
+    "start_year": 2022,
+    "minimum_seconds": 3600,
+    "season_ends": [],
+    "season_titles": [
+      "1. Sezon"
+    ],
+    "last_episode": 20,
+    "archive_complete": true,
+    "current_trailer_only": true,
+    "genres": [
+      "Dram",
+      "Romantik"
+    ],
+    "season_source": "https://www.tvmaze.com/shows/62621/duy-beni/episodes",
+    "source_verified_at": "2026-10-21T21:06:12.399412+00:00"
   }
 }

@@ -332,6 +332,55 @@
       "source": "https://www.tvmaze.com/shows/51841/sol-yanim",
       "provider": "TVmaze",
       "checkedAt": "2026-10-21T20:37:58.861224+00:00"
+    },
+    "muhtesem-yuzyil-kosem": {
+      "score": 6.8,
+      "source": "https://www.tvmaze.com/shows/7093/muhtesem-yuzyil-kosem",
+      "provider": "TVmaze",
+      "year": 2015,
+      "checkedAt": "2026-10-21T21:06:54.830577+00:00"
+    },
+    "alparslan-buyuk-selcuklu": {
+      "score": 7.6,
+      "source": "https://www.tvmaze.com/shows/58752/alparslan-buyuk-selcuklu",
+      "provider": "TVmaze",
+      "year": 2021,
+      "checkedAt": "2026-10-21T21:06:54.830577+00:00"
+    },
+    "elimi-birakma": {
+      "score": 7.1,
+      "source": "https://www.tvmaze.com/shows/37276/elimi-birakma",
+      "provider": "TVmaze",
+      "year": 2018,
+      "checkedAt": "2026-10-21T21:06:54.830577+00:00"
+    },
+    "afili-ask": {
+      "score": 6.2,
+      "source": "https://www.tvmaze.com/shows/42307/afili-ask",
+      "provider": "TVmaze",
+      "year": 2019,
+      "checkedAt": "2026-10-21T21:06:54.830577+00:00"
+    },
+    "her-yerde-sen": {
+      "score": 7.1,
+      "source": "https://www.tvmaze.com/shows/42308/her-yerde-sen",
+      "provider": "TVmaze",
+      "year": 2019,
+      "checkedAt": "2026-10-21T21:06:54.830577+00:00"
+    },
+    "son-yaz": {
+      "score": 8,
+      "source": "https://www.tvmaze.com/shows/52595/son-yaz",
+      "provider": "TVmaze",
+      "year": 2021,
+      "checkedAt": "2026-10-21T21:06:54.830577+00:00"
+    },
+    "yabani": {
+      "score": 7.1,
+      "source": "https://www.tvmaze.com/shows/70845/yabani",
+      "provider": "TVmaze",
+      "year": 2023,
+      "checkedAt": "2026-10-21T21:06:54.830577+00:00"
     }
   }
 }

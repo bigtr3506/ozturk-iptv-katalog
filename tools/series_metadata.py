@@ -43,7 +43,7 @@ def select(metadata, title, channel, minimum=1800, aliases=None, trusted_channel
         # Publisher titles sometimes decorate genuine full episodes with emoji.
         # Remove only decorative symbols; scene/summary words remain rejected.
         cleaned=''.join(c for c in cleaned if unicodedata.category(c)!='So' and c not in '\ufe0e\ufe0f')
-        cleaned=re.sub(r'\s+',' ',re.sub(r'[|()–-]',' ',cleaned)).strip()
+        cleaned=re.sub(r'\s+',' ',re.sub(r'[!|()–-]',' ',cleaned)).strip()
         if duration>=minimum and (cleaned in (full_suffixes or []) or re.fullmatch(r'(?:(?:Final|Sezon Finali|Yeni Sezon|\d+\.\s*Sezon|Full HD|Full Bölüm|HD|4K(?: Ultra HD)?|60\s*FPS|1080p)\s*)*',cleaned,re.I)):
             if number not in full:full[number]={**e,'title':name,'youtube_basligi':e.get('title')}
         elif 0<duration<minimum and re.match(r'^(?:\d+\.\s*)?(?:Tanıtım|Fragman|Trailer|TNT\s*\d)',suffix,re.I):
