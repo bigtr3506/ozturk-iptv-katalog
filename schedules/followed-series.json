@@ -3589,5 +3589,337 @@
     ],
     "season_source": "https://www.tvmaze.com/shows/62621/duy-beni/episodes",
     "source_verified_at": "2026-10-21T21:06:12.399412+00:00"
+  },
+  "doktorlar": {
+    "title": "Doktorlar",
+    "channel": "UC9EsDuCew6Z1QP6X6s0HJeA",
+    "url": "https://www.youtube.com/channel/UC9EsDuCew6Z1QP6X6s0HJeA/videos",
+    "official": "https://www.youtube.com/channel/UC9EsDuCew6Z1QP6X6s0HJeA",
+    "publisher": "show",
+    "start_year": 2006,
+    "minimum_seconds": 3600,
+    "season_ends": [
+      26,
+      67,
+      87
+    ],
+    "season_titles": [
+      "1. Sezon",
+      "2. Sezon",
+      "3. Sezon",
+      "4. Sezon"
+    ],
+    "last_episode": 97,
+    "archive_complete": true,
+    "current_trailer_only": true,
+    "genres": [
+      "Dram",
+      "Romantik",
+      "Medical"
+    ],
+    "season_source": "https://www.tvmaze.com/shows/43401/doktorlar/episodes",
+    "source_verified_at": "2026-10-24T01:41:30.098236+00:00"
+  },
+  "acil-ask-araniyor": {
+    "title": "Acil Aşk Aranıyor",
+    "channel": "UC6w37ffLootwTJBNCn-nx8w",
+    "url": "https://www.youtube.com/channel/UC6w37ffLootwTJBNCn-nx8w/videos",
+    "official": "https://www.youtube.com/channel/UC6w37ffLootwTJBNCn-nx8w",
+    "publisher": "show",
+    "start_year": 2015,
+    "minimum_seconds": 3600,
+    "season_ends": [
+      17
+    ],
+    "season_titles": [
+      "1. Sezon",
+      "2. Sezon"
+    ],
+    "last_episode": 24,
+    "archive_complete": true,
+    "current_trailer_only": true,
+    "genres": [
+      "Komedi",
+      "Romantik"
+    ],
+    "season_source": "https://www.tvmaze.com/shows/19038/acil-ask-araniyor/episodes",
+    "source_verified_at": "2026-10-24T01:41:30.072633+00:00"
+  },
+  "oglum": {
+    "title": "Oğlum",
+    "channel": "UC0bWQvxpBc6BaDXHenHgBow",
+    "url": "https://www.youtube.com/channel/UC0bWQvxpBc6BaDXHenHgBow/videos",
+    "official": "https://www.youtube.com/channel/UC0bWQvxpBc6BaDXHenHgBow",
+    "publisher": "show",
+    "start_year": 2022,
+    "minimum_seconds": 3600,
+    "season_ends": [],
+    "season_titles": [
+      "1. Sezon"
+    ],
+    "last_episode": 15,
+    "archive_complete": true,
+    "current_trailer_only": true,
+    "genres": [
+      "Dram"
+    ],
+    "season_source": "https://www.tvmaze.com/shows/60397/oglum/episodes",
+    "source_verified_at": "2026-10-24T01:41:30.230292+00:00"
+  },
+  "gunesi-beklerken": {
+    "title": "Güneşi Beklerken",
+    "channel": "UC28JiiSvo9nZl99f2O18LMg",
+    "url": "https://www.youtube.com/channel/UC28JiiSvo9nZl99f2O18LMg/videos",
+    "official": "https://www.kanald.com.tr/gunesibeklerken",
+    "publisher": "kanald",
+    "start_year": 2013,
+    "minimum_seconds": 3600,
+    "season_ends": [],
+    "season_titles": [
+      "1. Sezon"
+    ],
+    "last_episode": 54,
+    "archive_complete": true,
+    "current_trailer_only": true,
+    "genres": [
+      "Dram",
+      "Aile"
+    ],
+    "season_source": "https://www.tvmaze.com/shows/6144/gunesi-beklerken/episodes",
+    "source_verified_at": "2026-10-24T01:41:30.115682+00:00"
+  },
+  "oyle-bir-gecer-zaman-ki": {
+    "title": "Öyle Bir Geçer Zaman Ki",
+    "channel": "UCldUX3aGPR_yWuiKkkTu56A",
+    "url": "https://www.youtube.com/channel/UCldUX3aGPR_yWuiKkkTu56A/videos",
+    "official": "https://www.kanald.com.tr/oylebirgecerzamanki",
+    "publisher": "kanald",
+    "start_year": 2010,
+    "minimum_seconds": 3600,
+    "season_ends": [
+      38,
+      79
+    ],
+    "season_titles": [
+      "1. Sezon",
+      "2. Sezon",
+      "3. Sezon"
+    ],
+    "last_episode": 120,
+    "archive_complete": true,
+    "current_trailer_only": true,
+    "genres": [
+      "Dram"
+    ],
+    "season_source": "https://www.tvmaze.com/shows/19172/oyle-bir-gecer-zaman-ki/episodes",
+    "source_verified_at": "2026-10-24T01:41:30.231814+00:00"
+  },
+  "fatmagulun-sucu-ne": {
+    "title": "Fatmagül'ün Suçu Ne?",
+    "channel": "UCmeIlUqcw49tOsE82LXz_zg",
+    "url": "https://www.youtube.com/channel/UCmeIlUqcw49tOsE82LXz_zg/videos",
+    "official": "https://www.kanald.com.tr/fatmagulun-sucu-ne",
+    "publisher": "kanald",
+    "start_year": 2010,
+    "minimum_seconds": 3600,
+    "season_ends": [
+      39
+    ],
+    "season_titles": [
+      "1. Sezon",
+      "2. Sezon"
+    ],
+    "last_episode": 80,
+    "archive_complete": true,
+    "current_trailer_only": true,
+    "genres": [
+      "Dram"
+    ],
+    "season_source": "https://www.tvmaze.com/shows/18880/fatmagulun-sucu-ne/episodes",
+    "source_verified_at": "2026-10-24T01:41:30.098236+00:00"
+  },
+  "yaprak-dokumu": {
+    "title": "Yaprak Dökümü",
+    "channel": "UCi-nK74pBX9Ou66z1j7KYPQ",
+    "url": "https://www.youtube.com/channel/UCi-nK74pBX9Ou66z1j7KYPQ/videos",
+    "official": "https://www.kanald.com.tr/yaprak-dokumu",
+    "publisher": "kanald",
+    "start_year": 2006,
+    "minimum_seconds": 3600,
+    "season_ends": [
+      38,
+      80,
+      118,
+      159
+    ],
+    "season_titles": [
+      "1. Sezon",
+      "2. Sezon",
+      "3. Sezon",
+      "4. Sezon",
+      "5. Sezon"
+    ],
+    "last_episode": 174,
+    "archive_complete": true,
+    "current_trailer_only": true,
+    "genres": [
+      "Dram",
+      "Aile"
+    ],
+    "season_source": "https://www.tvmaze.com/shows/14167/yaprak-dokumu/episodes",
+    "source_verified_at": "2026-10-24T01:41:30.262606+00:00"
+  },
+  "hanimin-ciftligi": {
+    "title": "Hanımın Çiftliği",
+    "channel": "UCyRWAbQCgFD4y319jZtg32g",
+    "url": "https://www.youtube.com/channel/UCyRWAbQCgFD4y319jZtg32g/videos",
+    "official": "https://www.youtube.com/channel/UCyRWAbQCgFD4y319jZtg32g",
+    "publisher": "kanald",
+    "start_year": 2009,
+    "minimum_seconds": 3600,
+    "season_ends": [
+      34
+    ],
+    "season_titles": [
+      "1. Sezon",
+      "2. Sezon"
+    ],
+    "last_episode": 70,
+    "archive_complete": true,
+    "current_trailer_only": true,
+    "genres": [
+      "Dram",
+      "Tarih"
+    ],
+    "season_source": "https://www.tvmaze.com/shows/84881/hanimin-ciftligi/episodes",
+    "source_verified_at": "2026-10-24T01:41:30.118331+00:00"
+  },
+  "binbir-gece": {
+    "title": "Binbir Gece",
+    "channel": "UCa5XElqX-xmNv97KzQsl1CA",
+    "url": "https://www.youtube.com/channel/UCa5XElqX-xmNv97KzQsl1CA/videos",
+    "official": "https://www.kanald.com.tr/binbir-gece",
+    "publisher": "kanald",
+    "start_year": 2006,
+    "minimum_seconds": 3600,
+    "season_ends": [
+      29,
+      66
+    ],
+    "season_titles": [
+      "1. Sezon",
+      "2. Sezon",
+      "3. Sezon"
+    ],
+    "last_episode": 90,
+    "archive_complete": true,
+    "current_trailer_only": true,
+    "genres": [
+      "Dram",
+      "Aile",
+      "Romantik"
+    ],
+    "season_source": "https://www.tvmaze.com/shows/18952/binbir-gece/episodes",
+    "source_verified_at": "2026-10-24T01:41:30.098236+00:00"
+  },
+  "yalan-dunya": {
+    "title": "Yalan Dünya",
+    "channel": "UCN2Q-lSzQa7RjrCxQZ8DzbA",
+    "url": "https://www.youtube.com/channel/UCN2Q-lSzQa7RjrCxQZ8DzbA/videos",
+    "official": "https://www.youtube.com/channel/UCN2Q-lSzQa7RjrCxQZ8DzbA",
+    "publisher": "kanald",
+    "start_year": 2012,
+    "minimum_seconds": 3600,
+    "season_ends": [
+      23,
+      56,
+      86
+    ],
+    "season_titles": [
+      "1. Sezon",
+      "2. Sezon",
+      "3. Sezon",
+      "4. Sezon"
+    ],
+    "last_episode": 90,
+    "archive_complete": true,
+    "current_trailer_only": true,
+    "genres": [
+      "Dram",
+      "Aile"
+    ],
+    "season_source": "https://www.tvmaze.com/shows/19126/yalan-dunya/episodes",
+    "source_verified_at": "2026-10-24T01:41:30.240463+00:00"
+  },
+  "benim-adim-melek": {
+    "title": "Benim Adım Melek",
+    "channel": "UC7KHmsZzPlDJOukA4-JLBcQ",
+    "url": "https://www.youtube.com/channel/UC7KHmsZzPlDJOukA4-JLBcQ/videos",
+    "official": "https://www.trt1.com.tr/diziler/benim-adim-melek",
+    "publisher": "trt",
+    "start_year": 2019,
+    "minimum_seconds": 3600,
+    "season_ends": [
+      28
+    ],
+    "season_titles": [
+      "1. Sezon",
+      "2. Sezon"
+    ],
+    "last_episode": 66,
+    "archive_complete": true,
+    "current_trailer_only": true,
+    "genres": [
+      "Dram"
+    ],
+    "season_source": "https://www.tvmaze.com/shows/43780/benim-adim-melek/episodes",
+    "source_verified_at": "2026-10-24T01:41:30.090579+00:00"
+  },
+  "kuzey-guney": {
+    "title": "Kuzey Güney",
+    "channel": "UC2sr0q_shuQKijWoebuRvcA",
+    "url": "https://www.youtube.com/channel/UC2sr0q_shuQKijWoebuRvcA/videos",
+    "official": "https://www.youtube.com/channel/UC2sr0q_shuQKijWoebuRvcA",
+    "publisher": "kanald",
+    "start_year": 2011,
+    "minimum_seconds": 3600,
+    "season_ends": [
+      40
+    ],
+    "season_titles": [
+      "1. Sezon",
+      "2. Sezon"
+    ],
+    "last_episode": 80,
+    "archive_complete": true,
+    "current_trailer_only": true,
+    "genres": [
+      "Dram"
+    ],
+    "season_source": "https://www.tvmaze.com/shows/17720/kuzey-guney/episodes",
+    "source_verified_at": "2026-10-24T01:41:30.225777+00:00"
+  },
+  "siyah-beyaz-ask": {
+    "title": "Siyah Beyaz Aşk",
+    "channel": "UCF50UvSfk59gluVqt9f7HEg",
+    "url": "https://www.youtube.com/channel/UCF50UvSfk59gluVqt9f7HEg/videos",
+    "official": "https://www.kanald.com.tr/siyah-beyaz-ask",
+    "publisher": "kanald",
+    "start_year": 2017,
+    "minimum_seconds": 3600,
+    "season_ends": [],
+    "season_titles": [
+      "1. Sezon"
+    ],
+    "last_episode": 32,
+    "archive_complete": true,
+    "current_trailer_only": true,
+    "genres": [
+      "Dram",
+      "Suç",
+      "Romantik"
+    ],
+    "season_source": "https://www.tvmaze.com/shows/32694/siyah-beyaz-ask/episodes",
+    "source_verified_at": "2026-10-24T01:41:30.237412+00:00"
   }
 }

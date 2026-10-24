@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-10-21T21:06:29.566434+00:00",
+  "checkedAt": "2026-10-24T01:49:35.190372+00:00",
   "publicBase": "https://ozturk-iptv-iphone.mobile-cloud.workers.dev/",
   "items": {
     "aile": {
@@ -3006,6 +3006,253 @@
         1000
       ],
       "posterSHA256": "36a36c0abbb8bebe646b8b7ccd3999343ff7cec91068c34073b8f56a9045be40"
+    },
+    "doktorlar": {
+      "source": "https://www.tvmaze.com/shows/43401/doktorlar",
+      "posterSource": "https://static.tvmaze.com/uploads/images/original_untouched/342/855859.jpg",
+      "backdropSource": "https://static.tvmaze.com/uploads/images/original_untouched/342/855859.jpg",
+      "title": "Doktorlar",
+      "provider": "TVmaze show image",
+      "startYear": 2006,
+      "poster": "assets/posters/official/doktorlar-poster.jpg",
+      "backdrop": "assets/posters/official/doktorlar-poster.jpg",
+      "posterSize": [
+        680,
+        1000
+      ],
+      "backdropSize": [
+        680,
+        1000
+      ],
+      "posterSHA256": "c6340449ab95b64523fd2515ba21dafdfcba6b858f26da1ac567feae5e07118c"
+    },
+    "acil-ask-araniyor": {
+      "source": "https://www.tvmaze.com/shows/19038/acil-ask-araniyor",
+      "posterSource": "https://static.tvmaze.com/uploads/images/original_untouched/66/165021.jpg",
+      "backdropSource": "https://static.tvmaze.com/uploads/images/original_untouched/66/165021.jpg",
+      "title": "Acil Aşk Aranıyor",
+      "provider": "TVmaze show image",
+      "startYear": 2015,
+      "poster": "assets/posters/official/acil-ask-araniyor-poster.jpg",
+      "backdrop": "assets/posters/official/acil-ask-araniyor-poster.jpg",
+      "posterSize": [
+        680,
+        1000
+      ],
+      "backdropSize": [
+        680,
+        1000
+      ],
+      "posterSHA256": "bd635acd8ec5f8f24fe587be6a43cbc7723a83dd2792f28cea104c7688356ad7"
+    },
+    "oglum": {
+      "source": "https://www.tvmaze.com/shows/60397/oglum",
+      "posterSource": "https://static.tvmaze.com/uploads/images/original_untouched/395/988029.jpg",
+      "backdropSource": "https://static.tvmaze.com/uploads/images/original_untouched/395/988029.jpg",
+      "title": "Oğlum",
+      "provider": "TVmaze show image",
+      "startYear": 2022,
+      "poster": "assets/posters/official/oglum-poster.jpg",
+      "backdrop": "assets/posters/official/oglum-poster.jpg",
+      "posterSize": [
+        680,
+        1000
+      ],
+      "backdropSize": [
+        680,
+        1000
+      ],
+      "posterSHA256": "114d57626588ece4650cd733750a2148cd89b4dca7b33dc741427622b9c7c0fe"
+    },
+    "gunesi-beklerken": {
+      "source": "https://www.tvmaze.com/shows/6144/gunesi-beklerken",
+      "posterSource": "https://static.tvmaze.com/uploads/images/original_untouched/23/59532.jpg",
+      "backdropSource": "https://static.tvmaze.com/uploads/images/original_untouched/23/59532.jpg",
+      "title": "Güneşi Beklerken",
+      "provider": "TVmaze show image",
+      "startYear": 2013,
+      "poster": "assets/posters/official/gunesi-beklerken-poster.jpg",
+      "backdrop": "assets/posters/official/gunesi-beklerken-poster.jpg",
+      "posterSize": [
+        680,
+        1000
+      ],
+      "backdropSize": [
+        680,
+        1000
+      ],
+      "posterSHA256": "8e8c38723872ec8b48f1d5e6c5745263152911ba0cbff54d5bb75b84e5f7dd03"
+    },
+    "oyle-bir-gecer-zaman-ki": {
+      "source": "https://www.tvmaze.com/shows/19172/oyle-bir-gecer-zaman-ki",
+      "posterSource": "https://static.tvmaze.com/uploads/images/original_untouched/66/167482.jpg",
+      "backdropSource": "https://static.tvmaze.com/uploads/images/original_untouched/66/167482.jpg",
+      "title": "Öyle Bir Geçer Zaman Ki",
+      "provider": "TVmaze show image",
+      "startYear": 2010,
+      "poster": "assets/posters/official/oyle-bir-gecer-zaman-ki-poster.jpg",
+      "backdrop": "assets/posters/official/oyle-bir-gecer-zaman-ki-poster.jpg",
+      "posterSize": [
+        680,
+        1000
+      ],
+      "backdropSize": [
+        680,
+        1000
+      ],
+      "posterSHA256": "1360da95eb31d2a6b371d1326a5d49b525e97e8c2551efd5a0681304e716fecf"
+    },
+    "fatmagulun-sucu-ne": {
+      "source": "https://www.tvmaze.com/shows/18880/fatmagulun-sucu-ne",
+      "posterSource": "https://static.tvmaze.com/uploads/images/original_untouched/65/163012.jpg",
+      "backdropSource": "https://static.tvmaze.com/uploads/images/original_untouched/65/163012.jpg",
+      "title": "Fatmagül'ün Suçu Ne?",
+      "provider": "TVmaze show image",
+      "startYear": 2010,
+      "poster": "assets/posters/official/fatmagulun-sucu-ne-poster.jpg",
+      "backdrop": "assets/posters/official/fatmagulun-sucu-ne-poster.jpg",
+      "posterSize": [
+        680,
+        1000
+      ],
+      "backdropSize": [
+        680,
+        1000
+      ],
+      "posterSHA256": "6860b7084da487120c1cef65180ddfe8e3542229487b929b0819fd630969132c"
+    },
+    "yaprak-dokumu": {
+      "source": "https://www.tvmaze.com/shows/14167/yaprak-dokumu",
+      "posterSource": "https://static.tvmaze.com/uploads/images/original_untouched/48/120922.jpg",
+      "backdropSource": "https://static.tvmaze.com/uploads/images/original_untouched/48/120922.jpg",
+      "title": "Yaprak Dökümü",
+      "provider": "TVmaze show image",
+      "startYear": 2006,
+      "poster": "assets/posters/official/yaprak-dokumu-poster.jpg",
+      "backdrop": "assets/posters/official/yaprak-dokumu-poster.jpg",
+      "posterSize": [
+        680,
+        1000
+      ],
+      "backdropSize": [
+        680,
+        1000
+      ],
+      "posterSHA256": "952edeaf97ce0f002358664e899fba3140f5d50b8bd9917775461d135874adcf"
+    },
+    "hanimin-ciftligi": {
+      "source": "https://www.tvmaze.com/shows/84881/hanimin-ciftligi",
+      "posterSource": "https://static.tvmaze.com/uploads/images/original_untouched/570/1425240.jpg",
+      "backdropSource": "https://static.tvmaze.com/uploads/images/original_untouched/570/1425240.jpg",
+      "title": "Hanımın Çiftliği",
+      "provider": "TVmaze show image",
+      "startYear": 2009,
+      "poster": "assets/posters/official/hanimin-ciftligi-poster.jpg",
+      "backdrop": "assets/posters/official/hanimin-ciftligi-poster.jpg",
+      "posterSize": [
+        680,
+        952
+      ],
+      "backdropSize": [
+        680,
+        952
+      ],
+      "posterSHA256": "10d9b301e26da9721a7c00b435a3532cd9d1d3881b76a042ea0c64dce4f4eef7"
+    },
+    "binbir-gece": {
+      "source": "https://www.tvmaze.com/shows/18952/binbir-gece",
+      "posterSource": "https://static.tvmaze.com/uploads/images/original_untouched/65/163729.jpg",
+      "backdropSource": "https://static.tvmaze.com/uploads/images/original_untouched/65/163729.jpg",
+      "title": "Binbir Gece",
+      "provider": "TVmaze show image",
+      "startYear": 2006,
+      "poster": "assets/posters/official/binbir-gece-poster.jpg",
+      "backdrop": "assets/posters/official/binbir-gece-poster.jpg",
+      "posterSize": [
+        680,
+        1000
+      ],
+      "backdropSize": [
+        680,
+        1000
+      ],
+      "posterSHA256": "39c377cea8127bb5c59104f545425dfb3006a055bbf62d28470aab9a8886983d"
+    },
+    "yalan-dunya": {
+      "source": "https://www.tvmaze.com/shows/19126/yalan-dunya",
+      "posterSource": "https://static.tvmaze.com/uploads/images/original_untouched/66/166808.jpg",
+      "backdropSource": "https://static.tvmaze.com/uploads/images/original_untouched/66/166808.jpg",
+      "title": "Yalan Dünya",
+      "provider": "TVmaze show image",
+      "startYear": 2012,
+      "poster": "assets/posters/official/yalan-dunya-poster.jpg",
+      "backdrop": "assets/posters/official/yalan-dunya-poster.jpg",
+      "posterSize": [
+        680,
+        1000
+      ],
+      "backdropSize": [
+        680,
+        1000
+      ],
+      "posterSHA256": "95f68a3ea07371219d10d47c8d84f95762cf86030dc2edd27869d9e878b6cf42"
+    },
+    "benim-adim-melek": {
+      "source": "https://www.tvmaze.com/shows/43780/benim-adim-melek",
+      "posterSource": "https://static.tvmaze.com/uploads/images/original_untouched/212/530370.jpg",
+      "backdropSource": "https://static.tvmaze.com/uploads/images/original_untouched/212/530370.jpg",
+      "title": "Benim Adım Melek",
+      "provider": "TVmaze show image",
+      "startYear": 2019,
+      "poster": "assets/posters/official/benim-adim-melek-poster.jpg",
+      "backdrop": "assets/posters/official/benim-adim-melek-poster.jpg",
+      "posterSize": [
+        680,
+        680
+      ],
+      "backdropSize": [
+        680,
+        680
+      ],
+      "posterSHA256": "b235f3898aca4cf2de5c9d33f5bc301d554cf86a4f37715b1d76b08a29346ee5"
+    },
+    "kuzey-guney": {
+      "source": "https://www.tvmaze.com/shows/17720/kuzey-guney",
+      "posterSource": "https://static.tvmaze.com/uploads/images/original_untouched/59/149055.jpg",
+      "backdropSource": "https://static.tvmaze.com/uploads/images/original_untouched/59/149055.jpg",
+      "title": "Kuzey Güney",
+      "provider": "TVmaze show image",
+      "startYear": 2011,
+      "poster": "assets/posters/official/kuzey-guney-poster.jpg",
+      "backdrop": "assets/posters/official/kuzey-guney-poster.jpg",
+      "posterSize": [
+        680,
+        1000
+      ],
+      "backdropSize": [
+        680,
+        1000
+      ],
+      "posterSHA256": "bee69a3f728aef76d0bdbca6d525a95ecce6e5c9265a325a0342d98ee2c9f302"
+    },
+    "siyah-beyaz-ask": {
+      "source": "https://www.tvmaze.com/shows/32694/siyah-beyaz-ask",
+      "posterSource": "https://static.tvmaze.com/uploads/images/original_untouched/135/339961.jpg",
+      "backdropSource": "https://static.tvmaze.com/uploads/images/original_untouched/135/339961.jpg",
+      "title": "Siyah Beyaz Aşk",
+      "provider": "TVmaze show image",
+      "startYear": 2017,
+      "poster": "assets/posters/official/siyah-beyaz-ask-poster.jpg",
+      "backdrop": "assets/posters/official/siyah-beyaz-ask-poster.jpg",
+      "posterSize": [
+        640,
+        938
+      ],
+      "backdropSize": [
+        640,
+        938
+      ],
+      "posterSHA256": "e69b76eec932fe0a57164a25862b5548d60e69202b0cbe38bcb5d1eb9fc2d372"
     }
   }
 }

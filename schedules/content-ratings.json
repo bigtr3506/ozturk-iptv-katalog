@@ -381,6 +381,123 @@
       "provider": "TVmaze",
       "year": 2023,
       "checkedAt": "2026-10-21T21:06:54.830577+00:00"
+    },
+    "doktorlar": {
+      "score": null,
+      "votes": null,
+      "approximate": false,
+      "provider": "TVmaze",
+      "source": "https://www.tvmaze.com/shows/43401/doktorlar",
+      "checkedAt": "2026-10-24T01:49:36.316660+00:00",
+      "year": 2006
+    },
+    "acil-ask-araniyor": {
+      "score": null,
+      "votes": null,
+      "approximate": false,
+      "provider": "TVmaze",
+      "source": "https://www.tvmaze.com/shows/19038/acil-ask-araniyor",
+      "checkedAt": "2026-10-24T01:49:36.316660+00:00",
+      "year": 2015
+    },
+    "oglum": {
+      "score": null,
+      "votes": null,
+      "approximate": false,
+      "provider": "TVmaze",
+      "source": "https://www.tvmaze.com/shows/60397/oglum",
+      "checkedAt": "2026-10-24T01:49:36.316660+00:00",
+      "year": 2022
+    },
+    "gunesi-beklerken": {
+      "score": 7,
+      "votes": null,
+      "approximate": false,
+      "provider": "TVmaze",
+      "source": "https://www.tvmaze.com/shows/6144/gunesi-beklerken",
+      "checkedAt": "2026-10-24T01:49:36.316660+00:00",
+      "year": 2013
+    },
+    "oyle-bir-gecer-zaman-ki": {
+      "score": null,
+      "votes": null,
+      "approximate": false,
+      "provider": "TVmaze",
+      "source": "https://www.tvmaze.com/shows/19172/oyle-bir-gecer-zaman-ki",
+      "checkedAt": "2026-10-24T01:49:36.316660+00:00",
+      "year": 2010
+    },
+    "fatmagulun-sucu-ne": {
+      "score": 7.2,
+      "votes": null,
+      "approximate": false,
+      "provider": "TVmaze",
+      "source": "https://www.tvmaze.com/shows/18880/fatmagulun-sucu-ne",
+      "checkedAt": "2026-10-24T01:49:36.316660+00:00",
+      "year": 2010
+    },
+    "yaprak-dokumu": {
+      "score": null,
+      "votes": null,
+      "approximate": false,
+      "provider": "TVmaze",
+      "source": "https://www.tvmaze.com/shows/14167/yaprak-dokumu",
+      "checkedAt": "2026-10-24T01:49:36.316660+00:00",
+      "year": 2006
+    },
+    "hanimin-ciftligi": {
+      "score": null,
+      "votes": null,
+      "approximate": false,
+      "provider": "TVmaze",
+      "source": "https://www.tvmaze.com/shows/84881/hanimin-ciftligi",
+      "checkedAt": "2026-10-24T01:49:36.316660+00:00",
+      "year": 2009
+    },
+    "binbir-gece": {
+      "score": null,
+      "votes": null,
+      "approximate": false,
+      "provider": "TVmaze",
+      "source": "https://www.tvmaze.com/shows/18952/binbir-gece",
+      "checkedAt": "2026-10-24T01:49:36.316660+00:00",
+      "year": 2006
+    },
+    "yalan-dunya": {
+      "score": null,
+      "votes": null,
+      "approximate": false,
+      "provider": "TVmaze",
+      "source": "https://www.tvmaze.com/shows/19126/yalan-dunya",
+      "checkedAt": "2026-10-24T01:49:36.316660+00:00",
+      "year": 2012
+    },
+    "benim-adim-melek": {
+      "score": null,
+      "votes": null,
+      "approximate": false,
+      "provider": "TVmaze",
+      "source": "https://www.tvmaze.com/shows/43780/benim-adim-melek",
+      "checkedAt": "2026-10-24T01:49:36.316660+00:00",
+      "year": 2019
+    },
+    "kuzey-guney": {
+      "score": 7.8,
+      "votes": null,
+      "approximate": false,
+      "provider": "TVmaze",
+      "source": "https://www.tvmaze.com/shows/17720/kuzey-guney",
+      "checkedAt": "2026-10-24T01:49:36.316660+00:00",
+      "year": 2011
+    },
+    "siyah-beyaz-ask": {
+      "score": 6.3,
+      "votes": null,
+      "approximate": false,
+      "provider": "TVmaze",
+      "source": "https://www.tvmaze.com/shows/32694/siyah-beyaz-ask",
+      "checkedAt": "2026-10-24T01:49:36.316660+00:00",
+      "year": 2017
     }
   }
 }
