@@ -1,5 +1,6 @@
 (function(){
  'use strict';
+ var program=document.body.getAttribute('data-program')==='arzu-film'?'arzu-film':'yesilcam';
  var schedule,player,index=0,total=0,ready=false,skips=0,timer,fade;
  var info=document.getElementById('info'),title=document.getElementById('title'),start=document.getElementById('start'),message=document.getElementById('message');
  function error(text){message.hidden=false;message.textContent=text;}
@@ -17,8 +18,8 @@
    onError:function(e){if([2,100,101,150].indexOf(e.data)>=0&&skips<3){skips++;next();}else error('Bu yayın şu anda başlatılamadı. Sayfayı yeniden açıp deneyebilirsin.');}
   }});
  };
- fetch('yesilcam-schedule.json',{cache:'no-cache'}).then(function(r){if(!r.ok)throw new Error('schedule');return r.json();}).then(function(data){
-  if(!data||data.schema!==1||data.id!=='yesilcam'||!Array.isArray(data.movies)||data.movies.length<200||data.movies.length>400||!data.movies.every(function(m){return m&&/^[\w-]{11}$/.test(m.id)&&typeof m.title==='string'&&typeof m.duration==='number'&&isFinite(m.duration)&&m.duration>=3600&&m.duration<=10800;}))throw new Error('schedule');
+ fetch(program+'-schedule.json',{cache:'no-cache'}).then(function(r){if(!r.ok)throw new Error('schedule');return r.json();}).then(function(data){
+  if(!data||data.schema!==1||data.id!==program||!Array.isArray(data.movies)||data.movies.length<(program==='yesilcam'?200:20)||data.movies.length>400||!data.movies.every(function(m){return m&&/^[\w-]{11}$/.test(m.id)&&typeof m.title==='string'&&typeof m.duration==='number'&&isFinite(m.duration)&&m.duration>=3600&&m.duration<=10800;}))throw new Error('schedule');
   schedule=data;total=data.movies.reduce(function(sum,m){return sum+m.duration;},0);show();var api=document.createElement('script');api.src='https://www.youtube.com/iframe_api';api.onerror=function(){error('YouTube oynatıcısına bağlanılamadı.');};document.head.appendChild(api);
  }).catch(function(){error('Film listesi alınamadı. İnternet bağlantını kontrol edip tekrar aç.');});
  window.addEventListener('pagehide',function(){clearTimeout(fade);clearInterval(timer);if(player)player.destroy();});
