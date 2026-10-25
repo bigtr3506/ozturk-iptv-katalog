@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-10-24T01:49:35.190372+00:00",
+  "checkedAt": "2026-10-25T01:35:12.915700+00:00",
   "publicBase": "https://ozturk-iptv-iphone.mobile-cloud.workers.dev/",
   "items": {
     "aile": {
@@ -3253,6 +3253,196 @@
         938
       ],
       "posterSHA256": "e69b76eec932fe0a57164a25862b5548d60e69202b0cbe38bcb5d1eb9fc2d372"
+    },
+    "uc-kiz-kardes": {
+      "source": "https://www.tvmaze.com/shows/60192/uc-kiz-kardes",
+      "posterSource": "https://static.tvmaze.com/uploads/images/original_untouched/392/981574.jpg",
+      "backdropSource": "https://static.tvmaze.com/uploads/images/original_untouched/392/981574.jpg",
+      "title": "Üç Kız Kardeş",
+      "provider": "TVmaze show image",
+      "startYear": 2022,
+      "poster": "assets/posters/official/uc-kiz-kardes-poster.jpg",
+      "backdrop": "assets/posters/official/uc-kiz-kardes-poster.jpg",
+      "posterSize": [
+        680,
+        1000
+      ],
+      "backdropSize": [
+        680,
+        1000
+      ],
+      "posterSHA256": "0cc46f8f2d326190ec9e2bc7dcdaf432909520f8559477b254d48f2253b2a6ea"
+    },
+    "o-kiz": {
+      "source": "https://www.tvmaze.com/shows/64078/o-kiz",
+      "posterSource": "https://static.tvmaze.com/uploads/images/original_untouched/421/1054976.jpg",
+      "backdropSource": "https://static.tvmaze.com/uploads/images/original_untouched/421/1054976.jpg",
+      "title": "O Kız",
+      "provider": "TVmaze show image",
+      "startYear": 2022,
+      "poster": "assets/posters/official/o-kiz-poster.jpg",
+      "backdrop": "assets/posters/official/o-kiz-poster.jpg",
+      "posterSize": [
+        680,
+        1000
+      ],
+      "backdropSize": [
+        680,
+        1000
+      ],
+      "posterSHA256": "f46274f3877c6c4e9975230c618cdce85b4d803b4f10f1f2eda93785948ab1a1"
+    },
+    "tas-kagit-makas": {
+      "source": "https://www.tvmaze.com/shows/74589/tas-kagit-makas",
+      "posterSource": "https://static.tvmaze.com/uploads/images/original_untouched/506/1266339.jpg",
+      "backdropSource": "https://static.tvmaze.com/uploads/images/original_untouched/506/1266339.jpg",
+      "title": "Taş Kağıt Makas",
+      "provider": "TVmaze show image",
+      "startYear": 2024,
+      "poster": "assets/posters/official/tas-kagit-makas-poster.jpg",
+      "backdrop": "assets/posters/official/tas-kagit-makas-poster.jpg",
+      "posterSize": [
+        680,
+        982
+      ],
+      "backdropSize": [
+        680,
+        982
+      ],
+      "posterSHA256": "30ec06fcdb2c7a04624900478f7d5f033b8dc8724205dfedfe301660b18590ed"
+    },
+    "seversin": {
+      "source": "https://www.tvmaze.com/shows/62140/seversin",
+      "posterSource": "https://static.tvmaze.com/uploads/images/original_untouched/409/1023426.jpg",
+      "backdropSource": "https://static.tvmaze.com/uploads/images/original_untouched/409/1023426.jpg",
+      "title": "Seversin",
+      "provider": "TVmaze show image",
+      "startYear": 2022,
+      "poster": "assets/posters/official/seversin-poster.jpg",
+      "backdrop": "assets/posters/official/seversin-poster.jpg",
+      "posterSize": [
+        562,
+        1000
+      ],
+      "backdropSize": [
+        562,
+        1000
+      ],
+      "posterSHA256": "c5f889ed1301d7a6c7a48f7c27e910eb1350019e1763c3dfb7aeb3744cd9bf93"
+    },
+    "baht-oyunu": {
+      "source": "https://www.tvmaze.com/shows/55559/baht-oyunu",
+      "posterSource": "https://static.tvmaze.com/uploads/images/original_untouched/321/803353.jpg",
+      "backdropSource": "https://static.tvmaze.com/uploads/images/original_untouched/321/803353.jpg",
+      "title": "Baht Oyunu",
+      "provider": "TVmaze show image",
+      "startYear": 2021,
+      "poster": "assets/posters/official/baht-oyunu-poster.jpg",
+      "backdrop": "assets/posters/official/baht-oyunu-poster.jpg",
+      "posterSize": [
+        680,
+        1000
+      ],
+      "backdropSize": [
+        680,
+        1000
+      ],
+      "posterSHA256": "b56b6f2c3f3944789eee4df3c1de9d34b8d08f157495973d6d52528104b33d91"
+    },
+    "askin-tarifi": {
+      "source": "https://www.tvmaze.com/shows/55557/askin-tarifi",
+      "posterSource": "https://static.tvmaze.com/uploads/images/original_untouched/321/803331.jpg",
+      "backdropSource": "https://static.tvmaze.com/uploads/images/original_untouched/321/803331.jpg",
+      "title": "Aşkın Tarifi",
+      "provider": "TVmaze show image",
+      "startYear": 2021,
+      "poster": "assets/posters/official/askin-tarifi-poster.jpg",
+      "backdrop": "assets/posters/official/askin-tarifi-poster.jpg",
+      "posterSize": [
+        680,
+        1000
+      ],
+      "backdropSize": [
+        680,
+        1000
+      ],
+      "posterSHA256": "121ac437f17da862c1eea3e1acc9a2ad6030bc5e373c75bef9cdef29437dbf06"
+    },
+    "donence": {
+      "source": "https://www.tvmaze.com/shows/69287/donence",
+      "posterSource": "https://static.tvmaze.com/uploads/images/original_untouched/465/1162801.jpg",
+      "backdropSource": "https://static.tvmaze.com/uploads/images/original_untouched/465/1162801.jpg",
+      "title": "Dönence",
+      "provider": "TVmaze show image",
+      "startYear": 2023,
+      "poster": "assets/posters/official/donence-poster.jpg",
+      "backdrop": "assets/posters/official/donence-poster.jpg",
+      "posterSize": [
+        680,
+        850
+      ],
+      "backdropSize": [
+        680,
+        850
+      ],
+      "posterSHA256": "485f94ce2cadd7d6a1c35447c3138343f9a3952e58dd714f40cff828702c3df2"
+    },
+    "calikusu": {
+      "source": "https://www.tvmaze.com/shows/18756/calikusu",
+      "posterSource": "https://static.tvmaze.com/uploads/images/original_untouched/64/161859.jpg",
+      "backdropSource": "https://static.tvmaze.com/uploads/images/original_untouched/64/161859.jpg",
+      "title": "Çalıkuşu",
+      "provider": "TVmaze show image",
+      "startYear": 2013,
+      "poster": "assets/posters/official/calikusu-poster.jpg",
+      "backdrop": "assets/posters/official/calikusu-poster.jpg",
+      "posterSize": [
+        680,
+        1000
+      ],
+      "backdropSize": [
+        680,
+        1000
+      ],
+      "posterSHA256": "bead832d9ef75937557af09e77bd8af70cc3ec91933dcb7b58666e0d1fe908c8"
+    },
+    "kucuk-aga": {
+      "source": "https://www.tvmaze.com/shows/35823/kucuk-aga",
+      "posterSource": "https://static.tvmaze.com/uploads/images/original_untouched/151/379307.jpg",
+      "backdropSource": "https://static.tvmaze.com/uploads/images/original_untouched/151/379307.jpg",
+      "title": "Küçük Ağa",
+      "provider": "TVmaze show image",
+      "startYear": 2014,
+      "poster": "assets/posters/official/kucuk-aga-poster.jpg",
+      "backdrop": "assets/posters/official/kucuk-aga-poster.jpg",
+      "posterSize": [
+        680,
+        1000
+      ],
+      "backdropSize": [
+        680,
+        1000
+      ],
+      "posterSHA256": "c05a3d25abb3829faa2e6d14ab35a2ad25cc54aaf34fbeabb44ebd751f874793"
+    },
+    "bir-litre-gozyasi": {
+      "source": "https://www.tvmaze.com/shows/38877/bir-litre-gozyasi",
+      "posterSource": "https://static.tvmaze.com/uploads/images/original_untouched/169/422561.jpg",
+      "backdropSource": "https://static.tvmaze.com/uploads/images/original_untouched/169/422561.jpg",
+      "title": "Bir Litre Gözyaşı",
+      "provider": "TVmaze show image",
+      "startYear": 2018,
+      "poster": "assets/posters/official/bir-litre-gozyasi-poster.jpg",
+      "backdrop": "assets/posters/official/bir-litre-gozyasi-poster.jpg",
+      "posterSize": [
+        680,
+        680
+      ],
+      "backdropSize": [
+        680,
+        680
+      ],
+      "posterSHA256": "191c3ce183f789406ac07ede23d2c2bacda9d794f2a68c1831cbe5dc93f935a2"
     }
   }
 }

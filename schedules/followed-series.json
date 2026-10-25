@@ -3921,5 +3921,239 @@
     ],
     "season_source": "https://www.tvmaze.com/shows/32694/siyah-beyaz-ask/episodes",
     "source_verified_at": "2026-10-24T01:41:30.237412+00:00"
+  },
+  "uc-kiz-kardes": {
+    "title": "Üç Kız Kardeş",
+    "channel": "UCcqrjI4zmEO4VmZkd8m-rgQ",
+    "url": "https://www.youtube.com/channel/UCcqrjI4zmEO4VmZkd8m-rgQ/videos",
+    "official": "https://www.youtube.com/channel/UCcqrjI4zmEO4VmZkd8m-rgQ",
+    "publisher": "kanald",
+    "start_year": 2022,
+    "minimum_seconds": 3600,
+    "season_ends": [
+      16,
+      53
+    ],
+    "season_titles": [
+      "1. Sezon",
+      "2. Sezon",
+      "3. Sezon"
+    ],
+    "last_episode": 84,
+    "archive_complete": true,
+    "current_trailer_only": true,
+    "genres": [
+      "Dram"
+    ],
+    "season_source": "https://www.tvmaze.com/shows/60192/uc-kiz-kardes/episodes",
+    "source_verified_at": "2026-10-25T01:35:12.502931+00:00"
+  },
+  "o-kiz": {
+    "title": "O Kız",
+    "channel": "UC-Abr0EVdafVEdsxSQpqL5w",
+    "url": "https://www.youtube.com/channel/UC-Abr0EVdafVEdsxSQpqL5w/videos",
+    "official": "https://www.youtube.com/channel/UC-Abr0EVdafVEdsxSQpqL5w",
+    "publisher": "kanald",
+    "start_year": 2022,
+    "minimum_seconds": 3600,
+    "season_ends": [],
+    "season_titles": [
+      "1. Sezon"
+    ],
+    "last_episode": 24,
+    "archive_complete": true,
+    "current_trailer_only": true,
+    "genres": [
+      "Dram"
+    ],
+    "season_source": "https://www.kanald.com.tr/o-kiz/bolumler/o-kiz-son-bolum",
+    "source_verified_at": "2026-10-25T01:35:12.488744+00:00"
+  },
+  "tas-kagit-makas": {
+    "title": "Taş Kağıt Makas",
+    "channel": "UCkokMTY38jFNyvOZnVcpg8g",
+    "url": "https://www.youtube.com/channel/UCkokMTY38jFNyvOZnVcpg8g/videos",
+    "official": "https://www.youtube.com/channel/UCkokMTY38jFNyvOZnVcpg8g",
+    "publisher": "kanald",
+    "start_year": 2024,
+    "minimum_seconds": 3600,
+    "season_ends": [
+      14
+    ],
+    "season_titles": [
+      "1. Sezon",
+      "2. Sezon"
+    ],
+    "last_episode": 19,
+    "archive_complete": true,
+    "current_trailer_only": true,
+    "genres": [
+      "Dram"
+    ],
+    "season_source": "https://www.tvmaze.com/shows/74589/tas-kagit-makas/episodes",
+    "source_verified_at": "2026-10-25T01:35:12.501927+00:00"
+  },
+  "seversin": {
+    "title": "Seversin",
+    "channel": "UCw6FyeMhSHo8bsvD29F8XpA",
+    "url": "https://www.youtube.com/channel/UCw6FyeMhSHo8bsvD29F8XpA/videos",
+    "official": "https://www.youtube.com/channel/UCw6FyeMhSHo8bsvD29F8XpA",
+    "publisher": "kanald",
+    "start_year": 2022,
+    "minimum_seconds": 3600,
+    "season_ends": [],
+    "season_titles": [
+      "1. Sezon"
+    ],
+    "last_episode": 20,
+    "archive_complete": true,
+    "current_trailer_only": true,
+    "genres": [
+      "Komedi",
+      "Romantik"
+    ],
+    "season_source": "https://www.tvmaze.com/shows/62140/seversin/episodes",
+    "source_verified_at": "2026-10-25T01:35:12.501927+00:00"
+  },
+  "baht-oyunu": {
+    "title": "Baht Oyunu",
+    "channel": "UCQClxhnY1kJaU11eOsDaGUQ",
+    "url": "https://www.youtube.com/channel/UCQClxhnY1kJaU11eOsDaGUQ/videos",
+    "official": "https://www.youtube.com/channel/UCQClxhnY1kJaU11eOsDaGUQ",
+    "publisher": "kanald",
+    "start_year": 2021,
+    "minimum_seconds": 3600,
+    "season_ends": [],
+    "season_titles": [
+      "1. Sezon"
+    ],
+    "last_episode": 17,
+    "archive_complete": true,
+    "current_trailer_only": true,
+    "genres": [
+      "Dram",
+      "Komedi",
+      "Romantik"
+    ],
+    "season_source": "https://www.tvmaze.com/shows/55559/baht-oyunu/episodes",
+    "source_verified_at": "2026-10-25T01:35:12.465208+00:00"
+  },
+  "askin-tarifi": {
+    "title": "Aşkın Tarifi",
+    "channel": "UC722fVi-zCyEG4OvLafBuAg",
+    "url": "https://www.youtube.com/channel/UC722fVi-zCyEG4OvLafBuAg/videos",
+    "official": "https://www.kanald.com.tr/askin-tarifi",
+    "publisher": "kanald",
+    "start_year": 2021,
+    "minimum_seconds": 3600,
+    "season_ends": [],
+    "season_titles": [
+      "1. Sezon"
+    ],
+    "last_episode": 13,
+    "archive_complete": true,
+    "current_trailer_only": true,
+    "genres": [
+      "Komedi",
+      "Romantik"
+    ],
+    "season_source": "https://www.tvmaze.com/shows/55557/askin-tarifi/episodes",
+    "source_verified_at": "2026-10-25T01:35:12.460632+00:00"
+  },
+  "donence": {
+    "title": "Dönence",
+    "channel": "UCO3TNlXzsmWp75mZaGcDIFg",
+    "url": "https://www.youtube.com/channel/UCO3TNlXzsmWp75mZaGcDIFg/videos",
+    "official": "https://www.kanald.com.tr/donence",
+    "publisher": "kanald",
+    "start_year": 2023,
+    "minimum_seconds": 3600,
+    "season_ends": [],
+    "season_titles": [
+      "1. Sezon"
+    ],
+    "last_episode": 14,
+    "archive_complete": true,
+    "current_trailer_only": true,
+    "genres": [
+      "Dram",
+      "Romantik"
+    ],
+    "season_source": "https://www.tvmaze.com/shows/69287/donence/episodes",
+    "source_verified_at": "2026-10-25T01:35:12.483565+00:00"
+  },
+  "calikusu": {
+    "title": "Çalıkuşu",
+    "channel": "UCEIhfu9gg2P-qakPCOJUYcw",
+    "url": "https://www.youtube.com/channel/UCEIhfu9gg2P-qakPCOJUYcw/videos",
+    "official": "https://www.kanald.com.tr/calikusu",
+    "publisher": "kanald",
+    "start_year": 2013,
+    "minimum_seconds": 3600,
+    "season_ends": [],
+    "season_titles": [
+      "1. Sezon"
+    ],
+    "last_episode": 30,
+    "archive_complete": true,
+    "current_trailer_only": true,
+    "genres": [
+      "Dram",
+      "Romantik"
+    ],
+    "season_source": "https://www.tvmaze.com/shows/18756/calikusu/episodes",
+    "source_verified_at": "2026-10-25T01:35:12.474597+00:00"
+  },
+  "kucuk-aga": {
+    "title": "Küçük Ağa",
+    "channel": "UCwmsfrF76JXPl6r9b_C2syw",
+    "url": "https://www.youtube.com/channel/UCwmsfrF76JXPl6r9b_C2syw/videos",
+    "official": "https://www.kanald.com.tr/kucuk-aga",
+    "publisher": "kanald",
+    "start_year": 2014,
+    "minimum_seconds": 3600,
+    "season_ends": [
+      23
+    ],
+    "season_titles": [
+      "1. Sezon",
+      "2. Sezon"
+    ],
+    "last_episode": 50,
+    "archive_complete": true,
+    "current_trailer_only": true,
+    "genres": [
+      "Dram",
+      "Komedi",
+      "Romantik"
+    ],
+    "season_source": "https://www.tvmaze.com/shows/35823/kucuk-aga/episodes",
+    "source_verified_at": "2026-10-25T01:35:12.483565+00:00",
+    "full_suffixes": [
+      "l FULL BÖLÜM",
+      "l FULL BÖLÜM FİNAL",
+      "l FİNAL"
+    ]
+  },
+  "bir-litre-gozyasi": {
+    "title": "Bir Litre Gözyaşı",
+    "channel": "UCSGUvkt-aWDz3Kbu0JUZxZA",
+    "url": "https://www.youtube.com/channel/UCSGUvkt-aWDz3Kbu0JUZxZA/videos",
+    "official": "https://www.kanald.com.tr/bir-litre-gozyasi",
+    "publisher": "kanald",
+    "start_year": 2018,
+    "minimum_seconds": 3600,
+    "season_ends": [],
+    "season_titles": [
+      "1. Sezon"
+    ],
+    "last_episode": 15,
+    "archive_complete": true,
+    "current_trailer_only": true,
+    "genres": [
+      "Dram"
+    ],
+    "season_source": "https://www.tvmaze.com/shows/38877/bir-litre-gozyasi/episodes",
+    "source_verified_at": "2026-10-25T01:35:12.471542+00:00"
   }
 }
