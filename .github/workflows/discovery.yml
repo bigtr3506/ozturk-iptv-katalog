@@ -34,7 +34,11 @@ jobs:
           git add schedules/followed-series.json schedules/series-artwork.json public-updates
           if ! git diff --cached --quiet; then
             git commit -m "Discover and validate official full series and films"
-            git push
+            for attempt in 1 2 3; do
+              git pull --rebase origin main
+              if git push; then break; fi
+              if [ "$attempt" = 3 ]; then exit 1; fi
+            done
           fi
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3

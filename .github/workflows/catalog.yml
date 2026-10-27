@@ -64,7 +64,11 @@ jobs:
           git add tools/*.py schedules/*.json public-updates requirements.txt
           if ! git diff --cached --quiet; then
             git commit -m "Refresh official episode and upcoming trailer catalog"
-            git push
+            for attempt in 1 2 3; do
+              git pull --rebase origin main
+              if git push; then break; fi
+              if [ "$attempt" = 3 ]; then exit 1; fi
+            done
           fi
       - uses: actions/upload-pages-artifact@v3
         with:
