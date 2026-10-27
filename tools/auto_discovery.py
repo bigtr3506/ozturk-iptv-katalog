@@ -39,7 +39,7 @@ def fetch(url):
         return body.decode('utf-8',errors='replace')
 
 def listing(url,limit=600):
-    result=subprocess.run([sys.executable,'-m','yt_dlp','--flat-playlist','--skip-download','--no-warnings','--socket-timeout','15','--playlist-end',str(limit),'--dump-single-json',url],capture_output=True,text=True,encoding='utf-8',timeout=90)
+    result=subprocess.run([sys.executable,'-m','yt_dlp','--flat-playlist','--extractor-args','youtube:lang=tr','--skip-download','--no-warnings','--socket-timeout','15','--playlist-end',str(limit),'--dump-single-json',url],capture_output=True,text=True,encoding='utf-8',timeout=90)
     if result.returncode:raise ValueError('Publisher metadata unavailable')
     return json.loads(result.stdout)
 
@@ -118,7 +118,8 @@ def movie_row(entry,publisher):
     if not re.fullmatch(r'[\w-]{11}',vid) or not isinstance(duration,(int,float)) or not publisher['minimum_seconds']<=duration<=14400:return None
     if entry.get('live_status') in ('is_live','is_upcoming','post_live'):return None
     if entry.get('channel_id') not in (None,publisher['channel']) or entry.get('availability') in ('private','needs_auth','premium_only','subscriber_only'):return None
-    if re.search(r'\b(?:bölüm|episode|fragman|trailer|sahne|sahneleri|özet|derleme|kolaj|canlı|belgesel|kamera arkası)\b',title,re.I):return None
+    if re.search(r'\b(?:bölüm|episode|fragman|trailer|sahne\w*|özet|derleme|kolaj|canlı|belgesel|kamera arkası|moments|movements|festival|festivali|hareketler|sketch|skeç)\b|#\s*\d',title,re.I):return None
+    if not re.search(r'\b(?:full\s*(?:film|movie)|tek\s*parça|türk\s*film[iı]|yerli\s*film|sinema\s*film[iı]|tam\s*film)\b',title,re.I):return None
     title=re.split(r'\s*\|\s*|\s+[–-]\s+',title)[0]
     title=re.sub(r'\s*\((?:19|20)\d{2}\)\s*',' ',title)
     title=re.sub(r'\s+(?:(?:Full(?:\s+(?:Film|HD))?|FullHD|HD(?:\s+Türk\s+Filmi)?|4K|Türk\s+Filmi|Yerli\s+Film|Tek\s+Parça)(?:\s+İzle)?\s*)+$','',title,flags=re.I).strip()

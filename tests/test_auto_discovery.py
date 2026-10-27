@@ -23,9 +23,9 @@ class AutoDiscoveryTests(unittest.TestCase):
    if mutate=='network':show['network']['name']='Other TV'
    with self.assertRaises(ValueError):discovery.initial_series('Yeni Dizi','https://www.showtv.com.tr/new','show',meta,show,eps)
  def test_movie_filters_reject_short_clips_trailers_wrong_owners_and_live_video(self):
-  publisher={'name':'Resmi Film','channel':self.channel,'minimum_seconds':3600};entry={'id':'abcdefghijk','title':'Yeni Film | Full HD','duration':5400,'channel_id':self.channel}
+  publisher={'name':'Resmi Film','channel':self.channel,'minimum_seconds':3600};entry={'id':'abcdefghijk','title':'Yeni Film | Full Film HD','duration':5400,'channel_id':self.channel}
   self.assertEqual(discovery.movie_row(entry,publisher)['baslik'],'Yeni Film')
-  for bad in ({'duration':300},{'title':'Yeni Film Fragman'},{'channel_id':'UC'+'b'*22},{'live_status':'is_live'},{'duration':'unknown'}):self.assertIsNone(discovery.movie_row({**entry,**bad},publisher))
+  for bad in ({'duration':300},{'title':'Yeni Film Fragman'},{'channel_id':'UC'+'b'*22},{'live_status':'is_live'},{'duration':'unknown'},{'title':'All Commander Moments Full Film'},{'title':'Comedy Festival #38 Full Film'},{'title':'Uzun video HD'},{'title':'Hemşo En İyi Sahneler Türk Filmi'}):self.assertIsNone(discovery.movie_row({**entry,**bad},publisher))
  def test_provider_outage_keeps_catalog_and_writes_an_honest_pending_report(self):
   with tempfile.TemporaryDirectory(dir=discovery.ROOT) as folder:
    root=Path(folder);(root/'schedules').mkdir();(root/'public-updates').mkdir()
