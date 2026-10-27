@@ -139,7 +139,7 @@ def refresh(root=ROOT):
             urls=sorted({urllib.parse.urljoin(provider['url'],href).split('?')[0] for href in page.links if urllib.parse.urlsplit(urllib.parse.urljoin(provider['url'],href)).hostname==base.hostname and re.fullmatch(provider['pattern'],urllib.parse.urlsplit(urllib.parse.urljoin(provider['url'],href)).path)})
             for url in urls:
                 slug=url.rstrip('/').split('/')[-2 if provider['publisher']=='show' else -1]
-                if key(slug) not in known and not re.search(r'(?:haber|canli|diziler|program|iletisim|kunye|gizlilik|filmler|basvuru|yayin|frekans|kvkk|reklam)',slug):candidates.append((provider,url))
+                if not slug.isdigit() and key(slug) not in known and not re.search(r'(?:haber|canli|diziler|program|iletisim|kunye|gizlilik|filmler|basvuru|yayin|frekans|kvkk|reklam)',slug):candidates.append((provider,url))
             report['providers'].append(dict(source=provider['url'],ok=True,candidates=len(urls)))
         except Exception:report['providers'].append(dict(source=provider['url'],ok=False,reason='Official listing unavailable; previous catalog retained'))
     artwork=read(root/'schedules/series-artwork.json',{'items':{}})
@@ -157,7 +157,7 @@ def refresh(root=ROOT):
                 if identity in followed:continue
                 row['guncellenme']=stamp;followed[identity]=registry;existing[identity]=row;artwork['items'][identity]=art;report['addedSeries'].append(dict(id=identity,title=row['baslik'],episodes=row['son_tam_bolum']))
             except Exception as e:report['pending'].append(dict(source=url,reason=str(e)[:180]))
-    movies=read(root/'public-updates/movies.json',[]);movie_ids={s['url'] for row in movies for s in row.get('kaynaklar',[])};movie_titles={key(r['baslik']) for r in movies}
+    movies=[row for row in read(root/'public-updates/movies.json',[]) if not row.get('auto_discovered') or row.get('tam_film_dogrulandi')];movie_ids={s['url'] for row in movies for s in row.get('kaynaklar',[])};movie_titles={key(r['baslik']) for r in movies}
     additions=[]
     def scan_movies(publisher):
         metadata=listing(publisher['url'],120)
@@ -169,7 +169,7 @@ def refresh(root=ROOT):
             try:
                 embed=json.loads(fetch('https://www.youtube.com/oembed?format=json&url='+urllib.parse.quote(row['resmi_url'],safe='')))
                 if key(embed.get('author_name'))!=key(metadata.get('channel')):continue
-                row.update(eklenme=stamp,guncellenme=stamp,auto_discovered=True,kaynak_dogrulamasi='Publisher owner, minimum duration and public oEmbed verified; device playback not asserted.');rows.append(row)
+                row.update(eklenme=stamp,guncellenme=stamp,auto_discovered=True,tam_film_dogrulandi=True,kaynak_dogrulamasi='Explicit full-film title, publisher owner, minimum duration and public oEmbed verified; device playback not asserted.');rows.append(row)
             except Exception:pass
             if len(rows)>=20:break
         return rows
