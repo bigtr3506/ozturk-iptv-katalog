@@ -35,6 +35,7 @@ def select(metadata, title, channel, minimum=1800, aliases=None, trusted_channel
             if name.casefold().startswith(prefix.casefold()):name=name[len(prefix):].lstrip();break
         names='(?:'+'|'.join(re.escape(unicodedata.normalize('NFC',t)) for t in [title]+list(aliases or []))+')'
         name=re.sub(r'^('+names+r')\s*[|:–-]?\s*Episode\s+(\d+)',lambda m:m[1]+' '+m[2]+'. Bölüm',name,flags=re.I)
+        name=re.sub(r'^('+names+r')\s*(\d+)\s*\.?\s*(Sezon Finali|Final)\s+Bölümü\b',lambda m:m[1]+' '+m[2]+'. Bölüm '+m[3],name,flags=re.I)
         match=re.match(r'^'+names+r'\s*[|:–-]?\s*(\d+)\s*\.?\s*(?:Bölüm|Episode)\b\s*(.*)$',name,re.I)
         if not match:continue
         number=int(match[1]);suffix=match[2].strip()

@@ -1,0 +1,232 @@
+{
+  "at": "2026-10-27T20:04:20.514754+00:00",
+  "addedSeries": [
+    {
+      "id": "selena",
+      "title": "Selena",
+      "episodes": 104,
+      "seasons": [
+        41,
+        37,
+        26
+      ],
+      "source": "https://www.atv.com.tr/selena",
+      "channel": "UCC_iReQZgbPtOBfn3bjNnPw",
+      "posterSource": "https://iaatv.tmgrup.com.tr/babe9c/0/0/0/0/0/0?u=https://iatv.tmgrup.com.tr/2021/07/28/500x268/1627474216616.jpg",
+      "devicePlaybackTested": false
+    },
+    {
+      "id": "alemin-krali",
+      "title": "Alemin Kıralı",
+      "episodes": 67,
+      "seasons": [
+        40,
+        27
+      ],
+      "source": "https://www.atv.com.tr/alemin-kirali",
+      "channel": "UC7X6WuvzdVTFtAAAly9ldcw",
+      "posterSource": "https://iaatv.tmgrup.com.tr/71341d/0/0/0/0/0/0?u=https://iatv.tmgrup.com.tr/2021/07/28/500x268/1627478999116.jpg",
+      "devicePlaybackTested": false
+    },
+    {
+      "id": "ask-i-memnu",
+      "title": "Aşk-ı Memnu",
+      "episodes": 79,
+      "seasons": [
+        38,
+        41
+      ],
+      "source": "https://www.kanald.com.tr/askimemnu",
+      "channel": "UCIdiuKAg5xVZsvXDQbOG4cg",
+      "posterSource": "https://static.tvmaze.com/uploads/images/original_untouched/65/163091.jpg",
+      "devicePlaybackTested": false
+    },
+    {
+      "id": "sipahi",
+      "title": "Sipahi",
+      "episodes": 8,
+      "seasons": [
+        8
+      ],
+      "source": "https://www.showtv.com.tr/dizi/tanitim/sipahi/2879",
+      "channel": "UCIZHtZXvXVjIGr4njnDNRBg",
+      "posterSource": "https://static.tvmaze.com/uploads/images/original_untouched/431/1079879.jpg",
+      "devicePlaybackTested": false
+    },
+    {
+      "id": "hayat-bugun",
+      "title": "Hayat Bugün",
+      "episodes": 8,
+      "seasons": [
+        8
+      ],
+      "source": "https://www.showtv.com.tr/dizi/tanitim/hayat-bugun/2873",
+      "channel": "UC0wR33ME38keyy0Bg0lOs3A",
+      "posterSource": "https://static.tvmaze.com/uploads/images/original_untouched/425/1062726.jpg",
+      "devicePlaybackTested": false
+    },
+    {
+      "id": "kara",
+      "title": "Kara",
+      "episodes": 5,
+      "seasons": [
+        5
+      ],
+      "source": "https://www.showtv.com.tr/dizi/tanitim/kara/2935",
+      "channel": "UCu-IpJ_DO00HWar7fL5A7cA",
+      "posterSource": "https://static.tvmaze.com/uploads/images/original_untouched/491/1229060.jpg",
+      "devicePlaybackTested": false
+    },
+    {
+      "id": "ne-gemiler-yaktim",
+      "title": "Ne Gemiler Yaktım",
+      "episodes": 8,
+      "seasons": [
+        8
+      ],
+      "source": "https://www.showtv.com.tr/dizi/tanitim/ne-gemiler-yaktim/2933",
+      "channel": "UCnJPCYfjyFue7OpnRv2nebw",
+      "posterSource": "https://static.tvmaze.com/uploads/images/original_untouched/488/1222061.jpg",
+      "devicePlaybackTested": false
+    }
+  ],
+  "addedManualFilms": [
+    {
+      "id": "auto-film-tOeA5GdxMMI",
+      "title": "Can Dostlar"
+    },
+    {
+      "id": "auto-film-HfcnheC4tb8",
+      "title": "Bücür"
+    },
+    {
+      "id": "auto-film-b2cvHlkoMXo",
+      "title": "El Değmemiş Aşk"
+    },
+    {
+      "id": "auto-film-RJA4gLj7TH8",
+      "title": "Tele Kızlar"
+    },
+    {
+      "id": "auto-film-f6gXsLVFL0c",
+      "title": "Polis Dosyası"
+    },
+    {
+      "id": "auto-film-xxLVEhRfWC8",
+      "title": "Babanın Evlatları"
+    },
+    {
+      "id": "auto-film-0y4GrvHXnjA",
+      "title": "Kızımın Kanı"
+    },
+    {
+      "id": "auto-film-m-jbZFK0_Wc",
+      "title": "Boşver Arkadaş"
+    },
+    {
+      "id": "auto-film-nBDUmDYQMyw",
+      "title": "Tarkan Gümüş Eyer"
+    },
+    {
+      "id": "auto-film-X-NSoTjy5LY",
+      "title": "Hayal-i Cihan"
+    },
+    {
+      "id": "auto-film-IG43aZ-MhpE",
+      "title": "Kabuslar Evi: Onlara Dokunmak"
+    },
+    {
+      "id": "auto-film-1VF6ukrCafg",
+      "title": "Bana Adını Sor"
+    },
+    {
+      "id": "auto-film-hzl-UD6SyzM",
+      "title": "EZİLENLER"
+    },
+    {
+      "id": "auto-film-TG2cMUEaiEs",
+      "title": "YAV HE HE"
+    },
+    {
+      "id": "auto-film-R5pbMPhSeJs",
+      "title": "MELEK YÜZLÜM"
+    },
+    {
+      "id": "auto-film-i3m6CiS90ak",
+      "title": "TAPILACAK KADIN"
+    },
+    {
+      "id": "auto-film-8Jzd8B0sgoI",
+      "title": "HAPI YUTTUK"
+    },
+    {
+      "id": "auto-film-5Yw7c-CXKU8",
+      "title": "BEBEK YÜZLÜ"
+    },
+    {
+      "id": "auto-film-Qs04nou9DlM",
+      "title": "SOKAKTAN GELEN KADIN"
+    },
+    {
+      "id": "auto-film-wq20lLAm1RQ",
+      "title": "BİR GÜNÜN HİKAYESİ"
+    },
+    {
+      "id": "auto-film-zt3yf7AsG4o",
+      "title": "KARPUZ KABUĞUNDAN GEMİLER YAPMAK"
+    },
+    {
+      "id": "auto-film-ugO9Rwvc9gY",
+      "title": "HERKES Mİ ALDATIR?"
+    },
+    {
+      "id": "auto-film-9QnZs84cYGg",
+      "title": "TOPRAK ANA"
+    },
+    {
+      "id": "auto-film-CMGswxBsgMU",
+      "title": "ABBAS'IN MELEKLERİ"
+    },
+    {
+      "id": "auto-film-ra-nGUO4IaE",
+      "title": "GOL KRALI"
+    },
+    {
+      "id": "auto-film-glYMWSXlN9I",
+      "title": "ÖLÜM SAVAŞÇISI"
+    },
+    {
+      "id": "auto-film-C0m8YbqKFps",
+      "title": "KAHRAMANLAR"
+    },
+    {
+      "id": "auto-film-kYXDPAAJBJA",
+      "title": "HABABAM SINIFI MERHABA"
+    },
+    {
+      "id": "auto-film-WAsf5atPAkM",
+      "title": "KOĞUŞ AKADEMİSİ"
+    },
+    {
+      "id": "auto-film-HhHxTSPCS6A",
+      "title": "BABAMI ARIYORUM"
+    },
+    {
+      "id": "auto-film-6f22bZNOQvw",
+      "title": "SOYGUN"
+    },
+    {
+      "id": "auto-film-G0ntaNyyXeE",
+      "title": "RÜYALAR GERÇEK OLSA"
+    },
+    {
+      "id": "auto-film-xpAyYmd6Qwo",
+      "title": "Eve Giden Yol 1914"
+    }
+  ],
+  "seriesTotal": 189,
+  "moviesTotal": 672,
+  "previousLocalMovies": 620,
+  "previousLocalSeries": 182,
+  "devicePlaybackTested": false
+}

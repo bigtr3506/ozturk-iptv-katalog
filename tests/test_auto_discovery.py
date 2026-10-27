@@ -26,6 +26,10 @@ class AutoDiscoveryTests(unittest.TestCase):
   publisher={'name':'Resmi Film','channel':self.channel,'minimum_seconds':3600};entry={'id':'abcdefghijk','title':'Yeni Film | Full Film HD','duration':5400,'channel_id':self.channel}
   self.assertEqual(discovery.movie_row(entry,publisher)['baslik'],'Yeni Film')
   for bad in ({'duration':300},{'title':'Yeni Film Fragman'},{'channel_id':'UC'+'b'*22},{'live_status':'is_live'},{'duration':'unknown'},{'title':'All Commander Moments Full Film'},{'title':'Comedy Festival #38 Full Film'},{'title':'Uzun video HD'},{'title':'Hemşo En İyi Sahneler Türk Filmi'}):self.assertIsNone(discovery.movie_row({**entry,**bad},publisher))
+ def test_reviewed_final_episode_title_is_not_confused_with_a_scene_compilation(self):
+  metadata={'channel_id':self.channel,'entries':[{'id':'abcdefghijk','title':'Yeni Dizi 79. FİNAL BÖLÜMÜ 4K','duration':6315},{'id':'12345678901','title':'Yeni Dizi 80. FİNAL BÖLÜMÜ Sahneleri','duration':6315}]}
+  full,_=series_metadata.select(metadata,'Yeni Dizi',self.channel,3600)
+  self.assertEqual(list(full),[79])
  def test_provider_outage_keeps_catalog_and_writes_an_honest_pending_report(self):
   with tempfile.TemporaryDirectory(dir=discovery.ROOT) as folder:
    root=Path(folder);(root/'schedules').mkdir();(root/'public-updates').mkdir()
