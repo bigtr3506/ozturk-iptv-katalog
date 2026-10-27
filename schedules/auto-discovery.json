@@ -1,0 +1,817 @@
+{
+  "schema": 1,
+  "interval_seconds": 900,
+  "maximum_new_series_per_scan": 8,
+  "series_providers": [
+    {
+      "publisher": "show",
+      "url": "https://www.showtv.com.tr/diziler",
+      "pattern": "^/dizi/tanitim/[a-z0-9-]+/\\d+$"
+    },
+    {
+      "publisher": "trt",
+      "url": "https://www.trt1.com.tr/diziler/1",
+      "pattern": "^/diziler/[a-z0-9-]+$"
+    },
+    {
+      "publisher": "star",
+      "url": "https://www.startv.com.tr/dizi",
+      "pattern": "^/dizi/[a-z0-9-]+$"
+    },
+    {
+      "publisher": "now",
+      "url": "https://www.nowtv.com.tr/",
+      "pattern": "^/[A-Za-z0-9-]+$"
+    },
+    {
+      "publisher": "kanald",
+      "url": "https://www.kanald.com.tr/diziler",
+      "pattern": "^/[a-z0-9-]+$"
+    },
+    {
+      "publisher": "atv",
+      "url": "https://www.atv.com.tr/diziler",
+      "pattern": "^/[a-z0-9-]+$"
+    }
+  ],
+  "movie_publishers": [
+    {
+      "name": "Erler Film",
+      "channel": "UCUX_iQoFXw2nYzIuuYdeWhg",
+      "url": "https://www.youtube.com/channel/UCUX_iQoFXw2nYzIuuYdeWhg/videos",
+      "minimum_seconds": 3600
+    },
+    {
+      "name": "Erman Film",
+      "channel": "UCgcwys292hCdcN6uyH-UkoA",
+      "url": "https://www.youtube.com/channel/UCgcwys292hCdcN6uyH-UkoA/videos",
+      "minimum_seconds": 3600
+    },
+    {
+      "name": "BKM",
+      "channel": "UCoe0QD045tgbTE6bsbRGU5w",
+      "url": "https://www.youtube.com/channel/UCoe0QD045tgbTE6bsbRGU5w/videos",
+      "minimum_seconds": 3600
+    },
+    {
+      "name": "ARZU FİLM",
+      "channel": "UCUALYmnkEmx8vlxIbpr2gmw",
+      "url": "https://www.youtube.com/channel/UCUALYmnkEmx8vlxIbpr2gmw/videos",
+      "minimum_seconds": 3600
+    },
+    {
+      "name": "Avşar Film",
+      "channel": "UCcpY8WNM1xHPb8t2rjjZmwg",
+      "url": "https://www.youtube.com/channel/UCcpY8WNM1xHPb8t2rjjZmwg/videos",
+      "minimum_seconds": 3600
+    },
+    {
+      "name": "Fanatik Film",
+      "channel": "UCAJcU9SesgVqsJ8M0l7zYrA",
+      "url": "https://www.youtube.com/channel/UCAJcU9SesgVqsJ8M0l7zYrA/videos",
+      "minimum_seconds": 3600
+    },
+    {
+      "name": "Özen Film",
+      "channel": "UCN2-7MQHxM-l0mgi00xsr1Q",
+      "url": "https://www.youtube.com/channel/UCN2-7MQHxM-l0mgi00xsr1Q/videos",
+      "minimum_seconds": 3600
+    },
+    {
+      "name": "TAFF Pictures",
+      "channel": "UCEz0vUNtEPYyxhM-xKhQ4EQ",
+      "url": "https://www.youtube.com/channel/UCEz0vUNtEPYyxhM-xKhQ4EQ/videos",
+      "minimum_seconds": 3600
+    }
+  ],
+  "known_series": [
+    {
+      "id": "kizilcik-serbeti",
+      "title": "Kızılcık Şerbeti"
+    },
+    {
+      "id": "bahar",
+      "title": "Bahar"
+    },
+    {
+      "id": "aile",
+      "title": "Aile"
+    },
+    {
+      "id": "kizil-goncalar",
+      "title": "Kızıl Goncalar"
+    },
+    {
+      "id": "yeralti",
+      "title": "Yeraltı"
+    },
+    {
+      "id": "halef",
+      "title": "Halef: Köklerin Çağrısı"
+    },
+    {
+      "id": "uzak-sehir",
+      "title": "Uzak Şehir"
+    },
+    {
+      "id": "arka-sokaklar",
+      "title": "Arka Sokaklar"
+    },
+    {
+      "id": "esref-ruya",
+      "title": "Eşref Rüya"
+    },
+    {
+      "id": "kurulus-osman",
+      "title": "Kuruluş Osman"
+    },
+    {
+      "id": "bir-gece-masali",
+      "title": "Bir Gece Masalı"
+    },
+    {
+      "id": "avrupa-yakasi",
+      "title": "Avrupa Yakası"
+    },
+    {
+      "id": "gonul-dagi",
+      "title": "Gönül Dağı"
+    },
+    {
+      "id": "teskilat",
+      "title": "Teşkilat"
+    },
+    {
+      "id": "dirilis-ertugrul",
+      "title": "Diriliş Ertuğrul"
+    },
+    {
+      "id": "dogdugun-ev-kaderindir",
+      "title": "Doğduğun Ev Kaderindir"
+    },
+    {
+      "id": "kirmizi-oda",
+      "title": "Kırmızı Oda"
+    },
+    {
+      "id": "tuzak",
+      "title": "Tuzak"
+    },
+    {
+      "id": "yali-capkini",
+      "title": "Yalı Çapkını"
+    },
+    {
+      "id": "omer",
+      "title": "Ömer"
+    },
+    {
+      "id": "kiralik-ask",
+      "title": "Kiralık Aşk"
+    },
+    {
+      "id": "emanet",
+      "title": "Emanet"
+    },
+    {
+      "id": "esaret",
+      "title": "Esaret"
+    },
+    {
+      "id": "yemin",
+      "title": "Yemin"
+    },
+    {
+      "id": "cukur",
+      "title": "Çukur"
+    },
+    {
+      "id": "cennet-mahallesi",
+      "title": "Cennet Mahallesi"
+    },
+    {
+      "id": "tuzlu-kahve",
+      "title": "Tuzlu Kahve"
+    },
+    {
+      "id": "sevdigim-sensin",
+      "title": "Sevdiğim Sensin"
+    },
+    {
+      "id": "sevdan-bir-ates",
+      "title": "Sevdan Bir Ateş"
+    },
+    {
+      "id": "muhtemel-ask",
+      "title": "Muhtemel Aşk"
+    },
+    {
+      "id": "anne-yarisi",
+      "title": "Anne Yarısı"
+    },
+    {
+      "id": "sevdam-karadeniz",
+      "title": "Sevdam Karadeniz"
+    },
+    {
+      "id": "omur-usta",
+      "title": "Ömür Usta"
+    },
+    {
+      "id": "baskalarinin-hayati",
+      "title": "Başkalarının Hayatı"
+    },
+    {
+      "id": "cirkin",
+      "title": "Çirkin"
+    },
+    {
+      "id": "haysiyet",
+      "title": "Haysiyet"
+    },
+    {
+      "id": "guller-ve-gunahlar",
+      "title": "Güller ve Günahlar"
+    },
+    {
+      "id": "daha-17",
+      "title": "Daha 17"
+    },
+    {
+      "id": "alti-ustu-istanbul",
+      "title": "Altı Üstü İstanbul"
+    },
+    {
+      "id": "abi",
+      "title": "A.B.İ."
+    },
+    {
+      "id": "ask-ve-taht",
+      "title": "Aşk ve Taht"
+    },
+    {
+      "id": "gunesin-dogdugu-yer",
+      "title": "Güneşin Doğduğu Yer"
+    },
+    {
+      "id": "mercan-kosk",
+      "title": "Mercan Köşk"
+    },
+    {
+      "id": "mehmed",
+      "title": "Mehmed: Fetihler Sultanı"
+    },
+    {
+      "id": "tasacak-bu-deniz",
+      "title": "Taşacak Bu Deniz"
+    },
+    {
+      "id": "kod-adi-kirlangic",
+      "title": "Kod Adı Kırlangıç"
+    },
+    {
+      "id": "evlilik-guzeldir",
+      "title": "Evlilik Güzeldir"
+    },
+    {
+      "id": "gassal",
+      "title": "Gassal"
+    },
+    {
+      "id": "icerde",
+      "title": "İçerde"
+    },
+    {
+      "id": "ezel",
+      "title": "Ezel"
+    },
+    {
+      "id": "suskunlar",
+      "title": "Suskunlar"
+    },
+    {
+      "id": "ramo",
+      "title": "Ramo"
+    },
+    {
+      "id": "carpisma",
+      "title": "Çarpışma"
+    },
+    {
+      "id": "ask-laftan-anlamaz",
+      "title": "Aşk Laftan Anlamaz"
+    },
+    {
+      "id": "iliski-durumu-karisik",
+      "title": "İlişki Durumu Karışık"
+    },
+    {
+      "id": "yeni-gelin",
+      "title": "Yeni Gelin"
+    },
+    {
+      "id": "kuzey-yildizi-ilk-ask",
+      "title": "Kuzey Yıldızı İlk Aşk"
+    },
+    {
+      "id": "kalp-atisi",
+      "title": "Kalp Atışı"
+    },
+    {
+      "id": "erkenci-kus",
+      "title": "Erkenci Kuş"
+    },
+    {
+      "id": "aziz",
+      "title": "Aziz"
+    },
+    {
+      "id": "cilek-kokusu",
+      "title": "Çilek Kokusu"
+    },
+    {
+      "id": "fazilet-hanim-ve-kizlari",
+      "title": "Fazilet Hanım ve Kızları"
+    },
+    {
+      "id": "ariza",
+      "title": "Arıza"
+    },
+    {
+      "id": "istanbullu-gelin",
+      "title": "İstanbullu Gelin"
+    },
+    {
+      "id": "sefirin-kizi",
+      "title": "Sefirin Kızı"
+    },
+    {
+      "id": "menajerimi-ara",
+      "title": "Menajerimi Ara"
+    },
+    {
+      "id": "gulperi",
+      "title": "Gülperi"
+    },
+    {
+      "id": "zemheri",
+      "title": "Zemheri"
+    },
+    {
+      "id": "adanali",
+      "title": "Adanalı"
+    },
+    {
+      "id": "deha",
+      "title": "Deha"
+    },
+    {
+      "id": "sandik-kokusu",
+      "title": "Sandık Kokusu"
+    },
+    {
+      "id": "gelsin-hayat-bildigi-gibi",
+      "title": "Gelsin Hayat Bildiği Gibi"
+    },
+    {
+      "id": "uc-kurus",
+      "title": "Üç Kuruş"
+    },
+    {
+      "id": "baba",
+      "title": "Baba"
+    },
+    {
+      "id": "alev-alev",
+      "title": "Alev Alev"
+    },
+    {
+      "id": "siyah-kalp",
+      "title": "Siyah Kalp"
+    },
+    {
+      "id": "cam-tavanlar",
+      "title": "Cam Tavanlar"
+    },
+    {
+      "id": "kalpazan",
+      "title": "Kalpazan"
+    },
+    {
+      "id": "yalanci",
+      "title": "Yalancı"
+    },
+    {
+      "id": "kara-sevda",
+      "title": "Kara Sevda"
+    },
+    {
+      "id": "medcezir",
+      "title": "Medcezir"
+    },
+    {
+      "id": "ufak-tefek-cinayetler",
+      "title": "Ufak Tefek Cinayetler"
+    },
+    {
+      "id": "soz",
+      "title": "Söz"
+    },
+    {
+      "id": "avlu",
+      "title": "Avlu"
+    },
+    {
+      "id": "dolunay",
+      "title": "Dolunay"
+    },
+    {
+      "id": "ada-masali",
+      "title": "Ada Masalı"
+    },
+    {
+      "id": "kazara-ask",
+      "title": "Kazara Aşk"
+    },
+    {
+      "id": "hayat-bazen-tatlidir",
+      "title": "Hayat Bazen Tatlıdır"
+    },
+    {
+      "id": "sen-anlat-karadeniz",
+      "title": "Sen Anlat Karadeniz"
+    },
+    {
+      "id": "hercai",
+      "title": "Hercai"
+    },
+    {
+      "id": "marasli",
+      "title": "Maraşlı"
+    },
+    {
+      "id": "karadayi",
+      "title": "Karadayı"
+    },
+    {
+      "id": "eskiya-dunyaya-hukumdar-olmaz",
+      "title": "Eşkıya Dünyaya Hükümdar Olmaz"
+    },
+    {
+      "id": "ask-ve-mavi",
+      "title": "Aşk ve Mavi"
+    },
+    {
+      "id": "ates-kuslari",
+      "title": "Ateş Kuşları"
+    },
+    {
+      "id": "kardeslerim",
+      "title": "Kardeşlerim"
+    },
+    {
+      "id": "bir-zamanlar-cukurova",
+      "title": "Bir Zamanlar Çukurova"
+    },
+    {
+      "id": "destan",
+      "title": "Destan"
+    },
+    {
+      "id": "safir",
+      "title": "Safir"
+    },
+    {
+      "id": "akinci",
+      "title": "Akıncı"
+    },
+    {
+      "id": "bas-belasi",
+      "title": "Baş Belası"
+    },
+    {
+      "id": "kimse-bilmez",
+      "title": "Kimse Bilmez"
+    },
+    {
+      "id": "can-kiriklari",
+      "title": "Can Kırıkları"
+    },
+    {
+      "id": "kursun",
+      "title": "Kurşun"
+    },
+    {
+      "id": "kehribar",
+      "title": "Kehribar"
+    },
+    {
+      "id": "gencligim-eyvah",
+      "title": "Gençliğim Eyvah"
+    },
+    {
+      "id": "kalp-yarasi",
+      "title": "Kalp Yarası"
+    },
+    {
+      "id": "huzur-sokagi",
+      "title": "Huzur Sokağı"
+    },
+    {
+      "id": "ben-bu-cihana-sigmazam",
+      "title": "Ben Bu Cihana Sığmazam"
+    },
+    {
+      "id": "bir-kucuk-gun-isigi",
+      "title": "Bir Küçük Gün Işığı"
+    },
+    {
+      "id": "bu-sehir-arkandan-gelecek",
+      "title": "Bu Şehir Arkandan Gelecek"
+    },
+    {
+      "id": "olene-kadar",
+      "title": "Ölene Kadar"
+    },
+    {
+      "id": "seviyor-sevmiyor",
+      "title": "Seviyor Sevmiyor"
+    },
+    {
+      "id": "analar-ve-anneler",
+      "title": "Analar ve Anneler"
+    },
+    {
+      "id": "canevim",
+      "title": "Canevim"
+    },
+    {
+      "id": "uvey-anne",
+      "title": "Üvey Anne"
+    },
+    {
+      "id": "poyraz-karayel",
+      "title": "Poyraz Karayel"
+    },
+    {
+      "id": "gunesin-kizlari",
+      "title": "Güneşin Kızları"
+    },
+    {
+      "id": "merhamet",
+      "title": "Merhamet"
+    },
+    {
+      "id": "aski-yeniden",
+      "title": "Aşk Yeniden"
+    },
+    {
+      "id": "kiraz-mevsimi",
+      "title": "Kiraz Mevsimi"
+    },
+    {
+      "id": "sen-cal-kapimi",
+      "title": "Sen Çal Kapımı"
+    },
+    {
+      "id": "mucize-doktor",
+      "title": "Mucize Doktor"
+    },
+    {
+      "id": "kadin",
+      "title": "Kadın"
+    },
+    {
+      "id": "bizim-hikaye",
+      "title": "Bizim Hikaye"
+    },
+    {
+      "id": "yasak-elma",
+      "title": "Yasak Elma"
+    },
+    {
+      "id": "babil",
+      "title": "Babil"
+    },
+    {
+      "id": "sol-yanim",
+      "title": "Sol Yanım"
+    },
+    {
+      "id": "iyi-gunde-kotu-gunde",
+      "title": "İyi Günde Kötü Günde"
+    },
+    {
+      "id": "muhtesem-yuzyil",
+      "title": "Muhteşem Yüzyıl"
+    },
+    {
+      "id": "muhtesem-yuzyil-kosem",
+      "title": "Muhteşem Yüzyıl Kösem"
+    },
+    {
+      "id": "asla-vazgecmem",
+      "title": "Asla Vazgeçmem"
+    },
+    {
+      "id": "guzel-gunler",
+      "title": "Güzel Günler"
+    },
+    {
+      "id": "guzel-koylu",
+      "title": "Güzel Köylü"
+    },
+    {
+      "id": "payitaht-abdulhamid",
+      "title": "Payitaht Abdülhamid"
+    },
+    {
+      "id": "alparslan-buyuk-selcuklu",
+      "title": "Alparslan Büyük Selçuklu"
+    },
+    {
+      "id": "masumlar-apartmani",
+      "title": "Masumlar Apartmanı"
+    },
+    {
+      "id": "vuslat",
+      "title": "Vuslat"
+    },
+    {
+      "id": "elimi-birakma",
+      "title": "Elimi Bırakma"
+    },
+    {
+      "id": "cati-kati-ask",
+      "title": "Çatı Katı Aşk"
+    },
+    {
+      "id": "afili-ask",
+      "title": "Afili Aşk"
+    },
+    {
+      "id": "tatli-intikam",
+      "title": "Tatlı İntikam"
+    },
+    {
+      "id": "inadina-ask",
+      "title": "İnadına Aşk"
+    },
+    {
+      "id": "her-yerde-sen",
+      "title": "Her Yerde Sen"
+    },
+    {
+      "id": "senden-daha-guzel",
+      "title": "Senden Daha Güzel"
+    },
+    {
+      "id": "son-yaz",
+      "title": "Son Yaz"
+    },
+    {
+      "id": "mahkum",
+      "title": "Mahkum"
+    },
+    {
+      "id": "ego",
+      "title": "Ego"
+    },
+    {
+      "id": "yabani",
+      "title": "Yabani"
+    },
+    {
+      "id": "hudutsuz-sevda",
+      "title": "Hudutsuz Sevda"
+    },
+    {
+      "id": "adim-farah",
+      "title": "Adım Farah"
+    },
+    {
+      "id": "cocuk",
+      "title": "Çocuk"
+    },
+    {
+      "id": "guvercin",
+      "title": "Güvercin"
+    },
+    {
+      "id": "yuksek-sosyete",
+      "title": "Yüksek Sosyete"
+    },
+    {
+      "id": "tatli-kucuk-yalancilar",
+      "title": "Tatlı Küçük Yalancılar"
+    },
+    {
+      "id": "kacak-gelinler",
+      "title": "Kaçak Gelinler"
+    },
+    {
+      "id": "nefes-nefese",
+      "title": "Nefes Nefese"
+    },
+    {
+      "id": "sana-soz",
+      "title": "Sana Söz"
+    },
+    {
+      "id": "duy-beni",
+      "title": "Duy Beni"
+    },
+    {
+      "id": "doktorlar",
+      "title": "Doktorlar"
+    },
+    {
+      "id": "acil-ask-araniyor",
+      "title": "Acil Aşk Aranıyor"
+    },
+    {
+      "id": "oglum",
+      "title": "Oğlum"
+    },
+    {
+      "id": "gunesi-beklerken",
+      "title": "Güneşi Beklerken"
+    },
+    {
+      "id": "oyle-bir-gecer-zaman-ki",
+      "title": "Öyle Bir Geçer Zaman Ki"
+    },
+    {
+      "id": "fatmagulun-sucu-ne",
+      "title": "Fatmagül'ün Suçu Ne?"
+    },
+    {
+      "id": "yaprak-dokumu",
+      "title": "Yaprak Dökümü"
+    },
+    {
+      "id": "hanimin-ciftligi",
+      "title": "Hanımın Çiftliği"
+    },
+    {
+      "id": "binbir-gece",
+      "title": "Binbir Gece"
+    },
+    {
+      "id": "yalan-dunya",
+      "title": "Yalan Dünya"
+    },
+    {
+      "id": "benim-adim-melek",
+      "title": "Benim Adım Melek"
+    },
+    {
+      "id": "kuzey-guney",
+      "title": "Kuzey Güney"
+    },
+    {
+      "id": "siyah-beyaz-ask",
+      "title": "Siyah Beyaz Aşk"
+    },
+    {
+      "id": "uc-kiz-kardes",
+      "title": "Üç Kız Kardeş"
+    },
+    {
+      "id": "o-kiz",
+      "title": "O Kız"
+    },
+    {
+      "id": "tas-kagit-makas",
+      "title": "Taş Kağıt Makas"
+    },
+    {
+      "id": "seversin",
+      "title": "Seversin"
+    },
+    {
+      "id": "baht-oyunu",
+      "title": "Baht Oyunu"
+    },
+    {
+      "id": "askin-tarifi",
+      "title": "Aşkın Tarifi"
+    },
+    {
+      "id": "donence",
+      "title": "Dönence"
+    },
+    {
+      "id": "calikusu",
+      "title": "Çalıkuşu"
+    },
+    {
+      "id": "kucuk-aga",
+      "title": "Küçük Ağa"
+    },
+    {
+      "id": "bir-litre-gozyasi",
+      "title": "Bir Litre Gözyaşı"
+    }
+  ]
+}
