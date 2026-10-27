@@ -840,6 +840,30 @@
     {
       "id": "ne-gemiler-yaktim",
       "title": "Ne Gemiler Yaktım"
+    },
+    {
+      "id": "keloglan-masallari",
+      "title": "Keloğlan Masalları"
+    },
+    {
+      "id": "kostebekgiller",
+      "title": "Köstebekgiller"
+    },
+    {
+      "id": "piril",
+      "title": "Pırıl"
+    },
+    {
+      "id": "rafadan-tayfa",
+      "title": "Rafadan Tayfa"
+    },
+    {
+      "id": "ibi",
+      "title": "İbi"
+    },
+    {
+      "id": "akilli-tavsan-momo",
+      "title": "Akıllı Tavşan Momo"
     }
   ]
 }

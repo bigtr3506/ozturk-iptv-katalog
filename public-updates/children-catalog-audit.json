@@ -1,0 +1,186 @@
+{
+  "at": "2026-10-27T20:30:27.449616+00:00",
+  "series": [
+    {
+      "id": "keloglan-masallari",
+      "title": "Keloğlan Masalları",
+      "episodes": 71,
+      "seasons": [
+        {
+          "label": "Resmî bölüm listesi",
+          "count": 71
+        }
+      ],
+      "missing": [],
+      "numberSource": "Resmî oynatma listesi sırası",
+      "official": "https://www.trtcocuk.net.tr/keloglan-masallari",
+      "devicePlaybackTested": false
+    },
+    {
+      "id": "kostebekgiller",
+      "title": "Köstebekgiller",
+      "episodes": 100,
+      "seasons": [
+        {
+          "label": "Resmî bölüm listesi",
+          "count": 100
+        }
+      ],
+      "missing": [],
+      "numberSource": "Yayıncının bölüm numaraları",
+      "official": "https://www.trtcocuk.net.tr/kostebekgiller",
+      "devicePlaybackTested": false
+    },
+    {
+      "id": "piril",
+      "title": "Pırıl",
+      "episodes": 46,
+      "seasons": [
+        {
+          "label": "Resmî bölüm listesi",
+          "count": 46
+        }
+      ],
+      "missing": [],
+      "numberSource": "Resmî oynatma listesi sırası",
+      "official": "https://www.trtcocuk.net.tr/piril",
+      "devicePlaybackTested": false
+    },
+    {
+      "id": "rafadan-tayfa",
+      "title": "Rafadan Tayfa",
+      "episodes": 104,
+      "seasons": [
+        {
+          "label": "1. Sezon",
+          "count": 13
+        },
+        {
+          "label": "2. Sezon",
+          "count": 13
+        },
+        {
+          "label": "3. Sezon",
+          "count": 13
+        },
+        {
+          "label": "4. Sezon",
+          "count": 12
+        },
+        {
+          "label": "5. Sezon",
+          "count": 12
+        },
+        {
+          "label": "6. Sezon",
+          "count": 13
+        },
+        {
+          "label": "7. Sezon",
+          "count": 7
+        },
+        {
+          "label": "8. Sezon",
+          "count": 9
+        },
+        {
+          "label": "9. Sezon",
+          "count": 0
+        },
+        {
+          "label": "10. Sezon",
+          "count": 12
+        }
+      ],
+      "missing": [
+        52,
+        59,
+        79,
+        80,
+        81,
+        85,
+        86,
+        90,
+        100,
+        102,
+        103,
+        104,
+        105,
+        106,
+        107,
+        108,
+        109,
+        110,
+        111,
+        112,
+        113,
+        114,
+        120
+      ],
+      "numberSource": "Yayıncının bölüm numaraları",
+      "official": "https://www.trtcocuk.net.tr/rafadan-tayfa",
+      "devicePlaybackTested": false
+    },
+    {
+      "id": "ibi",
+      "title": "İbi",
+      "episodes": 104,
+      "seasons": [
+        {
+          "label": "1. Sezon",
+          "count": 13
+        },
+        {
+          "label": "2. Sezon",
+          "count": 13
+        },
+        {
+          "label": "3. Sezon",
+          "count": 13
+        },
+        {
+          "label": "4. Sezon",
+          "count": 13
+        },
+        {
+          "label": "5. Sezon",
+          "count": 13
+        },
+        {
+          "label": "6. Sezon",
+          "count": 13
+        },
+        {
+          "label": "7. Sezon",
+          "count": 13
+        },
+        {
+          "label": "8. Sezon",
+          "count": 13
+        }
+      ],
+      "missing": [],
+      "numberSource": "Yayıncının bölüm numaraları",
+      "official": "https://www.trtcocuk.net.tr/ibi",
+      "devicePlaybackTested": false
+    },
+    {
+      "id": "akilli-tavsan-momo",
+      "title": "Akıllı Tavşan Momo",
+      "episodes": 53,
+      "seasons": [
+        {
+          "label": "Resmî bölüm listesi",
+          "count": 53
+        }
+      ],
+      "missing": [],
+      "numberSource": "Resmî oynatma listesi sırası",
+      "official": "https://www.trtcocuk.net.tr/akillitavsanmomo",
+      "devicePlaybackTested": false
+    }
+  ],
+  "totalNewEpisodes": 478,
+  "totalSeries": 195,
+  "note": "Official list coverage, not a claim of every historical episode or per-device playback. Short child feeds are separate for compatibility."
+}

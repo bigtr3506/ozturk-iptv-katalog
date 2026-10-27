@@ -53,6 +53,8 @@ jobs:
                       target.parent.mkdir(parents=True, exist_ok=True)
                       target.write_bytes(bundle.read(item))
       - run: python -m pip install -r requirements.txt
+      - name: Validate public catalog rules
+        run: python -m unittest discover -s tests -p test_*.py -v
       - uses: actions/configure-pages@v5
       - name: Refresh official public metadata
         id: refresh

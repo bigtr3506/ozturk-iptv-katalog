@@ -60,6 +60,9 @@ def build_tuzlu(metadata, previous=None):
 
 def build_followed(identity,metadata,previous=None):
     config=FOLLOWED[identity];title=config['title'];channel=config['channel']
+    if config.get('feed')=='children':
+        from tools.children_series import build
+        return build({**config,'id':identity},metadata,previous)
     if previous and not previous.get('yonetim'):previous=None
     entries,trailers=select(metadata,title,channel,config.get('minimum_seconds',3600),config.get('aliases'),config.get('trusted_channels'),config.get('full_suffixes'),config.get('title_prefixes'))
     # Completed Turkish archives may also contain a longer, renumbered export
@@ -95,6 +98,7 @@ def build_followed(identity,metadata,previous=None):
     if config.get('archive_complete'):
         row['devam_ediyor']=False
         row['fragmanlar']=[]
+    if config.get('content_type'):row['icerik_turu']=config['content_type']
     if config.get('auto_discovered') or (previous or {}).get('auto_discovered'):
         row['auto_discovered']=True
     return apply_artwork(apply_rating(row))
