@@ -14,6 +14,8 @@ jobs:
   discover:
     runs-on: ubuntu-latest
     timeout-minutes: 12
+    env:
+      PYTHONDONTWRITEBYTECODE: '1'
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
