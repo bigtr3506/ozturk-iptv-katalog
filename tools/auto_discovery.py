@@ -90,6 +90,7 @@ def initial_series(title,official,publisher,metadata,show,episodes):
     if not full or sorted(full)!=list(range(1,max(full)+1)) or max(full)>total:raise ValueError('First full-episode catalog incomplete')
     identity=key(title)
     config=dict(title=title,channel=channel,url='https://www.youtube.com/channel/'+channel+'/videos',official=official,publisher=publisher,minimum_seconds=3600,season_ends=ends,season_titles=[],start_year=int((show.get('premiered') or '0000')[:4]),current_trailer_only=True,season_source=show['url']+'/episodes',discovery_source=official)
+    config['auto_discovered']=True
     series.FOLLOWED[identity]=config
     row=series.build_followed(identity,metadata)
     row.update(afis=poster,arka_plan=poster,afis_saglayici='TVmaze',afis_kaynak_url=show['url'],auto_discovered=True,kaynak_dogrulamasi='Official publisher link, owner, full duration, contiguous episodes and season metadata; device playback not asserted.')

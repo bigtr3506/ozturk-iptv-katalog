@@ -13,6 +13,7 @@ class AutoDiscoveryTests(unittest.TestCase):
   with patch.dict(series_metadata.FOLLOWED,{},clear=False):
    identity,config,row,art=discovery.initial_series('Yeni Dizi','https://www.showtv.com.tr/dizi/tanitim/yeni-dizi/1','show',self.metadata,self.show,self.episodes)
    self.assertEqual(config['season_ends'],[2]);self.assertEqual([len(s['bolumler']) for s in row['sezonlar']],[2,1]);self.assertEqual(row['afis'],art['poster']);self.assertTrue(row['auto_discovered'])
+   self.assertTrue(series_metadata.build_followed(identity,self.metadata,row)['auto_discovered'])
  def test_missing_episode_unknown_season_wrong_owner_and_wrong_network_are_rejected(self):
   for mutate in ('missing','seasons','owner','network'):
    meta=json.loads(json.dumps(self.metadata));show=json.loads(json.dumps(self.show));eps=list(self.episodes)

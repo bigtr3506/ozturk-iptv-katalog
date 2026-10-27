@@ -94,5 +94,7 @@ def build_followed(identity,metadata,previous=None):
     if config.get('archive_complete'):
         row['devam_ediyor']=False
         row['fragmanlar']=[]
+    if config.get('auto_discovered') or (previous or {}).get('auto_discovered'):
+        row['auto_discovered']=True
     return apply_artwork(apply_rating(row))
 
