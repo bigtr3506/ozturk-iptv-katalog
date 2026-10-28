@@ -1,0 +1,685 @@
+{
+  "at": "2026-10-28T01:20:27.297928+00:00",
+  "newSeries": 50,
+  "newCartoons": 44,
+  "newDramas": 6,
+  "newMovies": 50,
+  "newAnimatedMovies": 2,
+  "newEpisodes": 2270,
+  "totalSeries": 245,
+  "totalMovies": 722,
+  "titles": [
+    {
+      "id": "aslan",
+      "title": "Aslan",
+      "kind": "cartoon",
+      "episodes": 126,
+      "missing": []
+    },
+    {
+      "id": "doru",
+      "title": "Doru",
+      "kind": "cartoon",
+      "episodes": 79,
+      "missing": []
+    },
+    {
+      "id": "cille",
+      "title": "Cille",
+      "kind": "cartoon",
+      "episodes": 52,
+      "missing": []
+    },
+    {
+      "id": "maysa-ve-bulut",
+      "title": "Maysa ve Bulut",
+      "kind": "cartoon",
+      "episodes": 120,
+      "missing": []
+    },
+    {
+      "id": "ege-ile-gaga",
+      "title": "Ege ile Gaga",
+      "kind": "cartoon",
+      "episodes": 163,
+      "missing": []
+    },
+    {
+      "id": "nasreddin-hoca-zaman-yolcusu",
+      "title": "Nasreddin Hoca Zaman Yolcusu",
+      "kind": "cartoon",
+      "episodes": 50,
+      "missing": []
+    },
+    {
+      "id": "kuzucuk",
+      "title": "Kuzucuk",
+      "kind": "cartoon",
+      "episodes": 51,
+      "missing": []
+    },
+    {
+      "id": "canim-kardesim",
+      "title": "Canım Kardeşim",
+      "kind": "cartoon",
+      "episodes": 88,
+      "missing": []
+    },
+    {
+      "id": "bulmaca-kulesi",
+      "title": "Bulmaca Kulesi",
+      "kind": "cartoon",
+      "episodes": 75,
+      "missing": []
+    },
+    {
+      "id": "elif-ve-arkadaslari",
+      "title": "Elif ve Arkadaşları",
+      "kind": "cartoon",
+      "episodes": 120,
+      "missing": []
+    },
+    {
+      "id": "kare",
+      "title": "Kare",
+      "kind": "cartoon",
+      "episodes": 117,
+      "missing": []
+    },
+    {
+      "id": "kucuk-hezarfen",
+      "title": "Küçük Hezarfen",
+      "kind": "cartoon",
+      "episodes": 46,
+      "missing": []
+    },
+    {
+      "id": "dede-korkut-hikayeleri",
+      "title": "Dede Korkut Hikayeleri",
+      "kind": "cartoon",
+      "episodes": 44,
+      "missing": []
+    },
+    {
+      "id": "kehribar-ile-boncuk",
+      "title": "Kehribar ile Boncuk",
+      "kind": "cartoon",
+      "episodes": 47,
+      "missing": []
+    },
+    {
+      "id": "z-takimi",
+      "title": "Z Takımı",
+      "kind": "cartoon",
+      "episodes": 38,
+      "missing": []
+    },
+    {
+      "id": "yade-yade",
+      "title": "Yade Yade",
+      "kind": "cartoon",
+      "episodes": 59,
+      "missing": []
+    },
+    {
+      "id": "pirdino",
+      "title": "Pırdino",
+      "kind": "cartoon",
+      "episodes": 69,
+      "missing": []
+    },
+    {
+      "id": "elif-in-dusleri",
+      "title": "Elif'in Düşleri",
+      "kind": "cartoon",
+      "episodes": 39,
+      "missing": []
+    },
+    {
+      "id": "erdem",
+      "title": "Erdem",
+      "kind": "cartoon",
+      "episodes": 24,
+      "missing": []
+    },
+    {
+      "id": "aybek",
+      "title": "Aybek",
+      "kind": "cartoon",
+      "episodes": 39,
+      "missing": []
+    },
+    {
+      "id": "sagun",
+      "title": "Sagun",
+      "kind": "cartoon",
+      "episodes": 26,
+      "missing": []
+    },
+    {
+      "id": "ser-a",
+      "title": "Ser-A",
+      "kind": "cartoon",
+      "episodes": 12,
+      "missing": []
+    },
+    {
+      "id": "yusufname",
+      "title": "Yusufname",
+      "kind": "cartoon",
+      "episodes": 12,
+      "missing": []
+    },
+    {
+      "id": "su-elcileri",
+      "title": "Su Elçileri",
+      "kind": "cartoon",
+      "episodes": 34,
+      "missing": []
+    },
+    {
+      "id": "kaptan-pengu-ve-arkadaslari",
+      "title": "Kaptan Pengu ve Arkadaşları",
+      "kind": "cartoon",
+      "episodes": 59,
+      "missing": []
+    },
+    {
+      "id": "leylek-kardes",
+      "title": "Leylek Kardeş",
+      "kind": "cartoon",
+      "episodes": 28,
+      "missing": []
+    },
+    {
+      "id": "ciciki",
+      "title": "Ciciki",
+      "kind": "cartoon",
+      "episodes": 25,
+      "missing": []
+    },
+    {
+      "id": "cilgin-orman",
+      "title": "Çılgın Orman",
+      "kind": "cartoon",
+      "episodes": 27,
+      "missing": []
+    },
+    {
+      "id": "biz-ikimiz",
+      "title": "Biz İkimiz",
+      "kind": "cartoon",
+      "episodes": 46,
+      "missing": []
+    },
+    {
+      "id": "kimin-tarlasi",
+      "title": "Kimin Tarlası",
+      "kind": "cartoon",
+      "episodes": 20,
+      "missing": []
+    },
+    {
+      "id": "64-kare-ulkesi",
+      "title": "64 Kare Ülkesi",
+      "kind": "cartoon",
+      "episodes": 26,
+      "missing": []
+    },
+    {
+      "id": "kiz-kulesi-masallari",
+      "title": "Kız Kulesi Masalları",
+      "kind": "cartoon",
+      "episodes": 23,
+      "missing": []
+    },
+    {
+      "id": "pak-ile-pirpir",
+      "title": "Pak ile Pırpır",
+      "kind": "cartoon",
+      "episodes": 14,
+      "missing": []
+    },
+    {
+      "id": "masal-kitabi",
+      "title": "Masal Kitabı",
+      "kind": "cartoon",
+      "episodes": 13,
+      "missing": []
+    },
+    {
+      "id": "mavi-dunya",
+      "title": "Mavi Dünya",
+      "kind": "cartoon",
+      "episodes": 25,
+      "missing": []
+    },
+    {
+      "id": "ozi",
+      "title": "Ozi",
+      "kind": "cartoon",
+      "episodes": 23,
+      "missing": []
+    },
+    {
+      "id": "anadolu-rock",
+      "title": "Anadolu Rock",
+      "kind": "cartoon",
+      "episodes": 10,
+      "missing": []
+    },
+    {
+      "id": "babamin-golgesi-1915",
+      "title": "Babamın Gölgesi 1915",
+      "kind": "cartoon",
+      "episodes": 26,
+      "missing": []
+    },
+    {
+      "id": "babamin-golgesi-1918",
+      "title": "Babamın Gölgesi 1918",
+      "kind": "cartoon",
+      "episodes": 24,
+      "missing": []
+    },
+    {
+      "id": "dedektif-reptir",
+      "title": "Dedektif Reptır",
+      "kind": "cartoon",
+      "episodes": 51,
+      "missing": []
+    },
+    {
+      "id": "dijital-tayfa",
+      "title": "Dijital Tayfa",
+      "kind": "cartoon",
+      "episodes": 10,
+      "missing": []
+    },
+    {
+      "id": "trafik-tayfa",
+      "title": "Trafik Tayfa",
+      "kind": "cartoon",
+      "episodes": 13,
+      "missing": []
+    },
+    {
+      "id": "ramazan-tayfa",
+      "title": "Ramazan Tayfa",
+      "kind": "cartoon",
+      "episodes": 19,
+      "missing": []
+    },
+    {
+      "id": "formulato",
+      "title": "Formulato",
+      "kind": "cartoon",
+      "episodes": 39,
+      "missing": []
+    },
+    {
+      "id": "veda-mektubu",
+      "title": "Veda Mektubu",
+      "kind": "series",
+      "episodes": 23,
+      "missing": [
+        5
+      ]
+    },
+    {
+      "id": "seref-meselesi",
+      "title": "Şeref Meselesi",
+      "kind": "series",
+      "episodes": 25,
+      "missing": [
+        26
+      ]
+    },
+    {
+      "id": "hayat-bilgisi",
+      "title": "Hayat Bilgisi",
+      "kind": "series",
+      "episodes": 99,
+      "missing": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        22,
+        25,
+        26,
+        28,
+        32,
+        34,
+        35,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        49,
+        50,
+        53,
+        57,
+        76,
+        106
+      ]
+    },
+    {
+      "id": "bedel",
+      "title": "Bedel",
+      "kind": "series",
+      "episodes": 12,
+      "missing": [
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        20
+      ]
+    },
+    {
+      "id": "gecenin-ucunda",
+      "title": "Gecenin Ucunda",
+      "kind": "series",
+      "episodes": 25,
+      "missing": [
+        26
+      ]
+    },
+    {
+      "id": "fatih-harbiye",
+      "title": "Fatih Harbiye",
+      "kind": "series",
+      "episodes": 35,
+      "missing": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ]
+    },
+    {
+      "id": "auto-film-i3ziMMJ1hDU",
+      "title": "Doru",
+      "kind": "animated-film"
+    },
+    {
+      "id": "auto-film-bUvRxXmmKls",
+      "title": "Evliya Çelebi ve Ölümsüzlük Suyu",
+      "kind": "animated-film"
+    },
+    {
+      "id": "auto-film-RKYLJO--hHs",
+      "title": "Ayşecik Çıtı Pıtı Kız",
+      "kind": "film"
+    },
+    {
+      "id": "auto-film-HIWwTWZP1H8",
+      "title": "Baskın",
+      "kind": "film"
+    },
+    {
+      "id": "auto-film-0Rre64ft3sE",
+      "title": "Savunma",
+      "kind": "film"
+    },
+    {
+      "id": "auto-film-YSz7L-eWJfE",
+      "title": "Ömrümce Aradım",
+      "kind": "film"
+    },
+    {
+      "id": "auto-film-3AOxK0rkwMs",
+      "title": "Oyun Bozan",
+      "kind": "film"
+    },
+    {
+      "id": "auto-film-jHmysCl6s1g",
+      "title": "Taşı Toprağı Altın Şehir",
+      "kind": "film"
+    },
+    {
+      "id": "auto-film-gBhkDdiyL5w",
+      "title": "Yarım Kalan Saadet",
+      "kind": "film"
+    },
+    {
+      "id": "auto-film-cTZM64JHztQ",
+      "title": "Zengin Mutfağı",
+      "kind": "film"
+    },
+    {
+      "id": "auto-film-VUwxN0XdPnI",
+      "title": "Yağmur",
+      "kind": "film"
+    },
+    {
+      "id": "auto-film-v0KuJaIBNlA",
+      "title": "Kıskıvrak",
+      "kind": "film"
+    },
+    {
+      "id": "auto-film-Y_Tol2jGqsE",
+      "title": "Söz Müdafanın",
+      "kind": "film"
+    },
+    {
+      "id": "auto-film-fBp5Gh0hUg8",
+      "title": "Kara Murat Fatih'in Fermanı",
+      "kind": "film"
+    },
+    {
+      "id": "auto-film-I0SuRiyDq_8",
+      "title": "Paramparça",
+      "kind": "film"
+    },
+    {
+      "id": "auto-film-fBdMfSAGxWM",
+      "title": "Kaçamak",
+      "kind": "film"
+    },
+    {
+      "id": "auto-film-19nytsT9EAk",
+      "title": "Ayrı Dünyalar",
+      "kind": "film"
+    },
+    {
+      "id": "auto-film-j0kVn6uSu8E",
+      "title": "Şafakta Buluşalım",
+      "kind": "film"
+    },
+    {
+      "id": "auto-film-dl3rsKOb6Ow",
+      "title": "Oyun Bitti",
+      "kind": "film"
+    },
+    {
+      "id": "auto-film-zS8yOHyCDps",
+      "title": "Adını Anmayacağım",
+      "kind": "film"
+    },
+    {
+      "id": "auto-film-tf5wxvUrBoc",
+      "title": "Yumurcak Köprüaltı Çocuğu",
+      "kind": "film"
+    },
+    {
+      "id": "auto-film-2s3asTXQYuo",
+      "title": "Gölge Oyunu",
+      "kind": "film"
+    },
+    {
+      "id": "auto-film-zUf-vXe1nv8",
+      "title": "Cilveli Kız",
+      "kind": "film"
+    },
+    {
+      "id": "auto-film-_dD3SAnHJ74",
+      "title": "Bitirim Kardeşler",
+      "kind": "film"
+    },
+    {
+      "id": "auto-film-jj_FQRjvC4I",
+      "title": "Aşk Filmlerinin Unutulmaz Yönetmeni",
+      "kind": "film"
+    },
+    {
+      "id": "auto-film-9uQ0aEVZz4k",
+      "title": "Madde 438",
+      "kind": "film"
+    },
+    {
+      "id": "auto-film-IdFBFUNighY",
+      "title": "O Kadın",
+      "kind": "film"
+    },
+    {
+      "id": "auto-film-rZ9bstdL9UI",
+      "title": "Vurgun",
+      "kind": "film"
+    },
+    {
+      "id": "auto-film-yzPabTU_dew",
+      "title": "Hedefim Sensin",
+      "kind": "film"
+    },
+    {
+      "id": "auto-film-XUUXRBUweJI",
+      "title": "Kocan Kadar Konuş-",
+      "kind": "film"
+    },
+    {
+      "id": "auto-film-gubrQ4zcD2s",
+      "title": "Sen Kiminle Dans Ediyorsun",
+      "kind": "film"
+    },
+    {
+      "id": "auto-film-Ez61IM-F9BQ",
+      "title": "Yol Arkadaşım",
+      "kind": "film"
+    },
+    {
+      "id": "auto-film-OLAZ5wPUuo4",
+      "title": "Aşk Bu Mu? Film (Afra Saraçoğlu & Kubilay Aka)",
+      "kind": "film"
+    },
+    {
+      "id": "auto-film-xLOHePSivRA",
+      "title": "Madımak",
+      "kind": "film"
+    },
+    {
+      "id": "auto-film-CcYhLhPO9qk",
+      "title": "Serseriler",
+      "kind": "film"
+    },
+    {
+      "id": "auto-film-lTkZ1xNcChk",
+      "title": "İKİZLER FİRARDA",
+      "kind": "film"
+    },
+    {
+      "id": "auto-film-yGdhIRv9Aa4",
+      "title": "AŞKA DAİR",
+      "kind": "film"
+    },
+    {
+      "id": "auto-film-Aik7GXVgG6g",
+      "title": "TERSİNE DÜNYA",
+      "kind": "film"
+    },
+    {
+      "id": "auto-film-haBIZwP7k1U",
+      "title": "ÇARK",
+      "kind": "film"
+    },
+    {
+      "id": "auto-film-3ql3PDAbTrE",
+      "title": "CAN KARDEŞLER",
+      "kind": "film"
+    },
+    {
+      "id": "auto-film-Vtmg_FUKHYQ",
+      "title": "BATAKLIKTA BİR GÜN",
+      "kind": "film"
+    },
+    {
+      "id": "auto-film-UxMLgUgnzvw",
+      "title": "BEKÇİLER KRALI",
+      "kind": "film"
+    },
+    {
+      "id": "auto-film-hzAnK4iDa3A",
+      "title": "BATAN GÜNEŞ",
+      "kind": "film"
+    },
+    {
+      "id": "auto-film-tvB76b9QSV0",
+      "title": "AH BİR ZENGİN OLSAM",
+      "kind": "film"
+    },
+    {
+      "id": "auto-film-k8Toz_fCaP4",
+      "title": "KATİP",
+      "kind": "film"
+    },
+    {
+      "id": "auto-film-rX-uL7MHEwA",
+      "title": "BİR NEFES SEVGİ",
+      "kind": "film"
+    },
+    {
+      "id": "auto-film-Jbm5EyYCpmo",
+      "title": "KINALI YAPINCAK",
+      "kind": "film"
+    },
+    {
+      "id": "auto-film-NExiPeJYzAY",
+      "title": "AĞIR KELEPÇE",
+      "kind": "film"
+    },
+    {
+      "id": "auto-film-UfIgnH1-W3k",
+      "title": "PSİŞİK",
+      "kind": "film"
+    },
+    {
+      "id": "auto-film-f7WTck7HPu8",
+      "title": "CEBERRUT",
+      "kind": "film"
+    }
+  ],
+  "devicePlaybackTested": false,
+  "note": "100 distinct new titles. Historical seasons not established for named cartoon archives are shown as the official episode list; unknown premiere years remain blank. Only accessible official full sources included; not a claim of exhaustive historical coverage."
+}

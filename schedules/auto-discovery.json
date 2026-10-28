@@ -82,6 +82,13 @@
       "channel": "UCEz0vUNtEPYyxhM-xKhQ4EQ",
       "url": "https://www.youtube.com/channel/UCEz0vUNtEPYyxhM-xKhQ4EQ/videos",
       "minimum_seconds": 3600
+    },
+    {
+      "name": "Anibera TV",
+      "channel": "UCLSGEI5UGhpwXzL-4sNYpzA",
+      "url": "https://www.youtube.com/channel/UCLSGEI5UGhpwXzL-4sNYpzA/videos",
+      "minimum_seconds": 3600,
+      "verification_source": "https://www.anibera.com/tr.htm"
     }
   ],
   "known_series": [
@@ -864,6 +871,206 @@
     {
       "id": "akilli-tavsan-momo",
       "title": "Akıllı Tavşan Momo"
+    },
+    {
+      "id": "aslan",
+      "title": "Aslan"
+    },
+    {
+      "id": "doru",
+      "title": "Doru"
+    },
+    {
+      "id": "cille",
+      "title": "Cille"
+    },
+    {
+      "id": "maysa-ve-bulut",
+      "title": "Maysa ve Bulut"
+    },
+    {
+      "id": "ege-ile-gaga",
+      "title": "Ege ile Gaga"
+    },
+    {
+      "id": "nasreddin-hoca-zaman-yolcusu",
+      "title": "Nasreddin Hoca Zaman Yolcusu"
+    },
+    {
+      "id": "kuzucuk",
+      "title": "Kuzucuk"
+    },
+    {
+      "id": "canim-kardesim",
+      "title": "Canım Kardeşim"
+    },
+    {
+      "id": "bulmaca-kulesi",
+      "title": "Bulmaca Kulesi"
+    },
+    {
+      "id": "elif-ve-arkadaslari",
+      "title": "Elif ve Arkadaşları"
+    },
+    {
+      "id": "kare",
+      "title": "Kare"
+    },
+    {
+      "id": "kucuk-hezarfen",
+      "title": "Küçük Hezarfen"
+    },
+    {
+      "id": "dede-korkut-hikayeleri",
+      "title": "Dede Korkut Hikayeleri"
+    },
+    {
+      "id": "kehribar-ile-boncuk",
+      "title": "Kehribar ile Boncuk"
+    },
+    {
+      "id": "z-takimi",
+      "title": "Z Takımı"
+    },
+    {
+      "id": "yade-yade",
+      "title": "Yade Yade"
+    },
+    {
+      "id": "pirdino",
+      "title": "Pırdino"
+    },
+    {
+      "id": "elif-in-dusleri",
+      "title": "Elif'in Düşleri"
+    },
+    {
+      "id": "erdem",
+      "title": "Erdem"
+    },
+    {
+      "id": "aybek",
+      "title": "Aybek"
+    },
+    {
+      "id": "sagun",
+      "title": "Sagun"
+    },
+    {
+      "id": "ser-a",
+      "title": "Ser-A"
+    },
+    {
+      "id": "yusufname",
+      "title": "Yusufname"
+    },
+    {
+      "id": "su-elcileri",
+      "title": "Su Elçileri"
+    },
+    {
+      "id": "kaptan-pengu-ve-arkadaslari",
+      "title": "Kaptan Pengu ve Arkadaşları"
+    },
+    {
+      "id": "leylek-kardes",
+      "title": "Leylek Kardeş"
+    },
+    {
+      "id": "ciciki",
+      "title": "Ciciki"
+    },
+    {
+      "id": "cilgin-orman",
+      "title": "Çılgın Orman"
+    },
+    {
+      "id": "biz-ikimiz",
+      "title": "Biz İkimiz"
+    },
+    {
+      "id": "kimin-tarlasi",
+      "title": "Kimin Tarlası"
+    },
+    {
+      "id": "64-kare-ulkesi",
+      "title": "64 Kare Ülkesi"
+    },
+    {
+      "id": "kiz-kulesi-masallari",
+      "title": "Kız Kulesi Masalları"
+    },
+    {
+      "id": "pak-ile-pirpir",
+      "title": "Pak ile Pırpır"
+    },
+    {
+      "id": "masal-kitabi",
+      "title": "Masal Kitabı"
+    },
+    {
+      "id": "mavi-dunya",
+      "title": "Mavi Dünya"
+    },
+    {
+      "id": "ozi",
+      "title": "Ozi"
+    },
+    {
+      "id": "anadolu-rock",
+      "title": "Anadolu Rock"
+    },
+    {
+      "id": "babamin-golgesi-1915",
+      "title": "Babamın Gölgesi 1915"
+    },
+    {
+      "id": "babamin-golgesi-1918",
+      "title": "Babamın Gölgesi 1918"
+    },
+    {
+      "id": "dedektif-reptir",
+      "title": "Dedektif Reptır"
+    },
+    {
+      "id": "dijital-tayfa",
+      "title": "Dijital Tayfa"
+    },
+    {
+      "id": "trafik-tayfa",
+      "title": "Trafik Tayfa"
+    },
+    {
+      "id": "ramazan-tayfa",
+      "title": "Ramazan Tayfa"
+    },
+    {
+      "id": "formulato",
+      "title": "Formulato"
+    },
+    {
+      "id": "veda-mektubu",
+      "title": "Veda Mektubu"
+    },
+    {
+      "id": "seref-meselesi",
+      "title": "Şeref Meselesi"
+    },
+    {
+      "id": "hayat-bilgisi",
+      "title": "Hayat Bilgisi"
+    },
+    {
+      "id": "bedel",
+      "title": "Bedel"
+    },
+    {
+      "id": "gecenin-ucunda",
+      "title": "Gecenin Ucunda"
+    },
+    {
+      "id": "fatih-harbiye",
+      "title": "Fatih Harbiye"
     }
   ]
 }
