@@ -77,6 +77,8 @@ jobs:
       - uses: actions/upload-pages-artifact@v3
         with:
           path: public-updates
+      - name: Allow Pages artifact indexing
+        run: sleep 15
       - name: Publish public JSON catalog
         id: deployment
         uses: actions/deploy-pages@v4
