@@ -302,5 +302,35 @@
     "9": "https://www.startv.com.tr/dizi/cirkin/bolumler/9-bolum",
     "10": "https://www.startv.com.tr/dizi/cirkin/bolumler/10-bolum",
     "11": "https://www.startv.com.tr/dizi/cirkin/bolumler/11-bolum"
+  },
+  "veda-mektubu": {
+    "1": "https://www.kanald.com.tr/embed/63fcb49f44539503e8c0afbf?autoplay=true"
+  },
+  "uc-kiz-kardes": {
+    "1": "https://www.kanald.com.tr/embed/6214d68d44539525a81dbfc2?autoplay=true"
+  },
+  "o-kiz": {
+    "1": "https://www.kanald.com.tr/embed/632b1edeebc8303660f23473?autoplay=true"
+  },
+  "donence": {
+    "1": "https://www.kanald.com.tr/embed/64a424b6ebc8301e0c927bd2?autoplay=true"
+  },
+  "tas-kagit-makas": {
+    "1": "https://www.kanald.com.tr/embed/65df1a1ced15291e79f80206?autoplay=true"
+  },
+  "calikusu": {
+    "1": "https://www.kanald.com.tr/embed/5465ef4bcf45af1064b7150d?autoplay=true"
+  },
+  "baht-oyunu": {
+    "1": "https://www.kanald.com.tr/embed/60c8b498ebc8302984c23ada?autoplay=true"
+  },
+  "cati-kati-ask": {
+    "1": "https://www.kanald.com.tr/embed/5f06f49e933ccb1d608ac5ae?autoplay=true"
+  },
+  "ask-i-memnu": {
+    "1": "https://www.kanald.com.tr/embed/5465ef1bcf45af1064b7112b?autoplay=true"
+  },
+  "seversin": {
+    "1": "https://www.kanald.com.tr/embed/629784db933ccb0868039046?autoplay=true"
   }
 }
